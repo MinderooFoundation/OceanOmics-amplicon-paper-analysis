@@ -1,0 +1,283 @@
+Sample ID,Sites,Atoll,Environment,Replicate ID,Latitude,Longitude,Site depth (m),Year,Month,Day,Time Start,Depth Temperature C,Sampling Method,Filtration Device,Volume Filtered,Comments,Field Personnel,Extraction Tube ID,Digestion Data,Extraction Date
+RS1_ME_S1_1,ME_S1,Mermaid,Slope,1,-17.06570848,119.6496657,5,2021,August,7,11:02,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",1,8/08/2021,9/08/2021
+RS1_ME_S1_2,ME_S1,Mermaid,Slope,2,-17.06570848,119.6496657,5,2021,August,7,11:02,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",2,8/08/2021,9/08/2021
+RS1_ME_S1_3,ME_S1,Mermaid,Slope,3,-17.06570848,119.6496657,5,2021,August,7,11:02,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",3,8/08/2021,9/08/2021
+RS1_ME_S1_4,ME_S1,Mermaid,Slope,4,-17.06570848,119.6496657,5,2021,August,7,11:02,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",4,8/08/2021,9/08/2021
+RS1_ME_S1_5,ME_S1,Mermaid,Slope,5,-17.06570848,119.6496657,5,2021,August,7,11:02,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",5,8/08/2021,9/08/2021
+RS1_ME_S1_WC,ME_S1,Mermaid,Slope,WC,NA,NA,NA,2021,August,7,,,,Grover pump,1,Water Control,,W 1-5,8/08/2021,9/08/2021
+RS1_ME_S2_1,ME_S2,Mermaid,Slope,1,-17.06847245,119.6527131,3.2,2021,August,7,11:44,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",6,8/08/2021,9/08/2021
+RS1_ME_S2_2,ME_S2,Mermaid,Slope,2,-17.06847245,119.6527131,3.2,2021,August,7,11:44,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",7,8/08/2021,9/08/2021
+RS1_ME_S2_3,ME_S2,Mermaid,Slope,3,-17.06847245,119.6527131,3.2,2021,August,7,11:44,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",8,8/08/2021,9/08/2021
+RS1_ME_S2_4,ME_S2,Mermaid,Slope,4,-17.06847245,119.6527131,3.2,2021,August,7,11:44,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",9,8/08/2021,9/08/2021
+RS1_ME_S2_5,ME_S2,Mermaid,Slope,5,-17.06847245,119.6527131,3.2,2021,August,7,11:44,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",10,8/08/2021,9/08/2021
+RS1_ME_S2_WC,ME_S2,Mermaid,Slope,WC,NA,NA,NA,2021,August,7,,,,Grover pump,1,Water Control,,W 6-10,8/08/2021,9/08/2021
+RS1_ME_S3_1,ME_S3,Mermaid,Slope,1,-17.1573862,119.6072357,7,2021,August,7,12:48,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",11,8/08/2021,9/08/2021
+RS1_ME_S3_2,ME_S3,Mermaid,Slope,2,-17.1573862,119.6072357,7,2021,August,7,12:48,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",12,8/08/2021,9/08/2021
+RS1_ME_S3_3,ME_S3,Mermaid,Slope,3,-17.1573862,119.6072357,7,2021,August,7,12:48,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",13,8/08/2021,9/08/2021
+RS1_ME_S3_4,ME_S3,Mermaid,Slope,4,-17.1573862,119.6072357,7,2021,August,7,12:48,25,"Niskin sampler, manual",Grover pump,1,Dropped on floor,"MC, Loz, Liv, Ben",14,8/08/2021,9/08/2021
+RS1_ME_S3_5,ME_S3,Mermaid,Slope,5,-17.1573862,119.6072357,7,2021,August,7,12:48,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",15,8/08/2021,9/08/2021
+RS1_ME_S3_WC,ME_S3,Mermaid,Slope,WC,NA,NA,NA,2021,August,7,,,,Grover pump,1,Water Control,,W 11-15,8/08/2021,9/08/2021
+RS1_ME_S4_1,ME_S4,Mermaid,Slope,1,-17.10322946,119.5885093,6.6,2021,August,7,13:28,25,"Niskin sampler, manual",Grover pump,1,Half dropped on floor - in separate tube,"MC, Loz, Liv, Ben",16,8/08/2021,9/08/2021
+RS1_ME_S4_1(2),ME_S4,Mermaid,Slope,1(2),-17.10322946,119.5885093,6.6,2021,August,7,13:28,25,"Niskin sampler, manual",Grover pump,1,Bad half,"MC, Loz, Liv, Ben",16 Bad half,8/08/2021,9/08/2021
+RS1_ME_S4_2,ME_S4,Mermaid,Slope,2,-17.10322946,119.5885093,6.6,2021,August,7,13:28,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",17,8/08/2021,9/08/2021
+RS1_ME_S4_3,ME_S4,Mermaid,Slope,3,-17.10322946,119.5885093,6.6,2021,August,7,13:28,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",18,8/08/2021,9/08/2021
+RS1_ME_S4_4,ME_S4,Mermaid,Slope,4,-17.10322946,119.5885093,6.6,2021,August,7,13:28,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",19,8/08/2021,9/08/2021
+RS1_ME_S4_5,ME_S4,Mermaid,Slope,5,-17.10322946,119.5885093,6.6,2021,August,7,13:28,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",20,8/08/2021,9/08/2021
+RS1_ME_S4_WC,ME_S4,Mermaid,Slope,WC,NA,NA,NA,2021,August,7,,,,Grover pump,1,Water Control,,W 16-20,8/08/2021,9/08/2021
+RS1_ME_L3_1,ME_L3,Mermaid,Lagoon,1,-17.08431729,119.630601,15.7,2021,August,7,8:49,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",219,8/08/2021,9/08/2021
+RS1_ME_L3_2,ME_L3,Mermaid,Lagoon,2,-17.08431729,119.630601,15.7,2021,August,7,8:49,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",220,8/08/2021,9/08/2021
+RS1_ME_L3_3,ME_L3,Mermaid,Lagoon,3,-17.08431729,119.630601,15.7,2021,August,7,8:49,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",221,8/08/2021,9/08/2021
+RS1_ME_L3_4,ME_L3,Mermaid,Lagoon,4,-17.08431729,119.630601,15.7,2021,August,7,8:49,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",222,8/08/2021,9/08/2021
+RS1_ME_L3_5,ME_L3,Mermaid,Lagoon,5,-17.08431729,119.630601,15.7,2021,August,7,8:49,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",223,8/08/2021,9/08/2021
+RS1_ME_L3_WC,ME_L3,Mermaid,Lagoon,WC,NA,NA,NA,2021,August,7,,,,Grover pump,1,Water Control,,224,8/08/2021,9/08/2021
+RS1_ME_L1_1,ME_L1,Mermaid,Lagoon,1,-17.1146375,119.6349013,4.7,2021,August,7,9:24,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",225,8/08/2021,9/08/2021
+RS1_ME_L1_2,ME_L1,Mermaid,Lagoon,2,-17.1146375,119.6349013,4.7,2021,August,7,9:24,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",226,8/08/2021,9/08/2021
+RS1_ME_L1_3,ME_L1,Mermaid,Lagoon,3,-17.1146375,119.6349013,4.7,2021,August,7,9:24,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",227,8/08/2021,9/08/2021
+RS1_ME_L1_4,ME_L1,Mermaid,Lagoon,4,-17.1146375,119.6349013,4.7,2021,August,7,9:24,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",228,8/08/2021,9/08/2021
+RS1_ME_L1_5,ME_L1,Mermaid,Lagoon,5,-17.1146375,119.6349013,4.7,2021,August,7,9:24,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",229,8/08/2021,9/08/2021
+RS1_ME_L1_WC,ME_L1,Mermaid,Lagoon,WC,NA,NA,NA,2021,August,7,,,,Grover pump,1,Water Control,,230,8/08/2021,9/08/2021
+RS1_ME_L2_1,ME_L2,Mermaid,Lagoon,1,-17.13278414,119.6336064,10.8,2021,August,7,9:46,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",231,8/08/2021,9/08/2021
+RS1_ME_L2_2,ME_L2,Mermaid,Lagoon,2,-17.13278414,119.6336064,10.8,2021,August,7,9:46,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",232,8/08/2021,9/08/2021
+RS1_ME_L2_3,ME_L2,Mermaid,Lagoon,3,-17.13278414,119.6336064,10.8,2021,August,7,9:46,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",233,8/08/2021,9/08/2021
+RS1_ME_L2_4,ME_L2,Mermaid,Lagoon,4,-17.13278414,119.6336064,10.8,2021,August,7,9:46,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",234,8/08/2021,9/08/2021
+RS1_ME_L2_5,ME_L2,Mermaid,Lagoon,5,-17.13278414,119.6336064,10.8,2021,August,7,9:46,25,"Niskin sampler, manual",Grover pump,1,,"MC, Loz, Liv, Ben",235,8/08/2021,9/08/2021
+RS1_ME_L2_WC,ME_L2,Mermaid,Lagoon,WC,NA,NA,NA,2021,August,7,,,,Grover pump,1,Water Control,,236,8/08/2021,9/08/2021
+RS1_ME_BC,ME_BC,Mermaid,NA,BC,NA,NA,NA,2021,August,7,,,,Grover pump,1,Bleach Control,,237,8/08/2021,9/08/2021
+RS1_CL_L2_1,CL_L2,Clerke,Lagoon,1,-17.31169674,119.3677224,6,2021,August,8,8:19,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",21,9/08/2021,9/08/2021
+RS1_CL_L2_2,CL_L2,Clerke,Lagoon,2,-17.31169674,119.3677224,6,2021,August,8,8:19,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",22,9/08/2021,9/08/2021
+RS1_CL_L2_3,CL_L2,Clerke,Lagoon,3,-17.31169674,119.3677224,6,2021,August,8,8:19,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",23,9/08/2021,9/08/2021
+RS1_CL_L2_4,CL_L2,Clerke,Lagoon,4,-17.31169674,119.3677224,6,2021,August,8,8:19,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",24,9/08/2021,9/08/2021
+RS1_CL_L2_5,CL_L2,Clerke,Lagoon,5,-17.31169674,119.3677224,6,2021,August,8,8:19,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",25,9/08/2021,9/08/2021
+RS1_CL_L2_WC,CL_L2,Clerke,Lagoon,WC,NA,NA,NA,2021,August,8,,,,Grover pump,1,Water Control,,26,9/08/2021,9/08/2021
+RS1_CL_L1_1,CL_L1,Clerke,Lagoon,1,-17.30695225,119.3704042,5,2021,August,8,8:47,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",27,9/08/2021,9/08/2021
+RS1_CL_L1_2,CL_L1,Clerke,Lagoon,2,-17.30695225,119.3704042,5,2021,August,8,8:47,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",28,9/08/2021,9/08/2021
+RS1_CL_L1_3,CL_L1,Clerke,Lagoon,3,-17.30695225,119.3704042,5,2021,August,8,8:47,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",29,9/08/2021,9/08/2021
+RS1_CL_L1_4,CL_L1,Clerke,Lagoon,4,-17.30695225,119.3704042,5,2021,August,8,8:47,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",30,9/08/2021,9/08/2021
+RS1_CL_L1_5,CL_L1,Clerke,Lagoon,5,-17.30695225,119.3704042,5,2021,August,8,8:47,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",31,9/08/2021,9/08/2021
+RS1_CL_L1_WC,CL_L1,Clerke,Lagoon,WC,NA,NA,NA,2021,August,8,,,,Grover pump,1,Water Control,,32,9/08/2021,9/08/2021
+RS1_CL_L3_1,CL_L3,Clerke,Lagoon,1,-17.28948608,119.3604496,13.5,2021,August,8,9:39,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",33,9/08/2021,9/08/2021
+RS1_CL_L3_2,CL_L3,Clerke,Lagoon,2,-17.28948608,119.3604496,13.5,2021,August,8,9:39,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",34,9/08/2021,9/08/2021
+RS1_CL_L3_3,CL_L3,Clerke,Lagoon,3,-17.28948608,119.3604496,13.5,2021,August,8,9:39,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",35,9/08/2021,9/08/2021
+RS1_CL_L3_4,CL_L3,Clerke,Lagoon,4,-17.28948608,119.3604496,13.5,2021,August,8,9:39,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",36,9/08/2021,9/08/2021
+RS1_CL_L3_5,CL_L3,Clerke,Lagoon,5,-17.28948608,119.3604496,13.5,2021,August,8,9:39,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",37,9/08/2021,9/08/2021
+RS1_CL_L3_WC,CL_L3,Clerke,Lagoon,WC,NA,NA,NA,2021,August,8,,,,Grover pump,1,Water Control,,38,9/08/2021,9/08/2021
+RS1_CL_S1_1,CL_S1,Clerke,Slope,1,-17.28442932,119.3763749,4.5,2021,August,8,9:58,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",39,9/08/2021,9/08/2021
+RS1_CL_S1_2,CL_S1,Clerke,Slope,2,-17.28442932,119.3763749,4.5,2021,August,8,9:58,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",40,9/08/2021,9/08/2021
+RS1_CL_S1_3,CL_S1,Clerke,Slope,3,-17.28442932,119.3763749,4.5,2021,August,8,9:58,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",41,9/08/2021,9/08/2021
+RS1_CL_S1_4,CL_S1,Clerke,Slope,4,-17.28442932,119.3763749,4.5,2021,August,8,9:58,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",42,9/08/2021,9/08/2021
+RS1_CL_S1_5,CL_S1,Clerke,Slope,5,-17.28442932,119.3763749,4.5,2021,August,8,9:58,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",43,9/08/2021,9/08/2021
+RS1_CL_S1_WC,CL_S1,Clerke,Slope,WC,NA,NA,NA,2021,August,8,,,,Grover pump,1,Water Control,,44,9/08/2021,9/08/2021
+RS1_CL_S2_1,CL_S2,Clerke,Slope,1,-17.35582466,119.3841723,15,2021,August,8,14:04,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",45,9/08/2021,9/08/2021
+RS1_CL_S2_2,CL_S2,Clerke,Slope,2,-17.35582466,119.3841723,15,2021,August,8,14:04,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",46,9/08/2021,9/08/2021
+RS1_CL_S2_3,CL_S2,Clerke,Slope,3,-17.35582466,119.3841723,15,2021,August,8,14:04,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",47,9/08/2021,9/08/2021
+RS1_CL_S2_4,CL_S2,Clerke,Slope,4,-17.35582466,119.3841723,15,2021,August,8,14:04,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",48,9/08/2021,9/08/2021
+RS1_CL_S2_5,CL_S2,Clerke,Slope,5,-17.35582466,119.3841723,15,2021,August,8,14:04,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",49,9/08/2021,9/08/2021
+RS1_CL_S2_WC,CL_S2,Clerke,Slope,WC,NA,NA,NA,2021,August,8,,,,Grover pump,1,Water Control,,50,9/08/2021,9/08/2021
+RS1_CL_S4_1,CL_S4,Clerke,Slope,1,-17.3625893,119.3187222,14.8,2021,August,8,14:59,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",51,9/08/2021,9/08/2021
+RS1_CL_S4_2,CL_S4,Clerke,Slope,2,-17.3625893,119.3187222,14.8,2021,August,8,14:59,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",52,9/08/2021,9/08/2021
+RS1_CL_S4_3,CL_S4,Clerke,Slope,3,-17.3625893,119.3187222,14.8,2021,August,8,14:59,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",53,9/08/2021,9/08/2021
+RS1_CL_S4_4,CL_S4,Clerke,Slope,4,-17.3625893,119.3187222,14.8,2021,August,8,14:59,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",54,9/08/2021,9/08/2021
+RS1_CL_S4_5,CL_S4,Clerke,Slope,5,-17.3625893,119.3187222,14.8,2021,August,8,14:59,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",55,9/08/2021,9/08/2021
+RS1_CL_S4_WC,CL_S4,Clerke,Slope,WC,NA,NA,NA,2021,August,8,,,,Grover pump,1,Water Control,,56,9/08/2021,9/08/2021
+RS1_CL_S3_1,CL_S3,Clerke,Slope,1,-17.30572505,119.3126562,5.9,2021,August,8,15:59,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",57,9/08/2021,9/08/2021
+RS1_CL_S3_2,CL_S3,Clerke,Slope,2,-17.30572505,119.3126562,5.9,2021,August,8,15:59,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",58,9/08/2021,9/08/2021
+RS1_CL_S3_3,CL_S3,Clerke,Slope,3,-17.30572505,119.3126562,5.9,2021,August,8,15:59,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",59,9/08/2021,9/08/2021
+RS1_CL_S3_4,CL_S3,Clerke,Slope,4,-17.30572505,119.3126562,5.9,2021,August,8,15:59,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",60,9/08/2021,9/08/2021
+RS1_CL_S3_5,CL_S3,Clerke,Slope,5,-17.30572505,119.3126562,5.9,2021,August,8,15:59,25.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Liv, Bree, Taylor",61,9/08/2021,9/08/2021
+RS1_CL_S3_WC,CL_S3,Clerke,Slope,WC,NA,NA,NA,2021,August,8,,,,Grover pump,1,Water Control,,62,9/08/2021,9/08/2021
+RS1_CL_BC,CL_BC,Clerke,NA,BC,NA,NA,NA,2021,August,8,,,,Grover pump,1,Bleach Control,,NA,9/08/2021,9/08/2021
+RS1_IM_S2_1,IM_S2,Imperious,Slope,1,-17.63722541,118.9622237,9.5,2021,August,9,8:43,2.55,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",63,10/08/2021,10/08/2021
+RS1_IM_S2_2,IM_S2,Imperious,Slope,2,-17.63722541,118.9622237,9.5,2021,August,9,8:43,2.55,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",64,10/08/2021,10/08/2021
+RS1_IM_S2_3,IM_S2,Imperious,Slope,3,-17.63722541,118.9622237,9.5,2021,August,9,8:43,2.55,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",65,10/08/2021,10/08/2021
+RS1_IM_S2_4,IM_S2,Imperious,Slope,4,-17.63722541,118.9622237,9.5,2021,August,9,8:43,2.55,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",66,10/08/2021,10/08/2021
+RS1_IM_S2_5,IM_S2,Imperious,Slope,5,-17.63722541,118.9622237,9.5,2021,August,9,8:43,2.55,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",67,10/08/2021,10/08/2021
+RS1_IM_S2_WC,IM_S2,Imperious,Slope,WC,NA,NA,NA,2021,August,9,,,,Grover pump,1,Water Control,,68,10/08/2021,10/08/2021
+RS1_IM_S1_1,IM_S1,Imperious,Slope,1,-17.54814086,118.9734555,5.5,2021,August,9,9:50,25.8,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",69,10/08/2021,10/08/2021
+RS1_IM_S1_2,IM_S1,Imperious,Slope,2,-17.54814086,118.9734555,5.5,2021,August,9,9:50,25.8,"Niskin sampler, manual",Grover pump,1,"Dropped bottle, spilt 100mL","Taylor , Loz, Jess, Ben, Pedro",70,10/08/2021,10/08/2021
+RS1_IM_S1_3,IM_S1,Imperious,Slope,3,-17.54814086,118.9734555,5.5,2021,August,9,9:50,25.8,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",71,10/08/2021,10/08/2021
+RS1_IM_S1_4,IM_S1,Imperious,Slope,4,-17.54814086,118.9734555,5.5,2021,August,9,9:50,25.8,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",72,10/08/2021,10/08/2021
+RS1_IM_S1_5,IM_S1,Imperious,Slope,5,-17.54814086,118.9734555,5.5,2021,August,9,9:50,25.8,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",73,10/08/2021,10/08/2021
+RS1_IM_S1_WC,IM_S1,Imperious,Slope,WC,NA,NA,NA,2021,August,9,,,,Grover pump,1,Water Control,,74,10/08/2021,10/08/2021
+RS1_IM_L1_1,IM_L1,Imperious,Lagoon,1,-17.55440093,118.9584341,14,2021,August,9,10:33,25.5,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",75,10/08/2021,10/08/2021
+RS1_IM_L1_2,IM_L1,Imperious,Lagoon,2,-17.55440093,118.9584341,14,2021,August,9,10:33,25.5,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",76,10/08/2021,10/08/2021
+RS1_IM_L1_3,IM_L1,Imperious,Lagoon,3,-17.55440093,118.9584341,14,2021,August,9,10:33,25.5,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",77,10/08/2021,10/08/2021
+RS1_IM_L1_4,IM_L1,Imperious,Lagoon,4,-17.55440093,118.9584341,14,2021,August,9,10:33,25.5,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",78,10/08/2021,10/08/2021
+RS1_IM_L1_5,IM_L1,Imperious,Lagoon,5,-17.55440093,118.9584341,14,2021,August,9,10:33,25.5,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",79,10/08/2021,10/08/2021
+RS1_IM_L1_WC,IM_L1,Imperious,Lagoon,WC,NA,NA,NA,2021,August,9,,,,Grover pump,1,Water Control,,80,10/08/2021,10/08/2021
+RS1_IM_L2_1,IM_L2,Imperious,Lagoon,1,-17.56100248,118.9408629,5,2021,August,9,11:24,25,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",81,10/08/2021,10/08/2021
+RS1_IM_L2_2,IM_L2,Imperious,Lagoon,2,-17.56100248,118.9408629,5,2021,August,9,11:24,25,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",82,10/08/2021,10/08/2021
+RS1_IM_L2_3,IM_L2,Imperious,Lagoon,3,-17.56100248,118.9408629,5,2021,August,9,11:24,25,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",83,10/08/2021,10/08/2021
+RS1_IM_L2_4,IM_L2,Imperious,Lagoon,4,-17.56100248,118.9408629,5,2021,August,9,11:24,25,"Niskin sampler, manual",Grover pump,1,Filter paper tore after 800mL,"Taylor , Loz, Jess, Ben, Pedro",84,10/08/2021,10/08/2021
+RS1_IM_L2_5,IM_L2,Imperious,Lagoon,5,-17.56100248,118.9408629,5,2021,August,9,11:24,25,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",85,10/08/2021,10/08/2021
+RS1_IM_L2_WC,IM_L2,Imperious,Lagoon,WC,NA,NA,NA,2021,August,9,,,,Grover pump,1,Water Control,,86,10/08/2021,10/08/2021
+RS1_IM_L3_1,IM_L3,Imperious,Lagoon,1,-17.52905406,118.9397589,2.3,2021,August,9,11:53,25.5,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",87,10/08/2021,10/08/2021
+RS1_IM_L3_2,IM_L3,Imperious,Lagoon,2,-17.52905406,118.9397589,2.3,2021,August,9,11:53,25.5,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",88,10/08/2021,10/08/2021
+RS1_IM_L3_3,IM_L3,Imperious,Lagoon,3,-17.52905406,118.9397589,2.3,2021,August,9,11:53,25.5,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",89,10/08/2021,10/08/2021
+RS1_IM_L3_4,IM_L3,Imperious,Lagoon,4,-17.52905406,118.9397589,2.3,2021,August,9,11:53,25.5,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",90,10/08/2021,10/08/2021
+RS1_IM_L3_5,IM_L3,Imperious,Lagoon,5,-17.52905406,118.9397589,2.3,2021,August,9,11:53,25.5,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",91,10/08/2021,10/08/2021
+RS1_IM_L3_WC,IM_L3,Imperious,Lagoon,WC,NA,NA,NA,2021,August,9,,,,Grover pump,1,Water Control,", ",92,10/08/2021,10/08/2021
+RS1_IM_S3_1,IM_S3,Imperious,Slope,1,-17.53464374,118.9191039,7,2021,August,9,13:30,26,"Niskin sampler, manual",Grover pump,1,Lost 100mL on spill,"Taylor , Loz, Jess, Ben, Pedro",93,10/08/2021,10/08/2021
+RS1_IM_S3_2,IM_S3,Imperious,Slope,2,-17.53464374,118.9191039,7,2021,August,9,13:30,26,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",94,10/08/2021,10/08/2021
+RS1_IM_S3_3,IM_S3,Imperious,Slope,3,-17.53464374,118.9191039,7,2021,August,9,13:30,26,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",95,10/08/2021,10/08/2021
+RS1_IM_S3_4,IM_S3,Imperious,Slope,4,-17.53464374,118.9191039,7,2021,August,9,13:30,26,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",96,10/08/2021,10/08/2021
+RS1_IM_S3_5,IM_S3,Imperious,Slope,5,-17.53464374,118.9191039,7,2021,August,9,13:30,26,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",97,10/08/2021,10/08/2021
+RS1_IM_S3_WC,IM_S3,Imperious,Slope,WC,NA,NA,NA,2021,August,9,,,,Grover pump,1,Water Control,,98,10/08/2021,10/08/2021
+RS1_IM_S4_1,IM_S4,Imperious,Slope,1,-17.62048902,118.8892908,NA,2021,August,9,14:09,27,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",99,10/08/2021,10/08/2021
+RS1_IM_S4_2,IM_S4,Imperious,Slope,2,-17.62048902,118.8892908,NA,2021,August,9,14:09,27,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",100,10/08/2021,10/08/2021
+RS1_IM_S4_3,IM_S4,Imperious,Slope,3,-17.62048902,118.8892908,NA,2021,August,9,14:09,27,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",101,10/08/2021,10/08/2021
+RS1_IM_S4_4,IM_S4,Imperious,Slope,4,-17.62048902,118.8892908,NA,2021,August,9,14:09,27,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",102,10/08/2021,10/08/2021
+RS1_IM_S4_5,IM_S4,Imperious,Slope,5,-17.62048902,118.8892908,NA,2021,August,9,14:09,27,"Niskin sampler, manual",Grover pump,1,,"Taylor , Loz, Jess, Ben, Pedro",103,10/08/2021,10/08/2021
+RS1_IM_S4_WC,IM_S4,Imperious,Slope,WC,NA,NA,NA,2021,August,9,,,,Grover pump,1,Water Control,,104,10/08/2021,10/08/2021
+RS1_IM_BC,IM_BC,Imperious,NA,BC,NA,NA,NA,2021,August,9,,,,Grover pump,1,Bleach Control,,NA,10/08/2021,10/08/2021
+MT1_1_1,1,Montebellos,NA,1,-20.39472526,115.5413311,5.5,2021,August,12,8:02,21.75,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",106,12/08/2021,13/08/2021
+MT1_1_2,1,Montebellos,NA,2,-20.39472526,115.5413311,5.5,2021,August,12,8:02,21.75,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",107,12/08/2021,13/08/2021
+MT1_1_3,1,Montebellos,NA,3,-20.39472526,115.5413311,5.5,2021,August,12,8:02,21.75,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",108,12/08/2021,13/08/2021
+MT1_1_4,1,Montebellos,NA,4,-20.39472526,115.5413311,5.5,2021,August,12,8:02,21.75,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",109,12/08/2021,13/08/2021
+MT1_1_5,1,Montebellos,NA,5,-20.39472526,115.5413311,5.5,2021,August,12,8:02,21.75,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",110,12/08/2021,13/08/2021
+MT1_1_WC,1,Montebellos,NA,WC,NA,NA,NA,2021,August,12,,,,Grover pump,1,Water Control,,111,12/08/2021,13/08/2021
+MT1_2_1,2,Montebellos,NA,1,-20.40600726,115.5128194,3.5,2021,August,12,8:34,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",112,12/08/2021,13/08/2021
+MT1_2_2,2,Montebellos,NA,2,-20.40600726,115.5128194,3.5,2021,August,12,8:34,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",113,12/08/2021,13/08/2021
+MT1_2_3,2,Montebellos,NA,3,-20.40600726,115.5128194,3.5,2021,August,12,8:34,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",114,12/08/2021,13/08/2021
+MT1_2_4,2,Montebellos,NA,4,-20.40600726,115.5128194,3.5,2021,August,12,8:34,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",115,12/08/2021,13/08/2021
+MT1_2_5,2,Montebellos,NA,5,-20.40600726,115.5128194,3.5,2021,August,12,8:34,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",116,12/08/2021,13/08/2021
+MT1_2_WC,2,Montebellos,NA,WC,NA,NA,NA,2021,August,12,,,,Grover pump,1,Water Control,,117,12/08/2021,13/08/2021
+MT1_3_1,3,Montebellos,NA,1,-20.44709735,115.5038426,3.5,2021,August,12,9:21,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",118,12/08/2021,13/08/2021
+MT1_3_2,3,Montebellos,NA,2,-20.44709735,115.5038426,3.5,2021,August,12,9:21,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",119,12/08/2021,13/08/2021
+MT1_3_3,3,Montebellos,NA,3,-20.44709735,115.5038426,3.5,2021,August,12,9:21,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",120,12/08/2021,13/08/2021
+MT1_3_4,3,Montebellos,NA,4,-20.44709735,115.5038426,3.5,2021,August,12,9:21,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",121,12/08/2021,13/08/2021
+MT1_3_5,3,Montebellos,NA,5,-20.44709735,115.5038426,3.5,2021,August,12,9:21,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",122,12/08/2021,13/08/2021
+MT1_3_WC,3,Montebellos,NA,WC,NA,NA,NA,2021,August,12,,,,Grover pump,1,Water Control,,123,12/08/2021,13/08/2021
+MT1_4_1,4,Montebellos,NA,1,-20.45274104,115.4789704,6,2021,August,12,10:03,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",124,12/08/2021,13/08/2021
+MT1_4_2,4,Montebellos,NA,2,-20.45274104,115.4789704,6,2021,August,12,10:03,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",125,12/08/2021,13/08/2021
+MT1_4_3,4,Montebellos,NA,3,-20.45274104,115.4789704,6,2021,August,12,10:03,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",126,12/08/2021,13/08/2021
+MT1_4_4,4,Montebellos,NA,4,-20.45274104,115.4789704,6,2021,August,12,10:03,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",127,12/08/2021,13/08/2021
+MT1_4_5,4,Montebellos,NA,5,-20.45274104,115.4789704,6,2021,August,12,10:03,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",128,12/08/2021,13/08/2021
+MT1_4_WC,4,Montebellos,NA,WC,NA,NA,NA,2021,August,12,,,,Grover pump,1,Water Control,,129,12/08/2021,13/08/2021
+MT1_5_1,5,Montebellos,NA,1,-20.51034339,115.4747403,9.5,2021,August,12,10:56,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",130,12/08/2021,13/08/2021
+MT1_5_2,5,Montebellos,NA,2,-20.51034339,115.4747403,9.5,2021,August,12,10:56,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",131,12/08/2021,13/08/2021
+MT1_5_3,5,Montebellos,NA,3,-20.51034339,115.4747403,9.5,2021,August,12,10:56,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",132,12/08/2021,13/08/2021
+MT1_5_4,5,Montebellos,NA,4,-20.51034339,115.4747403,9.5,2021,August,12,10:56,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",133,12/08/2021,13/08/2021
+MT1_5_5,5,Montebellos,NA,5,-20.51034339,115.4747403,9.5,2021,August,12,10:56,22,"Niskin sampler, manual",Grover pump,1,,"MC, Nos, Dave, Taylor, Marcelle",134,12/08/2021,13/08/2021
+MT1_5_WC,5,Montebellos,NA,WC,NA,NA,NA,2021,August,12,,,,Grover pump,1,Water Control,,135,12/08/2021,13/08/2021
+MT1_BC_1,NA,Montebellos,NA,BC-1,-20.32061848,115.4812802,42,2021,August,12,7:52,23,"Niskin sampler, manual",Grover pump,1,Bleach Control,,BC4,12/08/2021,13/08/2021
+MT1_6_1,6,Montebellos,NA,1,-20.32061848,115.4812802,42,2021,August,13,7:52,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",136,14/08/2021,15/08/2021
+MT1_6_2,6,Montebellos,NA,2,-20.32061848,115.4812802,42,2021,August,13,7:52,23,"Niskin sampler, manual",Grover pump,1,"Filter tore, requiring new filter, both in digest","MC, Pedro, Lily, Liv, Taylor, Loz",137,14/08/2021,15/08/2021
+MT1_6_3,6,Montebellos,NA,3,-20.32061848,115.4812802,42,2021,August,13,7:52,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",138,14/08/2021,15/08/2021
+MT1_6_4,6,Montebellos,NA,4,-20.32061848,115.4812802,42,2021,August,13,7:52,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",139,14/08/2021,15/08/2021
+MT1_6_5,6,Montebellos,NA,5,-20.32061848,115.4812802,42,2021,August,13,7:52,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",140,14/08/2021,15/08/2021
+MT1_6_WC,6,Montebellos,NA,WC,NA,NA,NA,2021,August,13,,,,Grover pump,1,Water Control,,141,14/08/2021,15/08/2021
+MT1_7_1,7,Montebellos,NA,1,-20.33735937,115.4602629,39,2021,August,13,8:29,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",142,14/08/2021,15/08/2021
+MT1_7_2,7,Montebellos,NA,2,-20.33735937,115.4602629,39,2021,August,13,8:29,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",143,14/08/2021,15/08/2021
+MT1_7_3,7,Montebellos,NA,3,-20.33735937,115.4602629,39,2021,August,13,8:29,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",144,14/08/2021,15/08/2021
+MT1_7_4,7,Montebellos,NA,4,-20.33735937,115.4602629,39,2021,August,13,8:29,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",145,14/08/2021,15/08/2021
+MT1_7_5,7,Montebellos,NA,5,-20.33735937,115.4602629,39,2021,August,13,8:29,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",146,14/08/2021,15/08/2021
+MT1_7_WC,7,Montebellos,NA,WC,NA,NA,NA,2021,August,13,,,,Grover pump,1,Water Control,,147,14/08/2021,15/08/2021
+MT1_8_1,8,Montebellos,NA,1,-20.34806955,115.4745536,32,2021,August,13,9:05,22.7,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",148,14/08/2021,15/08/2021
+MT1_8_2,8,Montebellos,NA,2,-20.34806955,115.4745536,32,2021,August,13,9:05,22.7,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",149,14/08/2021,15/08/2021
+MT1_8_3,8,Montebellos,NA,3,-20.34806955,115.4745536,32,2021,August,13,9:05,22.7,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",150,14/08/2021,15/08/2021
+MT1_8_4,8,Montebellos,NA,4,-20.34806955,115.4745536,32,2021,August,13,9:05,22.7,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",151,14/08/2021,15/08/2021
+MT1_8_5,8,Montebellos,NA,5,-20.34806955,115.4745536,32,2021,August,13,9:05,22.7,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",152,14/08/2021,15/08/2021
+MT1_8_WC,8,Montebellos,NA,WC,NA,NA,NA,2021,August,13,,,,Grover pump,1,Water Control,,153,14/08/2021,15/08/2021
+MT1_9_1,9,Montebellos,NA,1,-20.39320199,115.4805701,17,2021,August,13,10:12,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",154,14/08/2021,15/08/2021
+MT1_9_2,9,Montebellos,NA,2,-20.39320199,115.4805701,17,2021,August,13,10:12,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",155,14/08/2021,15/08/2021
+MT1_9_3,9,Montebellos,NA,3,-20.39320199,115.4805701,17,2021,August,13,10:12,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",156,14/08/2021,15/08/2021
+MT1_9_4,9,Montebellos,NA,4,-20.39320199,115.4805701,17,2021,August,13,10:12,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",157,14/08/2021,15/08/2021
+MT1_9_5,9,Montebellos,NA,5,-20.39320199,115.4805701,17,2021,August,13,10:12,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",158,14/08/2021,15/08/2021
+MT1_9_WC,9,Montebellos,NA,WC,NA,NA,NA,2021,August,13,,,,Grover pump,1,Water Control,,159,14/08/2021,15/08/2021
+MT1_10_1,10,Montebellos,NA,1,-20.40668421,115.4762286,29,2021,August,13,10:44,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",160,14/08/2021,15/08/2021
+MT1_10_2,10,Montebellos,NA,2,-20.40668421,115.4762286,29,2021,August,13,10:44,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",161,14/08/2021,15/08/2021
+MT1_10_3,10,Montebellos,NA,3,-20.40668421,115.4762286,29,2021,August,13,10:44,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",162,14/08/2021,15/08/2021
+MT1_10_4,10,Montebellos,NA,4,-20.40668421,115.4762286,29,2021,August,13,10:44,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",163,14/08/2021,15/08/2021
+MT1_10_5,10,Montebellos,NA,5,-20.40668421,115.4762286,29,2021,August,13,10:44,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",164,14/08/2021,15/08/2021
+MT1_10_WC,10,Montebellos,NA,WC,NA,NA,NA,2021,August,13,,,,Grover pump,1,Water Control,,165,14/08/2021,15/08/2021
+MT1_11_1,11,Montebellos,NA,1,-20.45483154,115.4560262,30,2021,August,13,11:24,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",166,14/08/2021,15/08/2021
+MT1_11_2,11,Montebellos,NA,2,-20.45483154,115.4560262,30,2021,August,13,11:24,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",167,14/08/2021,15/08/2021
+MT1_11_3,11,Montebellos,NA,3,-20.45483154,115.4560262,30,2021,August,13,11:24,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",168,14/08/2021,15/08/2021
+MT1_11_4,11,Montebellos,NA,4,-20.45483154,115.4560262,30,2021,August,13,11:24,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",169,14/08/2021,15/08/2021
+MT1_11_5,11,Montebellos,NA,5,-20.45483154,115.4560262,30,2021,August,13,11:24,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",170,14/08/2021,15/08/2021
+MT1_11_WC,11,Montebellos,NA,WC,NA,NA,NA,2021,August,13,,,,Grover pump,1,Water Control,,171,14/08/2021,15/08/2021
+MT1_12_1,12,Montebellos,NA,1,-20.5084918,115.5434482,6,2021,August,13,13:25,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",172,14/08/2021,15/08/2021
+MT1_12_2,12,Montebellos,NA,2,-20.5084918,115.5434482,6,2021,August,13,13:25,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",173,14/08/2021,15/08/2021
+MT1_12_3,12,Montebellos,NA,3,-20.5084918,115.5434482,6,2021,August,13,13:25,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",174,14/08/2021,15/08/2021
+MT1_12_4,12,Montebellos,NA,4,-20.5084918,115.5434482,6,2021,August,13,13:25,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",175,14/08/2021,15/08/2021
+MT1_12_5,12,Montebellos,NA,5,-20.5084918,115.5434482,6,2021,August,13,13:25,23,"Niskin sampler, manual",Grover pump,1,,"MC, Pedro, Lily, Liv, Taylor, Loz",176,14/08/2021,15/08/2021
+MT1_12_WC,12,Montebellos,NA,WC,NA,NA,NA,2021,August,13,,,,Grover pump,1,Water Control,,177,14/08/2021,15/08/2021
+MT1_BC_2,NA,Montebellos,NA,BC-2,NA,NA,NA,2021,August,13,,,,Grover pump,1,Bleach Control,,BC5,14/08/2021,15/08/2021
+MT1_13_1,13,Montebellos,NA,1,-20.3557719,115.5497387,8.5,2021,August,14,7:33,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",178,15/08/2021,15/08/2021
+MT1_13_2,13,Montebellos,NA,2,-20.3557719,115.5497387,8.5,2021,August,14,7:33,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",179,15/08/2021,15/08/2021
+MT1_13_3,13,Montebellos,NA,3,-20.3557719,115.5497387,8.5,2021,August,14,7:33,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",180,15/08/2021,15/08/2021
+MT1_13_4,13,Montebellos,NA,4,-20.3557719,115.5497387,8.5,2021,August,14,7:33,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",181,15/08/2021,15/08/2021
+MT1_13_5,13,Montebellos,NA,5,-20.3557719,115.5497387,8.5,2021,August,14,7:33,22.75,"Niskin sampler, manual",Grover pump,1,Sample sucked up without filter present - NO SAMPLE,,182,NA,NA
+MT1_13_WC,13,Montebellos,NA,WC,NA,NA,NA,2021,August,14,,,,Grover pump,1,Water Control,,183,15/08/2021,15/08/2021
+MT1_14_1,14,Montebellos,NA,1,-20.38813059,115.5895162,38,2021,August,14,8:25,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",184,15/08/2021,15/08/2021
+MT1_14_2,14,Montebellos,NA,2,-20.38813059,115.5895162,38,2021,August,14,8:25,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",185,15/08/2021,15/08/2021
+MT1_14_3,14,Montebellos,NA,3,-20.38813059,115.5895162,38,2021,August,14,8:25,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",186,15/08/2021,15/08/2021
+MT1_14_4,14,Montebellos,NA,4,-20.38813059,115.5895162,38,2021,August,14,8:25,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",187,15/08/2021,15/08/2021
+MT1_14_5,14,Montebellos,NA,5,-20.38813059,115.5895162,38,2021,August,14,8:25,22.75,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",188,15/08/2021,15/08/2021
+MT1_14_WC,14,Montebellos,NA,WC,NA,NA,NA,2021,August,14,,,,Grover pump,1,Water Control,,189,15/08/2021,15/08/2021
+MT1_15_1,15,Montebellos,NA,1,-20.38786534,115.5652241,3,2021,August,14,9:05,21,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",190,15/08/2021,15/08/2021
+MT1_15_2,15,Montebellos,NA,2,-20.38786534,115.5652241,3,2021,August,14,9:05,21,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",191,15/08/2021,15/08/2021
+MT1_15_3,15,Montebellos,NA,3,-20.38786534,115.5652241,3,2021,August,14,9:05,21,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",192,15/08/2021,15/08/2021
+MT1_15_4,15,Montebellos,NA,4,-20.38786534,115.5652241,3,2021,August,14,9:05,21,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",193,15/08/2021,15/08/2021
+MT1_15_5,15,Montebellos,NA,5,-20.38786534,115.5652241,3,2021,August,14,9:05,21,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",194,15/08/2021,15/08/2021
+MT1_15_WC,15,Montebellos,NA,WC,NA,NA,NA,2021,August,14,,,,Grover pump,1,Water Control,,195,15/08/2021,15/08/2021
+MT1_16_1,16,Montebellos,NA,1,-20.3826282,115.5727938,2.4,2021,August,14,9:48,22.2,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",196,15/08/2021,15/08/2021
+MT1_16_2,16,Montebellos,NA,2,-20.3826282,115.5727938,2.4,2021,August,14,9:48,22.2,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",197,15/08/2021,15/08/2021
+MT1_16_3,16,Montebellos,NA,3,-20.3826282,115.5727938,2.4,2021,August,14,9:48,22.2,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",198,15/08/2021,15/08/2021
+MT1_16_4,16,Montebellos,NA,4,-20.3826282,115.5727938,2.4,2021,August,14,9:48,22.2,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",199,15/08/2021,15/08/2021
+MT1_16_5,16,Montebellos,NA,5,-20.3826282,115.5727938,2.4,2021,August,14,9:48,22.2,"Niskin sampler, manual",Grover pump,1,,"MC, Matt, Marcelle, Taylor, Ben, Nos",200,15/08/2021,15/08/2021
+MT1_16_WC,16,Montebellos,NA,WC,NA,NA,NA,2021,August,14,,,,Grover pump,1,Water Control,,201,15/08/2021,15/08/2021
+MT1_BC_3,NA,Montebellos,NA,BC-3,NA,NA,NA,2021,August,14,,,,Grover pump,1,Bleach Control,,BC6,15/08/2021,15/08/2021
+MT1_17_1,17,Montebellos,NA,1,-20.45123169,115.605222,1.5,2021,August,15,7:54,22.7,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",202,16/08/2021,16/08/2021
+MT1_17_2,17,Montebellos,NA,2,-20.45123169,115.605222,1.5,2021,August,15,7:54,22.7,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",203,16/08/2021,16/08/2021
+MT1_17_3,17,Montebellos,NA,3,-20.45123169,115.605222,1.5,2021,August,15,7:54,22.7,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",204,16/08/2021,16/08/2021
+MT1_17_4,17,Montebellos,NA,4,-20.45123169,115.605222,1.5,2021,August,15,7:54,22.7,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",205,16/08/2021,16/08/2021
+MT1_17_5,17,Montebellos,NA,5,-20.45123169,115.605222,1.5,2021,August,15,7:54,22.7,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",206,16/08/2021,16/08/2021
+MT1_17_WC,17,Montebellos,NA,WC,NA,NA,NA,2021,August,15,,,,Grover pump,1,Water Control,,207,16/08/2021,16/08/2021
+MT1_18_1,18,Montebellos,NA,1,-20.45075864,115.6047599,4.8,2021,August,15,8:39,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",208,16/08/2021,16/08/2021
+MT1_18_2,18,Montebellos,NA,2,-20.45075864,115.6047599,4.8,2021,August,15,8:39,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",209,16/08/2021,16/08/2021
+MT1_18_3,18,Montebellos,NA,3,-20.45075864,115.6047599,4.8,2021,August,15,8:39,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",210,16/08/2021,16/08/2021
+MT1_18_4,18,Montebellos,NA,4,-20.45075864,115.6047599,4.8,2021,August,15,8:39,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",211,16/08/2021,16/08/2021
+MT1_18_5,18,Montebellos,NA,5,-20.45075864,115.6047599,4.8,2021,August,15,8:39,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",212,16/08/2021,16/08/2021
+MT1_18_WC,18,Montebellos,NA,WC,NA,NA,NA,2021,August,15,,,,Grover pump,1,Water Control,,213,16/08/2021,16/08/2021
+MT1_19_1,19,Montebellos,NA,1,-20.45981537,115.5505923,0.9,2021,August,15,10:05,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",214,16/08/2021,16/08/2021
+MT1_19_2,19,Montebellos,NA,2,-20.45981537,115.5505923,0.9,2021,August,15,10:05,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",215,16/08/2021,16/08/2021
+MT1_19_3,19,Montebellos,NA,3,-20.45981537,115.5505923,0.9,2021,August,15,10:05,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",216,16/08/2021,16/08/2021
+MT1_19_4,19,Montebellos,NA,4,-20.45981537,115.5505923,0.9,2021,August,15,10:05,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",217,16/08/2021,16/08/2021
+MT1_19_5,19,Montebellos,NA,5,-20.45981537,115.5505923,0.9,2021,August,15,10:05,22.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",218,16/08/2021,16/08/2021
+MT1_19_WC,19,Montebellos,NA,WC,NA,NA,NA,2021,August,15,,,,Grover pump,1,Water Control,,219,16/08/2021,16/08/2021
+MT1_20_1,20,Montebellos,NA,1,-20.46551758,115.5462427,5,2021,August,15,11:18,21.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",220,16/08/2021,16/08/2021
+MT1_20_2,20,Montebellos,NA,2,-20.46551758,115.5462427,5,2021,August,15,11:18,21.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",221,16/08/2021,16/08/2021
+MT1_20_3,20,Montebellos,NA,3,-20.46551758,115.5462427,5,2021,August,15,11:18,21.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",222,16/08/2021,16/08/2021
+MT1_20_4,20,Montebellos,NA,4,-20.46551758,115.5462427,5,2021,August,15,11:18,21.5,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",223,16/08/2021,16/08/2021
+MT1_20_5,20,Montebellos,NA,5,-20.46551758,115.5462427,5,2021,August,15,11:18,21.5,"Niskin sampler, manual",Grover pump,1,"Torn filter 3/4 through, swapped filters, two in digest tube","MC, Priscila, Marcelle , JT, Liv",224,16/08/2021,16/08/2021
+MT1_20_WC,20,Montebellos,NA,WC,NA,NA,NA,2021,August,15,,,,Grover pump,1,Water Control,,225,16/08/2021,16/08/2021
+MT1_21_1,21,Montebellos,NA,1,-20.40481851,115.5652717,8.6,2021,August,15,11:59,22.3,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",226,16/08/2021,16/08/2021
+MT1_21_2,21,Montebellos,NA,2,-20.40481851,115.5652717,8.6,2021,August,15,11:59,22.3,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",227,16/08/2021,16/08/2021
+MT1_21_3,21,Montebellos,NA,3,-20.40481851,115.5652717,8.6,2021,August,15,11:59,22.3,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",228,16/08/2021,16/08/2021
+MT1_21_4,21,Montebellos,NA,4,-20.40481851,115.5652717,8.6,2021,August,15,11:59,22.3,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",229,16/08/2021,16/08/2021
+MT1_21_5,21,Montebellos,NA,5,-20.40481851,115.5652717,8.6,2021,August,15,11:59,22.3,"Niskin sampler, manual",Grover pump,1,,"MC, Priscila, Marcelle , JT, Liv",230,16/08/2021,16/08/2021
+MT1_21_WC,21,Montebellos,NA,WC,NA,NA,NA,2021,August,15,,,,Grover pump,1,Water Control,,231,16/08/2021,16/08/2021
+MT1_22_1,22,Montebellos,NA,1,-20.36522449,115.5092367,6.8,2021,August,15,14:38,23.2,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",232,16/08/2021,16/08/2021
+MT1_22_2,22,Montebellos,NA,2,-20.36522449,115.5092367,6.8,2021,August,15,14:38,23.2,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",233,16/08/2021,16/08/2021
+MT1_22_3,22,Montebellos,NA,3,-20.36522449,115.5092367,6.8,2021,August,15,14:38,23.2,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",234,16/08/2021,16/08/2021
+MT1_22_4,22,Montebellos,NA,4,-20.36522449,115.5092367,6.8,2021,August,15,14:38,23.2,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",235,16/08/2021,16/08/2021
+MT1_22_5,22,Montebellos,NA,5,-20.36522449,115.5092367,6.8,2021,August,15,14:38,23.2,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",236,16/08/2021,16/08/2021
+MT1_22_WC,22,Montebellos,NA,WC,NA,NA,NA,2021,August,15,,,,Grover pump,1,Water Control,,237,16/08/2021,16/08/2021
+MT1_23_1,23,Montebellos,NA,1,-20.36722038,115.5168995,1.7,2021,August,15,15:23,23,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",238,16/08/2021,16/08/2021
+MT1_23_2,23,Montebellos,NA,2,-20.36722038,115.5168995,1.7,2021,August,15,15:23,23,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",239,16/08/2021,16/08/2021
+MT1_23_3,23,Montebellos,NA,3,-20.36722038,115.5168995,1.7,2021,August,15,15:23,23,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",240,16/08/2021,16/08/2021
+MT1_23_4,23,Montebellos,NA,4,-20.36722038,115.5168995,1.7,2021,August,15,15:23,23,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",241,16/08/2021,16/08/2021
+MT1_23_5,23,Montebellos,NA,5,-20.36722038,115.5168995,1.7,2021,August,15,15:23,23,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",242,16/08/2021,16/08/2021
+MT1_23_WC,23,Montebellos,NA,WC,NA,NA,NA,2021,August,15,,,,Grover pump,1,Water Control,,243,16/08/2021,16/08/2021
+MT1_24_1,24,Montebellos,NA,1,-20.37330132,115.533359,7,2021,August,15,15:47,22.8,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",244,16/08/2021,16/08/2021
+MT1_24_2,24,Montebellos,NA,2,-20.37330132,115.533359,7,2021,August,15,15:47,22.8,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",245,16/08/2021,16/08/2021
+MT1_24_3,24,Montebellos,NA,3,-20.37330132,115.533359,7,2021,August,15,15:47,22.8,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",246,16/08/2021,16/08/2021
+MT1_24_4,24,Montebellos,NA,4,-20.37330132,115.533359,7,2021,August,15,15:47,22.8,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",247,16/08/2021,16/08/2021
+MT1_24_5,24,Montebellos,NA,5,-20.37330132,115.533359,7,2021,August,15,15:47,22.8,"Niskin sampler, manual",Grover pump,1,,"MC, JT, Noss",248,16/08/2021,16/08/2021
+MT1_24_WC,24,Montebello,NA,WC,NA,NA,NA,2021,August,15,,,,Grover pump,1,Water Control,,249,16/08/2021,16/08/2021
+MT1_BC_4,NA,Montebello,NA,BC-4,NA,NA,NA,2021,August,15,,,,Grover pump,1,Bleach Control,,BC7,16/08/2021,16/08/2021
+MT1_EB_1,NA,Montebello,NA,EB,NA,NA,NA,2021,August,,,,,,,Extraction Blank,,EB4,12/08/2021,13/08/2021
+MT1_EB_2,NA,Montebello,NA,EB,NA,NA,NA,2021,August,,,,,,,Extraction Blank,,EB5,14/08/2021,15/08/2021
+MT1_EB_3,NA,Montebello,NA,EB,NA,NA,NA,2021,August,,,,,,,Extraction Blank,,EB6,15/08/2021,15/08/2021
+MT1_EB_4,NA,Montebello,NA,EB,NA,NA,NA,2021,August,,,,,,,Extraction Blank,,EB7,16/08/2021,16/08/2021

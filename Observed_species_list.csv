@@ -1,0 +1,1202 @@
+"","species","Dataset","Mode","checklist"
+"1","Exocoetus environmental sample","Cocos Islands","Independent",FALSE
+"2","Pteraclis aesticola","Cocos Islands","Independent",TRUE
+"3","Austrolabrus maculatus","Cocos Islands","Independent",TRUE
+"4","Kyphosus cornelii","Cocos Islands","Independent",TRUE
+"5","Diaphus perspicillatus","Cocos Islands","Independent",TRUE
+"6","Cubiceps capensis","Cocos Islands","Independent",TRUE
+"7","Decapterus maruadsi","Cocos Islands","Independent",TRUE
+"8","Lampadena luminosa","Cocos Islands","Independent",TRUE
+"9","Ranzania laevis","Cocos Islands","Independent",TRUE
+"10","Parapercis nebulosa","Cocos Islands","Independent",TRUE
+"11","Taractichthys longipinnis","Cocos Islands","Independent",TRUE
+"12","Etrumeus teres","Cocos Islands","Independent",FALSE
+"13","Kali macrura","Cocos Islands","Independent",TRUE
+"14","Notolabrus parilus","Cocos Islands","Independent",TRUE
+"15","Allothunnus fallai","Cocos Islands","Independent",TRUE
+"16","Nealotus tripes","Cocos Islands","Independent",TRUE
+"17","Labichthys carinatus","Cocos Islands","Independent",FALSE
+"18","Myctophum punctatum","Cocos Islands","Independent",FALSE
+"19","Gigantura indica","Cocos Islands","Independent",TRUE
+"20","Paramonacanthus choirocephalus","Cocos Islands","Independent",TRUE
+"21","cf. Thalassoma sp. AWFS-F16-0592","Cocos Islands","Independent",FALSE
+"22","Bolinichthys photothorax","Cocos Islands","Independent",TRUE
+"23","Stethojulis strigiventer","Cocos Islands","Independent",TRUE
+"24","Cyclothone pseudopallida","Cocos Islands","Independent",TRUE
+"25","Myctophum nitidulum","Cocos Islands","Independent",TRUE
+"26","Triphoturus nigrescens","Cocos Islands","Independent",TRUE
+"27","Diaphus lucidus","Cocos Islands","Independent",TRUE
+"28","Anoplogaster cornuta","Cocos Islands","Independent",TRUE
+"29","Chromis notata","Cocos Islands","Independent",FALSE
+"30","Atherinomorus sp. pinguis-1","Cocos Islands","Independent",FALSE
+"31","Lobianchia gemellarii","Cocos Islands","Independent",TRUE
+"32","Cubiceps paradoxus","Cocos Islands","Independent",FALSE
+"33","Diaphus splendidus","Cocos Islands","Independent",TRUE
+"34","Brama japonica","Cocos Islands","Independent",FALSE
+"35","Scombrolabrax heterolepis","Cocos Islands","Independent",TRUE
+"36","Chaetodon assarius","Cocos Islands","Independent",TRUE
+"37","Sillago robusta","Cocos Islands","Independent",TRUE
+"38","Lutjanus carponotatus","Cocos Islands","Independent",TRUE
+"39","Heteroscarus acroptilus","Cocos Islands","Independent",TRUE
+"40","Leptoscarus vaigiensis","Cocos Islands","Independent",TRUE
+"41","Halichoeres brownfieldi","Cocos Islands","Independent",TRUE
+"42","Seriola lalandi","Cocos Islands","Independent",TRUE
+"43","Diaphus mollis","Cocos Islands","Independent",TRUE
+"44","Parupeneus chrysopleuron","Cocos Islands","Independent",TRUE
+"45","Caranx ignobilis","Cocos Islands","Independent",TRUE
+"46","Tetragonurus atlanticus","Cocos Islands","Independent",FALSE
+"47","Cyclothone pallida","Cocos Islands","Independent",TRUE
+"48","Epinephelus rivulatus","Cocos Islands","Independent",TRUE
+"49","Asterropteryx semipunctata","Cocos Islands","Independent",TRUE
+"50","Parapercis haackei","Cocos Islands","Independent",TRUE
+"51","Tetrosomus concatenatus","Cocos Islands","Independent",TRUE
+"52","Taractichthys steindachneri","Cocos Islands","Independent",TRUE
+"53","Plectorhinchus flavomaculatus","Cocos Islands","Independent",TRUE
+"54","Macroramphosus scolopax","Cocos Islands","Independent",TRUE
+"55","Pelates octolineatus","Cocos Islands","Independent",TRUE
+"56","Sillago schomburgkii","Cocos Islands","Independent",TRUE
+"57","Scarus psittacus","Cocos Islands","Independent",TRUE
+"58","Gempylus serpens","Cocos Islands","Independent",TRUE
+"59","Ectreposebastes imus","Cocos Islands","Independent",FALSE
+"60","Taractes asper","Cocos Islands","Independent",TRUE
+"61","Ceratoscopelus warmingii","Cocos Islands","Independent",TRUE
+"62","Evermannella indica","Cocos Islands","Independent",TRUE
+"63","Spratelloides robustus","Cocos Islands","Independent",TRUE
+"64","Sternoptyx diaphana","Cocos Islands","Independent",TRUE
+"65","Gnathophis longicauda","Cocos Islands","Independent",TRUE
+"66","Stethojulis strigiventer","Cocos Islands","Pooled",TRUE
+"67","Kyphosus cornelii","Cocos Islands","Pooled",TRUE
+"68","Lobianchia gemellarii","Cocos Islands","Pooled",TRUE
+"69","Bolinichthys distofax","Cocos Islands","Pooled",FALSE
+"70","Austrolabrus maculatus","Cocos Islands","Pooled",TRUE
+"71","Exocoetus environmental sample","Cocos Islands","Pooled",FALSE
+"72","Notoscopelus caudispinosus","Cocos Islands","Pooled",TRUE
+"73","Tetragonurus atlanticus","Cocos Islands","Pooled",FALSE
+"74","Pteraclis aesticola","Cocos Islands","Pooled",TRUE
+"75","Diaphus perspicillatus","Cocos Islands","Pooled",TRUE
+"76","Nealotus tripes","Cocos Islands","Pooled",TRUE
+"77","Decapterus maruadsi","Cocos Islands","Pooled",TRUE
+"78","Pelates octolineatus","Cocos Islands","Pooled",TRUE
+"79","Cubiceps capensis","Cocos Islands","Pooled",TRUE
+"80","Gempylus serpens","Cocos Islands","Pooled",TRUE
+"81","Cyclothone pallida","Cocos Islands","Pooled",TRUE
+"82","Scarus psittacus","Cocos Islands","Pooled",TRUE
+"83","Gigantura indica","Cocos Islands","Pooled",TRUE
+"84","Kali indica","Cocos Islands","Pooled",FALSE
+"85","Parapercis nebulosa","Cocos Islands","Pooled",TRUE
+"86","Tetrosomus concatenatus","Cocos Islands","Pooled",TRUE
+"87","Lethrinus genivittatus","Cocos Islands","Pooled",TRUE
+"88","Etrumeus teres","Cocos Islands","Pooled",FALSE
+"89","Vinciguerria nimbaria","Cocos Islands","Pooled",TRUE
+"90","Macroramphosus scolopax","Cocos Islands","Pooled",TRUE
+"91","Taractichthys longipinnis","Cocos Islands","Pooled",TRUE
+"92","Bolinichthys photothorax","Cocos Islands","Pooled",TRUE
+"93","Notolabrus parilus","Cocos Islands","Pooled",TRUE
+"94","Allothunnus fallai","Cocos Islands","Pooled",TRUE
+"95","Triphoturus nigrescens","Cocos Islands","Pooled",TRUE
+"96","Myctophum punctatum","Cocos Islands","Pooled",FALSE
+"97","Labichthys carinatus","Cocos Islands","Pooled",FALSE
+"98","Paramonacanthus choirocephalus","Cocos Islands","Pooled",TRUE
+"99","Myctophum nitidulum","Cocos Islands","Pooled",TRUE
+"100","cf. Thalassoma sp. AWFS-F16-0592","Cocos Islands","Pooled",FALSE
+"101","Ranzania laevis","Cocos Islands","Pooled",TRUE
+"102","Cyclothone pseudopallida","Cocos Islands","Pooled",TRUE
+"103","Diaphus lucidus","Cocos Islands","Pooled",TRUE
+"104","Anoplogaster cornuta","Cocos Islands","Pooled",TRUE
+"105","Chromis notata","Cocos Islands","Pooled",FALSE
+"106","Atherinomorus sp. pinguis-1","Cocos Islands","Pooled",FALSE
+"107","Cubiceps paradoxus","Cocos Islands","Pooled",FALSE
+"108","Parupeneus chrysopleuron","Cocos Islands","Pooled",TRUE
+"109","Diaphus splendidus","Cocos Islands","Pooled",TRUE
+"110","Brama japonica","Cocos Islands","Pooled",FALSE
+"111","Lutjanus carponotatus","Cocos Islands","Pooled",TRUE
+"112","Chaetodon assarius","Cocos Islands","Pooled",TRUE
+"113","Scombrolabrax heterolepis","Cocos Islands","Pooled",TRUE
+"114","Diaphus mollis","Cocos Islands","Pooled",TRUE
+"115","Sillago robusta","Cocos Islands","Pooled",TRUE
+"116","Leptoscarus vaigiensis","Cocos Islands","Pooled",TRUE
+"117","Heteroscarus acroptilus","Cocos Islands","Pooled",TRUE
+"118","Halichoeres brownfieldi","Cocos Islands","Pooled",TRUE
+"119","Seriola lalandi","Cocos Islands","Pooled",TRUE
+"120","Caranx ignobilis","Cocos Islands","Pooled",TRUE
+"121","Desmodema polystictum","Cocos Islands","Pooled",TRUE
+"122","Epinephelus rivulatus","Cocos Islands","Pooled",TRUE
+"123","Asterropteryx semipunctata","Cocos Islands","Pooled",TRUE
+"124","Taractichthys steindachneri","Cocos Islands","Pooled",TRUE
+"125","Parapercis haackei","Cocos Islands","Pooled",TRUE
+"126","Plectorhinchus flavomaculatus","Cocos Islands","Pooled",TRUE
+"127","Sillago schomburgkii","Cocos Islands","Pooled",TRUE
+"128","Ectreposebastes imus","Cocos Islands","Pooled",FALSE
+"129","Taractes asper","Cocos Islands","Pooled",TRUE
+"130","Trachinocephalus myops","Cocos Islands","Pooled",FALSE
+"131","Diretmus argenteus","Cocos Islands","Pooled",TRUE
+"132","Magnisudis atlantica","Cocos Islands","Pooled",TRUE
+"133","Kali macrura","Cocos Islands","Pooled",TRUE
+"134","Ceratoscopelus warmingii","Cocos Islands","Pooled",TRUE
+"135","Upeneichthys stotti","Cocos Islands","Pooled",TRUE
+"136","Evermannella indica","Cocos Islands","Pooled",TRUE
+"137","Spratelloides robustus","Cocos Islands","Pooled",TRUE
+"138","Sternoptyx diaphana","Cocos Islands","Pooled",TRUE
+"139","Lampadena luminosa","Cocos Islands","Pooled",TRUE
+"140","Gnathophis longicauda","Cocos Islands","Pooled",TRUE
+"141","Kyphosus bigibbus","Cocos Islands","Pooled",TRUE
+"142","Diaphus mollis","Cocos Islands","Pseudo",TRUE
+"143","Bolinichthys distofax","Cocos Islands","Pseudo",FALSE
+"144","Exocoetus environmental sample","Cocos Islands","Pseudo",FALSE
+"145","Pteraclis aesticola","Cocos Islands","Pseudo",TRUE
+"146","Austrolabrus maculatus","Cocos Islands","Pseudo",TRUE
+"147","Kyphosus cornelii","Cocos Islands","Pseudo",TRUE
+"148","Diaphus perspicillatus","Cocos Islands","Pseudo",TRUE
+"149","Cubiceps capensis","Cocos Islands","Pseudo",TRUE
+"150","Decapterus maruadsi","Cocos Islands","Pseudo",TRUE
+"151","Lampadena luminosa","Cocos Islands","Pseudo",TRUE
+"152","Parapercis nebulosa","Cocos Islands","Pseudo",TRUE
+"153","Taractichthys longipinnis","Cocos Islands","Pseudo",TRUE
+"154","Etrumeus teres","Cocos Islands","Pseudo",FALSE
+"155","Notolabrus parilus","Cocos Islands","Pseudo",TRUE
+"156","Nealotus tripes","Cocos Islands","Pseudo",TRUE
+"157","Labichthys carinatus","Cocos Islands","Pseudo",FALSE
+"158","Gigantura indica","Cocos Islands","Pseudo",TRUE
+"159","Paramonacanthus choirocephalus","Cocos Islands","Pseudo",TRUE
+"160","Lethrinus genivittatus","Cocos Islands","Pseudo",TRUE
+"161","Myctophum punctatum","Cocos Islands","Pseudo",FALSE
+"162","Kali macrura","Cocos Islands","Pseudo",TRUE
+"163","Allothunnus fallai","Cocos Islands","Pseudo",TRUE
+"164","cf. Thalassoma sp. AWFS-F16-0592","Cocos Islands","Pseudo",FALSE
+"165","Stethojulis strigiventer","Cocos Islands","Pseudo",TRUE
+"166","Cyclothone pseudopallida","Cocos Islands","Pseudo",TRUE
+"167","Bolinichthys photothorax","Cocos Islands","Pseudo",TRUE
+"168","Ranzania laevis","Cocos Islands","Pseudo",TRUE
+"169","Triphoturus nigrescens","Cocos Islands","Pseudo",TRUE
+"170","Diaphus lucidus","Cocos Islands","Pseudo",TRUE
+"171","Chromis notata","Cocos Islands","Pseudo",FALSE
+"172","Anoplogaster cornuta","Cocos Islands","Pseudo",TRUE
+"173","Atherinomorus sp. pinguis-1","Cocos Islands","Pseudo",FALSE
+"174","Myctophum nitidulum","Cocos Islands","Pseudo",TRUE
+"175","Lobianchia gemellarii","Cocos Islands","Pseudo",TRUE
+"176","Cubiceps paradoxus","Cocos Islands","Pseudo",FALSE
+"177","Parupeneus chrysopleuron","Cocos Islands","Pseudo",TRUE
+"178","Diaphus splendidus","Cocos Islands","Pseudo",TRUE
+"179","Brama japonica","Cocos Islands","Pseudo",FALSE
+"180","Scombrolabrax heterolepis","Cocos Islands","Pseudo",TRUE
+"181","Chaetodon assarius","Cocos Islands","Pseudo",TRUE
+"182","Lutjanus carponotatus","Cocos Islands","Pseudo",TRUE
+"183","Heteroscarus acroptilus","Cocos Islands","Pseudo",TRUE
+"184","Leptoscarus vaigiensis","Cocos Islands","Pseudo",TRUE
+"185","Seriola lalandi","Cocos Islands","Pseudo",TRUE
+"186","Halichoeres brownfieldi","Cocos Islands","Pseudo",TRUE
+"187","Caranx ignobilis","Cocos Islands","Pseudo",TRUE
+"188","Cyclothone pallida","Cocos Islands","Pseudo",TRUE
+"189","Tetragonurus atlanticus","Cocos Islands","Pseudo",FALSE
+"190","Epinephelus rivulatus","Cocos Islands","Pseudo",TRUE
+"191","Asterropteryx semipunctata","Cocos Islands","Pseudo",TRUE
+"192","Parapercis haackei","Cocos Islands","Pseudo",TRUE
+"193","Tetrosomus concatenatus","Cocos Islands","Pseudo",TRUE
+"194","Taractichthys steindachneri","Cocos Islands","Pseudo",TRUE
+"195","Plectorhinchus flavomaculatus","Cocos Islands","Pseudo",TRUE
+"196","Macroramphosus scolopax","Cocos Islands","Pseudo",TRUE
+"197","Pelates octolineatus","Cocos Islands","Pseudo",TRUE
+"198","Sillago schomburgkii","Cocos Islands","Pseudo",TRUE
+"199","Scarus psittacus","Cocos Islands","Pseudo",TRUE
+"200","Gempylus serpens","Cocos Islands","Pseudo",TRUE
+"201","Ectreposebastes imus","Cocos Islands","Pseudo",FALSE
+"202","Taractes asper","Cocos Islands","Pseudo",TRUE
+"203","Sillago robusta","Cocos Islands","Pseudo",TRUE
+"204","Trachinocephalus myops","Cocos Islands","Pseudo",FALSE
+"205","Ceratoscopelus warmingii","Cocos Islands","Pseudo",TRUE
+"206","Evermannella indica","Cocos Islands","Pseudo",TRUE
+"207","Upeneichthys stotti","Cocos Islands","Pseudo",TRUE
+"208","Spratelloides robustus","Cocos Islands","Pseudo",TRUE
+"209","Sternoptyx diaphana","Cocos Islands","Pseudo",TRUE
+"210","Thalassoma lunare","Cocos Islands","Pseudo",TRUE
+"211","Gnathophis longicauda","Cocos Islands","Pseudo",TRUE
+"212","Pseudanthias tuka","Rowley Shoals","Independent",TRUE
+"213","Scarus psittacus","Rowley Shoals","Independent",TRUE
+"214","Platybelone argala","Rowley Shoals","Independent",FALSE
+"215","Diaphus garmani","Rowley Shoals","Independent",TRUE
+"216","Chlorurus bleekeri","Rowley Shoals","Independent",TRUE
+"217","Pseudocheilinus hexataenia","Rowley Shoals","Independent",TRUE
+"218","Myripristis vittata","Rowley Shoals","Independent",TRUE
+"219","Chromis fumea","Rowley Shoals","Independent",FALSE
+"220","Rhinecanthus aculeatus","Rowley Shoals","Independent",TRUE
+"221","Scarus dimidiatus","Rowley Shoals","Independent",TRUE
+"222","Caranx lugubris","Rowley Shoals","Independent",TRUE
+"223","Gymnothorax zonipectis","Rowley Shoals","Independent",TRUE
+"224","Pterocaesio tile","Rowley Shoals","Independent",TRUE
+"225","Paracirrhites forsteri","Rowley Shoals","Independent",TRUE
+"226","Cirripectes castaneus","Rowley Shoals","Independent",TRUE
+"227","Stenatherina panatela","Rowley Shoals","Independent",TRUE
+"228","Epinephelus fasciatus","Rowley Shoals","Independent",TRUE
+"229","Cyclothone pseudopallida","Rowley Shoals","Independent",TRUE
+"230","Stegastes nigricans","Rowley Shoals","Independent",TRUE
+"231","Plectropomus laevis","Rowley Shoals","Independent",TRUE
+"232","Choerodon schoenleinii","Rowley Shoals","Independent",TRUE
+"233","Crossosalarias macrospilus","Rowley Shoals","Independent",TRUE
+"234","Hemiglyphidodon plagiometopon","Rowley Shoals","Independent",TRUE
+"235","Acanthurus nigricauda","Rowley Shoals","Independent",TRUE
+"236","Cephalopholis argus","Rowley Shoals","Independent",TRUE
+"237","Thalassoma amblycephalum","Rowley Shoals","Independent",TRUE
+"238","Chromis viridis","Rowley Shoals","Independent",TRUE
+"239","Naso unicornis","Rowley Shoals","Independent",TRUE
+"240","Thalassoma lunare","Rowley Shoals","Independent",TRUE
+"241","Aluterus scriptus","Rowley Shoals","Independent",TRUE
+"242","Parapriacanthus ransonneti","Rowley Shoals","Independent",TRUE
+"243","Blenniella periophthalmus","Rowley Shoals","Independent",TRUE
+"244","Cheilinus fasciatus","Rowley Shoals","Independent",TRUE
+"245","Diodon hystrix","Rowley Shoals","Independent",TRUE
+"246","Lutjanus rivulatus","Rowley Shoals","Independent",TRUE
+"247","Lethrinus olivaceus","Rowley Shoals","Independent",TRUE
+"248","Pseudanthias lori","Rowley Shoals","Independent",TRUE
+"249","Sufflamen bursa","Rowley Shoals","Independent",TRUE
+"250","Plectorhinchus chaetodonoides","Rowley Shoals","Independent",TRUE
+"251","Acanthurus grammoptilus","Rowley Shoals","Independent",TRUE
+"252","Sillago schomburgkii","Rowley Shoals","Independent",TRUE
+"253","Halichoeres trimaculatus","Rowley Shoals","Independent",TRUE
+"254","Plectorhinchus albovittatus","Rowley Shoals","Independent",FALSE
+"255","Chaetodon speculum","Rowley Shoals","Independent",TRUE
+"256","Hemigymnus fasciatus","Rowley Shoals","Independent",TRUE
+"257","Scomberoides lysan","Rowley Shoals","Independent",TRUE
+"258","Aethaloperca rogaa","Rowley Shoals","Independent",TRUE
+"259","Scarus flavipectoralis","Rowley Shoals","Independent",TRUE
+"260","Lethrinus erythropterus","Rowley Shoals","Independent",TRUE
+"261","Acanthurus olivaceus","Rowley Shoals","Independent",TRUE
+"262","Stegastes lividus","Rowley Shoals","Independent",FALSE
+"263","Neoniphon sammara","Rowley Shoals","Independent",TRUE
+"264","Lampadena luminosa","Rowley Shoals","Independent",TRUE
+"265","Epinephelus rivulatus","Rowley Shoals","Independent",TRUE
+"266","Scarus niger","Rowley Shoals","Independent",TRUE
+"267","Pristotis obtusirostris","Rowley Shoals","Independent",TRUE
+"268","Platax teira","Rowley Shoals","Independent",TRUE
+"269","Oxycheilinus orientalis","Rowley Shoals","Independent",TRUE
+"270","Gnathodentex aureolineatus","Rowley Shoals","Independent",TRUE
+"271","Halichoeres hortulanus","Rowley Shoals","Independent",TRUE
+"272","Plectropomus areolatus","Rowley Shoals","Independent",TRUE
+"273","Cantherhines dumerilii","Rowley Shoals","Independent",TRUE
+"274","Atrosalarias holomelas","Rowley Shoals","Independent",TRUE
+"275","Gnathanodon speciosus","Rowley Shoals","Independent",TRUE
+"276","Platax batavianus","Rowley Shoals","Independent",TRUE
+"277","Cheilio inermis","Rowley Shoals","Independent",TRUE
+"278","Oxycheilinus unifasciatus","Rowley Shoals","Independent",TRUE
+"279","Gymnothorax punctatofasciatus","Rowley Shoals","Independent",FALSE
+"280","Siganus argenteus","Rowley Shoals","Independent",TRUE
+"281","Epinephelus polyphekadion","Rowley Shoals","Independent",TRUE
+"282","Gerres oyena","Rowley Shoals","Independent",TRUE
+"283","Lethrinus atkinsoni","Rowley Shoals","Independent",TRUE
+"284","Chaetodon ephippium","Rowley Shoals","Independent",TRUE
+"285","Gymnothorax thyrsoideus","Rowley Shoals","Independent",TRUE
+"286","Asterropteryx semipunctata","Rowley Shoals","Independent",TRUE
+"287","Acanthurus triostegus","Rowley Shoals","Independent",TRUE
+"288","Monotaxis heterodon","Rowley Shoals","Independent",TRUE
+"289","Epibulus insidiator","Rowley Shoals","Independent",TRUE
+"290","Chrysiptera glauca","Rowley Shoals","Independent",TRUE
+"291","Plectropomus maculatus","Rowley Shoals","Independent",TRUE
+"292","Xenojulis margaritaceus","Rowley Shoals","Independent",FALSE
+"293","Choerodon cyanodus","Rowley Shoals","Independent",TRUE
+"294","Chaetodon auriga","Rowley Shoals","Independent",TRUE
+"295","Pomacentrus vaiuli","Rowley Shoals","Independent",TRUE
+"296","Ptereleotris evides","Rowley Shoals","Independent",TRUE
+"297","Gobiodon ater","Rowley Shoals","Independent",FALSE
+"298","Novaculichthys taeniourus","Rowley Shoals","Independent",TRUE
+"299","Salarias fasciatus","Rowley Shoals","Independent",TRUE
+"300","Parupeneus multifasciatus","Rowley Shoals","Independent",TRUE
+"301","Acanthurus thompsoni","Rowley Shoals","Independent",TRUE
+"302","Hemigymnus melapterus","Rowley Shoals","Independent",TRUE
+"303","Monotaxis grandoculis","Rowley Shoals","Independent",TRUE
+"304","Oxycheilinus digramma","Rowley Shoals","Independent",TRUE
+"305","Symphorus nematophorus","Rowley Shoals","Independent",TRUE
+"306","Cymolutes praetextatus","Rowley Shoals","Independent",TRUE
+"307","Melichthys niger","Rowley Shoals","Independent",TRUE
+"308","Trachinotus blochii","Rowley Shoals","Independent",TRUE
+"309","Iniistius jacksonensis","Rowley Shoals","Independent",TRUE
+"310","Diodon liturosus","Rowley Shoals","Independent",TRUE
+"311","Hipposcarus longiceps","Rowley Shoals","Independent",TRUE
+"312","Spratelloides gracilis","Rowley Shoals","Independent",TRUE
+"313","Symphorichthys spilurus","Rowley Shoals","Independent",TRUE
+"314","Psammoperca waigiensis","Rowley Shoals","Independent",TRUE
+"315","Chromis atripectoralis","Rowley Shoals","Independent",TRUE
+"316","Balistapus undulatus","Rowley Shoals","Independent",TRUE
+"317","Mulloidichthys flavolineatus","Rowley Shoals","Independent",TRUE
+"318","Chromis atripes","Rowley Shoals","Independent",TRUE
+"319","Melichthys vidua","Rowley Shoals","Independent",TRUE
+"320","Pristicon trimaculatus","Rowley Shoals","Independent",TRUE
+"321","Canthigaster solandri","Rowley Shoals","Independent",TRUE
+"322","Chaetodon ornatissimus","Rowley Shoals","Independent",TRUE
+"323","Spratelloides delicatulus","Rowley Shoals","Independent",TRUE
+"324","Halichoeres margaritaceus","Rowley Shoals","Independent",TRUE
+"325","Dascyllus aruanus","Rowley Shoals","Independent",TRUE
+"326","Pseudocheilinus evanidus","Rowley Shoals","Independent",TRUE
+"327","Macropharyngodon meleagris","Rowley Shoals","Independent",TRUE
+"328","Labroides dimidiatus","Rowley Shoals","Independent",TRUE
+"329","Caranx ignobilis","Rowley Shoals","Independent",TRUE
+"330","Pseudanthias pleurotaenia","Rowley Shoals","Independent",TRUE
+"331","Lethrinus obsoletus","Rowley Shoals","Independent",TRUE
+"332","Cephalopholis leopardus","Rowley Shoals","Independent",TRUE
+"333","Chaetodon bennetti","Rowley Shoals","Independent",TRUE
+"334","Myripristis kuntee","Rowley Shoals","Independent",TRUE
+"335","Scarus frenatus","Rowley Shoals","Independent",TRUE
+"336","Pomacentrus pavo","Rowley Shoals","Independent",TRUE
+"337","Chaetodon citrinellus","Rowley Shoals","Independent",TRUE
+"338","Gobiodon cf. bilineatus JH-2013","Rowley Shoals","Independent",FALSE
+"339","Myripristis berndti","Rowley Shoals","Independent",TRUE
+"340","Halichoeres marginatus","Rowley Shoals","Independent",TRUE
+"341","Gobiodon rivulatus","Rowley Shoals","Independent",TRUE
+"342","Cirrhilabrus exquisitus","Rowley Shoals","Independent",TRUE
+"343","Pteragogus cryptus","Rowley Shoals","Independent",TRUE
+"344","Caesio xanthonota","Rowley Shoals","Independent",FALSE
+"345","Scarus oviceps","Rowley Shoals","Independent",TRUE
+"346","Pomacentrus spilotoceps","Rowley Shoals","Independent",FALSE
+"347","Hypoatherina barnesi","Rowley Shoals","Independent",TRUE
+"348","Strongylura incisa","Rowley Shoals","Independent",TRUE
+"349","Ptereleotris zebra","Rowley Shoals","Independent",TRUE
+"350","Myripristis murdjan","Rowley Shoals","Independent",TRUE
+"351","Cirrhilabrus cyanopleura","Rowley Shoals","Independent",TRUE
+"352","Chanos chanos","Rowley Shoals","Independent",TRUE
+"353","Gymnothorax undulatus","Rowley Shoals","Independent",TRUE
+"354","Lethrinus erythracanthus","Rowley Shoals","Independent",TRUE
+"355","Epinephelus hexagonatus","Rowley Shoals","Independent",TRUE
+"356","Mulloidichthys vanicolensis","Rowley Shoals","Independent",TRUE
+"357","Decapterus macarellus","Rowley Shoals","Independent",TRUE
+"358","Halichoeres nebulosus","Rowley Shoals","Independent",TRUE
+"359","Arothron mappa","Rowley Shoals","Independent",TRUE
+"360","Chaetodon adiergastos","Rowley Shoals","Independent",TRUE
+"361","Scorpaenodes guamensis","Rowley Shoals","Independent",TRUE
+"362","Bolbometopon muricatum","Rowley Shoals","Independent",TRUE
+"363","Aphareus furca","Rowley Shoals","Independent",TRUE
+"364","Zanclus cornutus","Rowley Shoals","Independent",TRUE
+"365","Fistularia commersonii","Rowley Shoals","Independent",TRUE
+"366","Stethojulis strigiventer","Rowley Shoals","Independent",TRUE
+"367","Pseudocheilinus octotaenia","Rowley Shoals","Independent",TRUE
+"368","Cheilinus undulatus","Rowley Shoals","Independent",TRUE
+"369","Lethrinus nebulosus","Rowley Shoals","Independent",TRUE
+"370","Sargocentron punctatissimum","Rowley Shoals","Independent",TRUE
+"371","Anyperodon leucogrammicus","Rowley Shoals","Independent",TRUE
+"372","Wetmorella albofasciata","Rowley Shoals","Independent",TRUE
+"373","Plectroglyphidodon leucozonus","Rowley Shoals","Independent",TRUE
+"374","Chromis ternatensis","Rowley Shoals","Independent",TRUE
+"375","Ptereleotris microlepis","Rowley Shoals","Independent",TRUE
+"376","Pseudanthias tuka","Rowley Shoals","Pooled",TRUE
+"377","Scarus psittacus","Rowley Shoals","Pooled",TRUE
+"378","Chromis fumea","Rowley Shoals","Pooled",FALSE
+"379","Balistapus undulatus","Rowley Shoals","Pooled",TRUE
+"380","Epinephelus corallicola","Rowley Shoals","Pooled",TRUE
+"381","Platybelone argala","Rowley Shoals","Pooled",FALSE
+"382","Cephalopholis argus","Rowley Shoals","Pooled",TRUE
+"383","Ptereleotris microlepis","Rowley Shoals","Pooled",TRUE
+"384","Wetmorella albofasciata","Rowley Shoals","Pooled",TRUE
+"385","Chlorurus bleekeri","Rowley Shoals","Pooled",TRUE
+"386","Chromis atripes","Rowley Shoals","Pooled",TRUE
+"387","Elagatis bipinnulata","Rowley Shoals","Pooled",TRUE
+"388","Cirripectes castaneus","Rowley Shoals","Pooled",TRUE
+"389","Diaphus garmani","Rowley Shoals","Pooled",TRUE
+"390","Choerodon schoenleinii","Rowley Shoals","Pooled",TRUE
+"391","Plectorhinchus albovittatus","Rowley Shoals","Pooled",FALSE
+"392","Ptereleotris zebra","Rowley Shoals","Pooled",TRUE
+"393","Gymnothorax undulatus","Rowley Shoals","Pooled",TRUE
+"394","Novaculichthys taeniourus","Rowley Shoals","Pooled",TRUE
+"395","Hemiglyphidodon plagiometopon","Rowley Shoals","Pooled",TRUE
+"396","Gymnothorax zonipectis","Rowley Shoals","Pooled",TRUE
+"397","Eumegistus illustris","Rowley Shoals","Pooled",TRUE
+"398","Myripristis vittata","Rowley Shoals","Pooled",TRUE
+"399","Gymnosarda unicolor","Rowley Shoals","Pooled",TRUE
+"400","Chromis ternatensis","Rowley Shoals","Pooled",TRUE
+"401","Pseudogramma polyacantha","Rowley Shoals","Pooled",TRUE
+"402","Caesio cuning","Rowley Shoals","Pooled",TRUE
+"403","Scarus dimidiatus","Rowley Shoals","Pooled",TRUE
+"404","Grammistops ocellatus","Rowley Shoals","Pooled",TRUE
+"405","Myripristis kuntee","Rowley Shoals","Pooled",TRUE
+"406","Exocoetus environmental sample","Rowley Shoals","Pooled",FALSE
+"407","Paracirrhites forsteri","Rowley Shoals","Pooled",TRUE
+"408","Canthigaster solandri","Rowley Shoals","Pooled",TRUE
+"409","Caranx lugubris","Rowley Shoals","Pooled",TRUE
+"410","Caesio caerulaurea","Rowley Shoals","Pooled",TRUE
+"411","Acanthurus grammoptilus","Rowley Shoals","Pooled",TRUE
+"412","Chaetodon ornatissimus","Rowley Shoals","Pooled",TRUE
+"413","Chaetodon semeion","Rowley Shoals","Pooled",TRUE
+"414","Plectropomus laevis","Rowley Shoals","Pooled",TRUE
+"415","Cyclothone pseudopallida","Rowley Shoals","Pooled",TRUE
+"416","Lethrinus olivaceus","Rowley Shoals","Pooled",TRUE
+"417","Chaetodon melannotus","Rowley Shoals","Pooled",TRUE
+"418","Pterocaesio tile","Rowley Shoals","Pooled",TRUE
+"419","Anampses twistii","Rowley Shoals","Pooled",TRUE
+"420","Stenatherina panatela","Rowley Shoals","Pooled",TRUE
+"421","Stegastes nigricans","Rowley Shoals","Pooled",TRUE
+"422","Parapriacanthus ransonneti","Rowley Shoals","Pooled",TRUE
+"423","Sillago schomburgkii","Rowley Shoals","Pooled",TRUE
+"424","Lethrinus atkinsoni","Rowley Shoals","Pooled",TRUE
+"425","Chromis viridis","Rowley Shoals","Pooled",TRUE
+"426","Pseudojuloides cerasinus","Rowley Shoals","Pooled",FALSE
+"427","Crossosalarias macrospilus","Rowley Shoals","Pooled",TRUE
+"428","Bodianus axillaris","Rowley Shoals","Pooled",TRUE
+"429","Gnathanodon speciosus","Rowley Shoals","Pooled",TRUE
+"430","Neoniphon sammara","Rowley Shoals","Pooled",TRUE
+"431","Halichoeres hortulanus","Rowley Shoals","Pooled",TRUE
+"432","Naso unicornis","Rowley Shoals","Pooled",TRUE
+"433","Thalassoma amblycephalum","Rowley Shoals","Pooled",TRUE
+"434","Gnathodentex aureolineatus","Rowley Shoals","Pooled",TRUE
+"435","Acanthurus nigricauda","Rowley Shoals","Pooled",TRUE
+"436","Monotaxis grandoculis","Rowley Shoals","Pooled",TRUE
+"437","Chaetodon speculum","Rowley Shoals","Pooled",TRUE
+"438","Blenniella periophthalmus","Rowley Shoals","Pooled",TRUE
+"439","Xenojulis margaritaceus","Rowley Shoals","Pooled",FALSE
+"440","Ctenochaetus binotatus","Rowley Shoals","Pooled",TRUE
+"441","Platax teira","Rowley Shoals","Pooled",TRUE
+"442","Aluterus scriptus","Rowley Shoals","Pooled",TRUE
+"443","Symphorus nematophorus","Rowley Shoals","Pooled",TRUE
+"444","Cantherhines dumerilii","Rowley Shoals","Pooled",TRUE
+"445","Ptereleotris evides","Rowley Shoals","Pooled",TRUE
+"446","Pseudocheilinus hexataenia","Rowley Shoals","Pooled",TRUE
+"447","Diodon hystrix","Rowley Shoals","Pooled",TRUE
+"448","Hemigymnus fasciatus","Rowley Shoals","Pooled",TRUE
+"449","Pomacentrus moluccensis","Rowley Shoals","Pooled",TRUE
+"450","Thalassoma lunare","Rowley Shoals","Pooled",TRUE
+"451","Epinephelus rivulatus","Rowley Shoals","Pooled",TRUE
+"452","Lutjanus rivulatus","Rowley Shoals","Pooled",TRUE
+"453","Cheilinus fasciatus","Rowley Shoals","Pooled",TRUE
+"454","Plectorhinchus chaetodonoides","Rowley Shoals","Pooled",TRUE
+"455","Gymnothorax buroensis","Rowley Shoals","Pooled",TRUE
+"456","Melichthys vidua","Rowley Shoals","Pooled",TRUE
+"457","Myripristis berndti","Rowley Shoals","Pooled",TRUE
+"458","Sufflamen bursa","Rowley Shoals","Pooled",TRUE
+"459","Lampadena luminosa","Rowley Shoals","Pooled",TRUE
+"460","Pseudanthias lori","Rowley Shoals","Pooled",TRUE
+"461","Mulloidichthys flavolineatus","Rowley Shoals","Pooled",TRUE
+"462","Cirrhilabrus cyanopleura","Rowley Shoals","Pooled",TRUE
+"463","Cheilio inermis","Rowley Shoals","Pooled",TRUE
+"464","Platax batavianus","Rowley Shoals","Pooled",TRUE
+"465","Pseudodax moluccanus","Rowley Shoals","Pooled",TRUE
+"466","Choerodon cyanodus","Rowley Shoals","Pooled",TRUE
+"467","Scomberoides lysan","Rowley Shoals","Pooled",TRUE
+"468","Siganus argenteus","Rowley Shoals","Pooled",TRUE
+"469","Chromis alpha","Rowley Shoals","Pooled",TRUE
+"470","Lutjanus carponotatus","Rowley Shoals","Pooled",TRUE
+"471","Pristotis obtusirostris","Rowley Shoals","Pooled",TRUE
+"472","Amblyeleotris sp. SOK-2013","Rowley Shoals","Pooled",FALSE
+"473","Aethaloperca rogaa","Rowley Shoals","Pooled",TRUE
+"474","Lethrinus erythropterus","Rowley Shoals","Pooled",TRUE
+"475","Fistularia commersonii","Rowley Shoals","Pooled",TRUE
+"476","Spratelloides gracilis","Rowley Shoals","Pooled",TRUE
+"477","cf. Coris sp. AWFS-F15-1952","Rowley Shoals","Pooled",FALSE
+"478","Halichoeres trimaculatus","Rowley Shoals","Pooled",TRUE
+"479","Scarus flavipectoralis","Rowley Shoals","Pooled",TRUE
+"480","Gerres oyena","Rowley Shoals","Pooled",TRUE
+"481","Corythoichthys schultzi","Rowley Shoals","Pooled",TRUE
+"482","Scorpaenodes guamensis","Rowley Shoals","Pooled",TRUE
+"483","Plectropomus maculatus","Rowley Shoals","Pooled",TRUE
+"484","Sufflamen fraenatum","Rowley Shoals","Pooled",TRUE
+"485","Plectroglyphidodon dickii","Rowley Shoals","Pooled",TRUE
+"486","Pterygotrigla ryukyuensis","Rowley Shoals","Pooled",TRUE
+"487","Moringua javanica","Rowley Shoals","Pooled",TRUE
+"488","Gobiodon citrinus","Rowley Shoals","Pooled",TRUE
+"489","Lethrinus obsoletus","Rowley Shoals","Pooled",TRUE
+"490","Labroides dimidiatus","Rowley Shoals","Pooled",TRUE
+"491","Atrosalarias holomelas","Rowley Shoals","Pooled",TRUE
+"492","Choerodon cephalotes","Rowley Shoals","Pooled",TRUE
+"493","Pomacanthus sexstriatus","Rowley Shoals","Pooled",TRUE
+"494","Acanthurus olivaceus","Rowley Shoals","Pooled",TRUE
+"495","Lethrinus variegatus","Rowley Shoals","Pooled",TRUE
+"496","Gymnothorax thyrsoideus","Rowley Shoals","Pooled",TRUE
+"497","Stegastes lividus","Rowley Shoals","Pooled",FALSE
+"498","Oxycheilinus orientalis","Rowley Shoals","Pooled",TRUE
+"499","Exallias brevis","Rowley Shoals","Pooled",TRUE
+"500","Epinephelus hexagonatus","Rowley Shoals","Pooled",TRUE
+"501","Scarus niger","Rowley Shoals","Pooled",TRUE
+"502","Rhinecanthus aculeatus","Rowley Shoals","Pooled",TRUE
+"503","Cephalopholis leopardus","Rowley Shoals","Pooled",TRUE
+"504","Gymnothorax punctatofasciatus","Rowley Shoals","Pooled",FALSE
+"505","Dischistodus prosopotaenia","Rowley Shoals","Pooled",TRUE
+"506","Oxycheilinus unifasciatus","Rowley Shoals","Pooled",TRUE
+"507","Gempylus serpens","Rowley Shoals","Pooled",TRUE
+"508","Epinephelus bilobatus","Rowley Shoals","Pooled",TRUE
+"509","Enchelycore bayeri","Rowley Shoals","Pooled",TRUE
+"510","Chrysiptera glauca","Rowley Shoals","Pooled",TRUE
+"511","Pomacentrus nigromarginatus","Rowley Shoals","Pooled",TRUE
+"512","Chaetodon vagabundus","Rowley Shoals","Pooled",TRUE
+"513","Epinephelus spilotoceps","Rowley Shoals","Pooled",TRUE
+"514","Callogobius sclateri","Rowley Shoals","Pooled",TRUE
+"515","Plectropomus areolatus","Rowley Shoals","Pooled",TRUE
+"516","Aprion virescens","Rowley Shoals","Pooled",TRUE
+"517","Rhinecanthus rectangulus","Rowley Shoals","Pooled",TRUE
+"518","Epinephelus polyphekadion","Rowley Shoals","Pooled",TRUE
+"519","Sargocentron rubrum","Rowley Shoals","Pooled",TRUE
+"520","Trachinotus blochii","Rowley Shoals","Pooled",TRUE
+"521","Dascyllus aruanus","Rowley Shoals","Pooled",TRUE
+"522","Caranx ignobilis","Rowley Shoals","Pooled",TRUE
+"523","Lethrinus genivittatus","Rowley Shoals","Pooled",TRUE
+"524","Chaetodon auriga","Rowley Shoals","Pooled",TRUE
+"525","Asterropteryx semipunctata","Rowley Shoals","Pooled",TRUE
+"526","Salarias fasciatus","Rowley Shoals","Pooled",TRUE
+"527","Sunagocia otaitensis","Rowley Shoals","Pooled",TRUE
+"528","Decapterus macarellus","Rowley Shoals","Pooled",TRUE
+"529","Cephalopholis cyanostigma","Rowley Shoals","Pooled",TRUE
+"530","Plectorhinchus polytaenia","Rowley Shoals","Pooled",TRUE
+"531","Chaetodon ephippium","Rowley Shoals","Pooled",TRUE
+"532","Atule mate","Rowley Shoals","Pooled",TRUE
+"533","Variola louti","Rowley Shoals","Pooled",TRUE
+"534","Meiacanthus atrodorsalis","Rowley Shoals","Pooled",TRUE
+"535","Corythoichthys intestinalis","Rowley Shoals","Pooled",TRUE
+"536","Diaphus mollis","Rowley Shoals","Pooled",TRUE
+"537","Abalistes stellaris","Rowley Shoals","Pooled",FALSE
+"538","Gobiodon ater","Rowley Shoals","Pooled",FALSE
+"539","Halichoeres brownfieldi","Rowley Shoals","Pooled",TRUE
+"540","Pervagor janthinosoma","Rowley Shoals","Pooled",TRUE
+"541","Iniistius jacksonensis","Rowley Shoals","Pooled",TRUE
+"542","Leptoscarus vaigiensis","Rowley Shoals","Pooled",TRUE
+"543","Parupeneus heptacanthus","Rowley Shoals","Pooled",TRUE
+"544","Triaenodon obesus","Rowley Shoals","Pooled",TRUE
+"545","Lutjanus vitta","Rowley Shoals","Pooled",TRUE
+"546","Plectroglyphidodon johnstonianus","Rowley Shoals","Pooled",TRUE
+"547","Cryptocentrus caeruleomaculatus","Rowley Shoals","Pooled",TRUE
+"548","Pseudobalistes fuscus","Rowley Shoals","Pooled",TRUE
+"549","Platax orbicularis","Rowley Shoals","Pooled",TRUE
+"550","Photopectoralis aureus","Rowley Shoals","Pooled",TRUE
+"551","Chaetodon aureofasciatus","Rowley Shoals","Pooled",TRUE
+"552","Epibulus insidiator","Rowley Shoals","Pooled",TRUE
+"553","Decapterus tabl","Rowley Shoals","Pooled",TRUE
+"554","Chrysiptera brownriggii","Rowley Shoals","Pooled",TRUE
+"555","Cymolutes torquatus","Rowley Shoals","Pooled",TRUE
+"556","Ostorhinchus aureus","Rowley Shoals","Pooled",TRUE
+"557","Psammoperca waigiensis","Rowley Shoals","Pooled",TRUE
+"558","Leiopotherapon aheneus","Rowley Shoals","Pooled",TRUE
+"559","Coris caudimacula","Rowley Shoals","Pooled",TRUE
+"560","Plectorhinchus flavomaculatus","Rowley Shoals","Pooled",TRUE
+"561","Monotaxis heterodon","Rowley Shoals","Pooled",TRUE
+"562","Epinephelus tauvina","Rowley Shoals","Pooled",TRUE
+"563","Diaphus splendidus","Rowley Shoals","Pooled",TRUE
+"564","Pomacentrus wardi","Rowley Shoals","Pooled",TRUE
+"565","Lagocephalus lagocephalus","Rowley Shoals","Pooled",FALSE
+"566","Ablabys taenianotus","Rowley Shoals","Pooled",TRUE
+"567","Acanthurus triostegus","Rowley Shoals","Pooled",TRUE
+"568","Pseudocoris yamashiroi","Rowley Shoals","Pooled",TRUE
+"569","Gymnocranius microdon","Rowley Shoals","Pooled",TRUE
+"570","Taeniura lymma","Rowley Shoals","Pooled",TRUE
+"571","Heniochus chrysostomus","Rowley Shoals","Pooled",TRUE
+"572","Blenniella chrysospilos","Rowley Shoals","Pooled",TRUE
+"573","Trachinotus baillonii","Rowley Shoals","Pooled",TRUE
+"574","Ecsenius bicolor","Rowley Shoals","Pooled",TRUE
+"575","Scomberoides tol","Rowley Shoals","Pooled",TRUE
+"576","Pomacanthus navarchus","Rowley Shoals","Pooled",TRUE
+"577","Cirrhilabrus temminckii","Rowley Shoals","Pooled",TRUE
+"578","Plectorhinchus gibbosus","Rowley Shoals","Pooled",TRUE
+"579","Gymnothorax flavimarginatus","Rowley Shoals","Pooled",TRUE
+"580","Chromis elerae","Rowley Shoals","Pooled",TRUE
+"581","Plectroglyphidodon lacrymatus","Rowley Shoals","Pooled",TRUE
+"582","Neopomacentrus cyanomos","Rowley Shoals","Pooled",TRUE
+"583","Pomacanthus semicirculatus","Rowley Shoals","Pooled",TRUE
+"584","Planiliza macrolepis","Rowley Shoals","Pooled",TRUE
+"585","Hemigymnus melapterus","Rowley Shoals","Pooled",TRUE
+"586","Petroscirtes breviceps","Rowley Shoals","Pooled",TRUE
+"587","Chaetodermis penicilligerus","Rowley Shoals","Pooled",TRUE
+"588","Parupeneus multifasciatus","Rowley Shoals","Pooled",TRUE
+"589","Melichthys niger","Rowley Shoals","Pooled",TRUE
+"590","Oxycheilinus digramma","Rowley Shoals","Pooled",TRUE
+"591","Acanthurus thompsoni","Rowley Shoals","Pooled",TRUE
+"592","Diodon liturosus","Rowley Shoals","Pooled",TRUE
+"593","Cymolutes praetextatus","Rowley Shoals","Pooled",TRUE
+"594","Hipposcarus longiceps","Rowley Shoals","Pooled",TRUE
+"595","Symphorichthys spilurus","Rowley Shoals","Pooled",TRUE
+"596","Chromis atripectoralis","Rowley Shoals","Pooled",TRUE
+"597","Pseudocheilinus evanidus","Rowley Shoals","Pooled",TRUE
+"598","Pristicon trimaculatus","Rowley Shoals","Pooled",TRUE
+"599","Spratelloides delicatulus","Rowley Shoals","Pooled",TRUE
+"600","Macropharyngodon meleagris","Rowley Shoals","Pooled",TRUE
+"601","Pseudanthias pleurotaenia","Rowley Shoals","Pooled",TRUE
+"602","Halichoeres margaritaceus","Rowley Shoals","Pooled",TRUE
+"603","Halichoeres nebulosus","Rowley Shoals","Pooled",TRUE
+"604","Chaetodon bennetti","Rowley Shoals","Pooled",TRUE
+"605","Scarus frenatus","Rowley Shoals","Pooled",TRUE
+"606","Chaetodon citrinellus","Rowley Shoals","Pooled",TRUE
+"607","Pomacentrus pavo","Rowley Shoals","Pooled",TRUE
+"608","Gobiodon cf. bilineatus JH-2013","Rowley Shoals","Pooled",FALSE
+"609","Halichoeres marginatus","Rowley Shoals","Pooled",TRUE
+"610","Cirrhilabrus exquisitus","Rowley Shoals","Pooled",TRUE
+"611","Caesio xanthonota","Rowley Shoals","Pooled",FALSE
+"612","Gobiodon rivulatus","Rowley Shoals","Pooled",TRUE
+"613","Pomacentrus spilotoceps","Rowley Shoals","Pooled",FALSE
+"614","Pteragogus cryptus","Rowley Shoals","Pooled",TRUE
+"615","Scarus oviceps","Rowley Shoals","Pooled",TRUE
+"616","Pomacentrus vaiuli","Rowley Shoals","Pooled",TRUE
+"617","Strongylura incisa","Rowley Shoals","Pooled",TRUE
+"618","Hypoatherina barnesi","Rowley Shoals","Pooled",TRUE
+"619","Myripristis murdjan","Rowley Shoals","Pooled",TRUE
+"620","Ctenochaetus cyanocheilus","Rowley Shoals","Pooled",TRUE
+"621","Chanos chanos","Rowley Shoals","Pooled",TRUE
+"622","Lethrinus erythracanthus","Rowley Shoals","Pooled",TRUE
+"623","Lethrinus nebulosus","Rowley Shoals","Pooled",TRUE
+"624","Mulloidichthys vanicolensis","Rowley Shoals","Pooled",TRUE
+"625","Bolbometopon muricatum","Rowley Shoals","Pooled",TRUE
+"626","Chaetodon adiergastos","Rowley Shoals","Pooled",TRUE
+"627","Aphareus furca","Rowley Shoals","Pooled",TRUE
+"628","Arothron mappa","Rowley Shoals","Pooled",TRUE
+"629","Zanclus cornutus","Rowley Shoals","Pooled",TRUE
+"630","Canthigaster valentini","Rowley Shoals","Pooled",TRUE
+"631","Chaetodon ocellicaudus","Rowley Shoals","Pooled",TRUE
+"632","Rexea prometheoides","Rowley Shoals","Pooled",TRUE
+"633","Stethojulis strigiventer","Rowley Shoals","Pooled",TRUE
+"634","Pseudocheilinus octotaenia","Rowley Shoals","Pooled",TRUE
+"635","Anyperodon leucogrammicus","Rowley Shoals","Pooled",TRUE
+"636","Sargocentron punctatissimum","Rowley Shoals","Pooled",TRUE
+"637","Cheilinus undulatus","Rowley Shoals","Pooled",TRUE
+"638","Gobiodon axillaris","Rowley Shoals","Pooled",TRUE
+"639","Epinephelus fasciatus","Rowley Shoals","Pooled",TRUE
+"640","Plectroglyphidodon leucozonus","Rowley Shoals","Pooled",TRUE
+"641","Chaetodon unimaculatus","Rowley Shoals","Pooled",TRUE
+"642","Gymnothorax margaritophorus","Rowley Shoals","Pooled",TRUE
+"643","Halichoeres biocellatus","Rowley Shoals","Pooled",TRUE
+"644","Pseudanthias tuka","Rowley Shoals","Pseudo",TRUE
+"645","Scarus psittacus","Rowley Shoals","Pseudo",TRUE
+"646","Chlorurus bleekeri","Rowley Shoals","Pseudo",TRUE
+"647","Chromis fumea","Rowley Shoals","Pseudo",FALSE
+"648","Ptereleotris microlepis","Rowley Shoals","Pseudo",TRUE
+"649","Wetmorella albofasciata","Rowley Shoals","Pseudo",TRUE
+"650","Platybelone argala","Rowley Shoals","Pseudo",FALSE
+"651","Elagatis bipinnulata","Rowley Shoals","Pseudo",TRUE
+"652","Gymnothorax zonipectis","Rowley Shoals","Pseudo",TRUE
+"653","Diaphus garmani","Rowley Shoals","Pseudo",TRUE
+"654","Eumegistus illustris","Rowley Shoals","Pseudo",TRUE
+"655","Pseudocheilinus hexataenia","Rowley Shoals","Pseudo",TRUE
+"656","Gymnosarda unicolor","Rowley Shoals","Pseudo",TRUE
+"657","Chromis atripes","Rowley Shoals","Pseudo",TRUE
+"658","Hemiglyphidodon plagiometopon","Rowley Shoals","Pseudo",TRUE
+"659","Myripristis vittata","Rowley Shoals","Pseudo",TRUE
+"660","Scarus dimidiatus","Rowley Shoals","Pseudo",TRUE
+"661","Pseudogramma polyacantha","Rowley Shoals","Pseudo",TRUE
+"662","Cirripectes castaneus","Rowley Shoals","Pseudo",TRUE
+"663","Chaetodon ornatissimus","Rowley Shoals","Pseudo",TRUE
+"664","Choerodon schoenleinii","Rowley Shoals","Pseudo",TRUE
+"665","Paracirrhites forsteri","Rowley Shoals","Pseudo",TRUE
+"666","Chaetodon semeion","Rowley Shoals","Pseudo",TRUE
+"667","Stenatherina panatela","Rowley Shoals","Pseudo",TRUE
+"668","Caranx lugubris","Rowley Shoals","Pseudo",TRUE
+"669","Cyclothone pseudopallida","Rowley Shoals","Pseudo",TRUE
+"670","Plectropomus laevis","Rowley Shoals","Pseudo",TRUE
+"671","Stegastes nigricans","Rowley Shoals","Pseudo",TRUE
+"672","Pterocaesio tile","Rowley Shoals","Pseudo",TRUE
+"673","Pomacentrus vaiuli","Rowley Shoals","Pseudo",TRUE
+"674","Acanthurus nigricauda","Rowley Shoals","Pseudo",TRUE
+"675","Crossosalarias macrospilus","Rowley Shoals","Pseudo",TRUE
+"676","Acanthurus grammoptilus","Rowley Shoals","Pseudo",TRUE
+"677","Plectorhinchus albovittatus","Rowley Shoals","Pseudo",FALSE
+"678","Chromis viridis","Rowley Shoals","Pseudo",TRUE
+"679","Cephalopholis argus","Rowley Shoals","Pseudo",TRUE
+"680","Naso unicornis","Rowley Shoals","Pseudo",TRUE
+"681","Aluterus scriptus","Rowley Shoals","Pseudo",TRUE
+"682","Parapriacanthus ransonneti","Rowley Shoals","Pseudo",TRUE
+"683","Caesio caerulaurea","Rowley Shoals","Pseudo",TRUE
+"684","Blenniella periophthalmus","Rowley Shoals","Pseudo",TRUE
+"685","Cantherhines dumerilii","Rowley Shoals","Pseudo",TRUE
+"686","Diodon hystrix","Rowley Shoals","Pseudo",TRUE
+"687","Caesio cuning","Rowley Shoals","Pseudo",TRUE
+"688","Pomacentrus moluccensis","Rowley Shoals","Pseudo",TRUE
+"689","Lethrinus olivaceus","Rowley Shoals","Pseudo",TRUE
+"690","Sillago schomburgkii","Rowley Shoals","Pseudo",TRUE
+"691","Thalassoma lunare","Rowley Shoals","Pseudo",TRUE
+"692","Lethrinus atkinsoni","Rowley Shoals","Pseudo",TRUE
+"693","Cheilinus fasciatus","Rowley Shoals","Pseudo",TRUE
+"694","Lutjanus rivulatus","Rowley Shoals","Pseudo",TRUE
+"695","Sufflamen bursa","Rowley Shoals","Pseudo",TRUE
+"696","Epinephelus rivulatus","Rowley Shoals","Pseudo",TRUE
+"697","Pseudanthias lori","Rowley Shoals","Pseudo",TRUE
+"698","Plectorhinchus chaetodonoides","Rowley Shoals","Pseudo",TRUE
+"699","Cirrhilabrus cyanopleura","Rowley Shoals","Pseudo",TRUE
+"700","Pseudodax moluccanus","Rowley Shoals","Pseudo",TRUE
+"701","Halichoeres trimaculatus","Rowley Shoals","Pseudo",TRUE
+"702","Neoniphon sammara","Rowley Shoals","Pseudo",TRUE
+"703","Hemigymnus fasciatus","Rowley Shoals","Pseudo",TRUE
+"704","Chromis alpha","Rowley Shoals","Pseudo",TRUE
+"705","Scomberoides lysan","Rowley Shoals","Pseudo",TRUE
+"706","Gnathanodon speciosus","Rowley Shoals","Pseudo",TRUE
+"707","Chaetodon speculum","Rowley Shoals","Pseudo",TRUE
+"708","Cheilio inermis","Rowley Shoals","Pseudo",TRUE
+"709","Aethaloperca rogaa","Rowley Shoals","Pseudo",TRUE
+"710","Scarus flavipectoralis","Rowley Shoals","Pseudo",TRUE
+"711","Platax teira","Rowley Shoals","Pseudo",TRUE
+"712","Lethrinus erythropterus","Rowley Shoals","Pseudo",TRUE
+"713","Symphorus nematophorus","Rowley Shoals","Pseudo",TRUE
+"714","Gobiodon citrinus","Rowley Shoals","Pseudo",TRUE
+"715","Acanthurus olivaceus","Rowley Shoals","Pseudo",TRUE
+"716","Pristotis obtusirostris","Rowley Shoals","Pseudo",TRUE
+"717","Lethrinus obsoletus","Rowley Shoals","Pseudo",TRUE
+"718","Stegastes lividus","Rowley Shoals","Pseudo",FALSE
+"719","Plectroglyphidodon dickii","Rowley Shoals","Pseudo",TRUE
+"720","Lampadena luminosa","Rowley Shoals","Pseudo",TRUE
+"721","Scarus niger","Rowley Shoals","Pseudo",TRUE
+"722","Epinephelus hexagonatus","Rowley Shoals","Pseudo",TRUE
+"723","Atrosalarias holomelas","Rowley Shoals","Pseudo",TRUE
+"724","Oxycheilinus orientalis","Rowley Shoals","Pseudo",TRUE
+"725","Plectropomus maculatus","Rowley Shoals","Pseudo",TRUE
+"726","Xenojulis margaritaceus","Rowley Shoals","Pseudo",FALSE
+"727","Gnathodentex aureolineatus","Rowley Shoals","Pseudo",TRUE
+"728","Halichoeres hortulanus","Rowley Shoals","Pseudo",TRUE
+"729","Plectropomus areolatus","Rowley Shoals","Pseudo",TRUE
+"730","Scorpaenodes guamensis","Rowley Shoals","Pseudo",TRUE
+"731","Gymnothorax punctatofasciatus","Rowley Shoals","Pseudo",FALSE
+"732","Oxycheilinus unifasciatus","Rowley Shoals","Pseudo",TRUE
+"733","Epinephelus polyphekadion","Rowley Shoals","Pseudo",TRUE
+"734","Siganus argenteus","Rowley Shoals","Pseudo",TRUE
+"735","Platax batavianus","Rowley Shoals","Pseudo",TRUE
+"736","Strongylura incisa","Rowley Shoals","Pseudo",TRUE
+"737","Lethrinus variegatus","Rowley Shoals","Pseudo",TRUE
+"738","Choerodon cyanodus","Rowley Shoals","Pseudo",TRUE
+"739","Chrysiptera glauca","Rowley Shoals","Pseudo",TRUE
+"740","Chaetodon ephippium","Rowley Shoals","Pseudo",TRUE
+"741","Dischistodus prosopotaenia","Rowley Shoals","Pseudo",TRUE
+"742","Gymnothorax thyrsoideus","Rowley Shoals","Pseudo",TRUE
+"743","Gerres oyena","Rowley Shoals","Pseudo",TRUE
+"744","Asterropteryx semipunctata","Rowley Shoals","Pseudo",TRUE
+"745","Pomacentrus nigromarginatus","Rowley Shoals","Pseudo",TRUE
+"746","Rhinecanthus rectangulus","Rowley Shoals","Pseudo",TRUE
+"747","Monotaxis heterodon","Rowley Shoals","Pseudo",TRUE
+"748","Acanthurus triostegus","Rowley Shoals","Pseudo",TRUE
+"749","Gymnothorax undulatus","Rowley Shoals","Pseudo",TRUE
+"750","Epibulus insidiator","Rowley Shoals","Pseudo",TRUE
+"751","Enchelycore bayeri","Rowley Shoals","Pseudo",TRUE
+"752","Lutjanus carponotatus","Rowley Shoals","Pseudo",TRUE
+"753","Gobiodon rivulatus","Rowley Shoals","Pseudo",TRUE
+"754","Trachinotus blochii","Rowley Shoals","Pseudo",TRUE
+"755","Chaetodon auriga","Rowley Shoals","Pseudo",TRUE
+"756","Parupeneus heptacanthus","Rowley Shoals","Pseudo",TRUE
+"757","Cephalopholis cyanostigma","Rowley Shoals","Pseudo",TRUE
+"758","cf. Coris sp. AWFS-F15-1952","Rowley Shoals","Pseudo",FALSE
+"759","Salarias fasciatus","Rowley Shoals","Pseudo",TRUE
+"760","Gobiodon ater","Rowley Shoals","Pseudo",FALSE
+"761","Epinephelus bilobatus","Rowley Shoals","Pseudo",TRUE
+"762","Ptereleotris evides","Rowley Shoals","Pseudo",TRUE
+"763","Novaculichthys taeniourus","Rowley Shoals","Pseudo",TRUE
+"764","Meiacanthus atrodorsalis","Rowley Shoals","Pseudo",TRUE
+"765","Hemigymnus melapterus","Rowley Shoals","Pseudo",TRUE
+"766","Acanthurus thompsoni","Rowley Shoals","Pseudo",TRUE
+"767","Iniistius jacksonensis","Rowley Shoals","Pseudo",TRUE
+"768","Plectroglyphidodon johnstonianus","Rowley Shoals","Pseudo",TRUE
+"769","Parupeneus multifasciatus","Rowley Shoals","Pseudo",TRUE
+"770","Monotaxis grandoculis","Rowley Shoals","Pseudo",TRUE
+"771","Oxycheilinus digramma","Rowley Shoals","Pseudo",TRUE
+"772","Sargocentron rubrum","Rowley Shoals","Pseudo",TRUE
+"773","Cymolutes praetextatus","Rowley Shoals","Pseudo",TRUE
+"774","Chrysiptera brownriggii","Rowley Shoals","Pseudo",TRUE
+"775","Melichthys niger","Rowley Shoals","Pseudo",TRUE
+"776","Paramonacanthus choirocephalus","Rowley Shoals","Pseudo",TRUE
+"777","Diodon liturosus","Rowley Shoals","Pseudo",TRUE
+"778","Cryptocentrus caeruleomaculatus","Rowley Shoals","Pseudo",TRUE
+"779","Photopectoralis aureus","Rowley Shoals","Pseudo",TRUE
+"780","Hipposcarus longiceps","Rowley Shoals","Pseudo",TRUE
+"781","Psammoperca waigiensis","Rowley Shoals","Pseudo",TRUE
+"782","Symphorichthys spilurus","Rowley Shoals","Pseudo",TRUE
+"783","Spratelloides gracilis","Rowley Shoals","Pseudo",TRUE
+"784","Balistapus undulatus","Rowley Shoals","Pseudo",TRUE
+"785","Chromis atripectoralis","Rowley Shoals","Pseudo",TRUE
+"786","Mulloidichthys flavolineatus","Rowley Shoals","Pseudo",TRUE
+"787","Melichthys vidua","Rowley Shoals","Pseudo",TRUE
+"788","Pristicon trimaculatus","Rowley Shoals","Pseudo",TRUE
+"789","Canthigaster solandri","Rowley Shoals","Pseudo",TRUE
+"790","Spratelloides delicatulus","Rowley Shoals","Pseudo",TRUE
+"791","Halichoeres margaritaceus","Rowley Shoals","Pseudo",TRUE
+"792","Dascyllus aruanus","Rowley Shoals","Pseudo",TRUE
+"793","Macropharyngodon meleagris","Rowley Shoals","Pseudo",TRUE
+"794","Pseudanthias pleurotaenia","Rowley Shoals","Pseudo",TRUE
+"795","Pseudocheilinus evanidus","Rowley Shoals","Pseudo",TRUE
+"796","Labroides dimidiatus","Rowley Shoals","Pseudo",TRUE
+"797","Caranx ignobilis","Rowley Shoals","Pseudo",TRUE
+"798","Cephalopholis leopardus","Rowley Shoals","Pseudo",TRUE
+"799","Chaetodon bennetti","Rowley Shoals","Pseudo",TRUE
+"800","Myripristis kuntee","Rowley Shoals","Pseudo",TRUE
+"801","Scarus frenatus","Rowley Shoals","Pseudo",TRUE
+"802","Pomacentrus pavo","Rowley Shoals","Pseudo",TRUE
+"803","Chaetodon citrinellus","Rowley Shoals","Pseudo",TRUE
+"804","Myripristis berndti","Rowley Shoals","Pseudo",TRUE
+"805","Halichoeres marginatus","Rowley Shoals","Pseudo",TRUE
+"806","Gobiodon cf. bilineatus JH-2013","Rowley Shoals","Pseudo",FALSE
+"807","Caesio xanthonota","Rowley Shoals","Pseudo",FALSE
+"808","Cirrhilabrus exquisitus","Rowley Shoals","Pseudo",TRUE
+"809","Pteragogus cryptus","Rowley Shoals","Pseudo",TRUE
+"810","Scarus oviceps","Rowley Shoals","Pseudo",TRUE
+"811","Hypoatherina barnesi","Rowley Shoals","Pseudo",TRUE
+"812","Acanthurus lineatus","Rowley Shoals","Pseudo",TRUE
+"813","Ptereleotris zebra","Rowley Shoals","Pseudo",TRUE
+"814","Myripristis murdjan","Rowley Shoals","Pseudo",TRUE
+"815","Thalassoma amblycephalum","Rowley Shoals","Pseudo",TRUE
+"816","Ctenochaetus cyanocheilus","Rowley Shoals","Pseudo",TRUE
+"817","Chanos chanos","Rowley Shoals","Pseudo",TRUE
+"818","Lethrinus erythracanthus","Rowley Shoals","Pseudo",TRUE
+"819","Decapterus macarellus","Rowley Shoals","Pseudo",TRUE
+"820","Mulloidichthys vanicolensis","Rowley Shoals","Pseudo",TRUE
+"821","Gymnothorax buroensis","Rowley Shoals","Pseudo",TRUE
+"822","Halichoeres nebulosus","Rowley Shoals","Pseudo",TRUE
+"823","Bolbometopon muricatum","Rowley Shoals","Pseudo",TRUE
+"824","Arothron mappa","Rowley Shoals","Pseudo",TRUE
+"825","Chaetodon adiergastos","Rowley Shoals","Pseudo",TRUE
+"826","Aphareus furca","Rowley Shoals","Pseudo",TRUE
+"827","Zanclus cornutus","Rowley Shoals","Pseudo",TRUE
+"828","Pomacentrus spilotoceps","Rowley Shoals","Pseudo",FALSE
+"829","Fistularia commersonii","Rowley Shoals","Pseudo",TRUE
+"830","Canthigaster valentini","Rowley Shoals","Pseudo",TRUE
+"831","Lethrinus nebulosus","Rowley Shoals","Pseudo",TRUE
+"832","Stethojulis strigiventer","Rowley Shoals","Pseudo",TRUE
+"833","Pseudocheilinus octotaenia","Rowley Shoals","Pseudo",TRUE
+"834","Chaetodon unimaculatus","Rowley Shoals","Pseudo",TRUE
+"835","Sargocentron punctatissimum","Rowley Shoals","Pseudo",TRUE
+"836","Cheilinus undulatus","Rowley Shoals","Pseudo",TRUE
+"837","Anyperodon leucogrammicus","Rowley Shoals","Pseudo",TRUE
+"838","Chromis ternatensis","Rowley Shoals","Pseudo",TRUE
+"839","Plectroglyphidodon leucozonus","Rowley Shoals","Pseudo",TRUE
+"840","Rhinecanthus aculeatus","Rowley Shoals","Pseudo",TRUE
+"841","Epinephelus fasciatus","Rowley Shoals","Pseudo",TRUE
+"842","Gymnothorax margaritophorus","Rowley Shoals","Pseudo",TRUE
+"843","Gobiodon axillaris","Rowley Shoals","Pseudo",TRUE
+"844","Trachinocephalus myops","North-west","Independent",FALSE
+"845","Chaetodontoplus mesoleucus","North-west","Independent",TRUE
+"846","Deveximentum megalolepis","North-west","Independent",TRUE
+"847","Decapterus akaadsi","North-west","Independent",FALSE
+"848","Lutjanus carponotatus","North-west","Independent",TRUE
+"849","Hyporhamphus quoyi","North-west","Independent",TRUE
+"850","Choerodon cyanodus","North-west","Independent",TRUE
+"851","Platax batavianus","North-west","Independent",TRUE
+"852","Chaetodontoplus duboulayi","North-west","Independent",TRUE
+"853","Ellochelon vaigiensis","North-west","Independent",TRUE
+"854","Sargocentron rubrum","North-west","Independent",TRUE
+"855","Parachaetodon ocellatus","North-west","Independent",TRUE
+"856","Lethrinus genivittatus","North-west","Independent",TRUE
+"857","Glaucosoma magnificum","North-west","Independent",TRUE
+"858","Leiopotherapon aheneus","North-west","Independent",TRUE
+"859","Zabidius novemaculeatus","North-west","Independent",TRUE
+"860","Lutjanus johnii","North-west","Independent",TRUE
+"861","Chanos chanos","North-west","Independent",TRUE
+"862","Paramonacanthus choirocephalus","North-west","Independent",TRUE
+"863","Acanthurus grammoptilus","North-west","Independent",TRUE
+"864","Lethrinus nebulosus","North-west","Independent",TRUE
+"865","Terapon puta","North-west","Independent",TRUE
+"866","cf. Equulites sp. AWFS-F16-1478","North-west","Independent",FALSE
+"867","Epinephelus bleekeri","North-west","Independent",TRUE
+"868","Upeneus tragula","North-west","Independent",TRUE
+"869","Sardinella gibbosa","North-west","Independent",TRUE
+"870","Aurigequula fasciata","North-west","Independent",TRUE
+"871","Caesio cuning","North-west","Independent",TRUE
+"872","Trichiurus brevis","North-west","Independent",FALSE
+"873","Rachycentron canadum","North-west","Independent",TRUE
+"874","Torquigener whitleyi","North-west","Independent",TRUE
+"875","Crenimugil seheli","North-west","Independent",TRUE
+"876","Gerres oyena","North-west","Independent",TRUE
+"877","Halichoeres nigrescens","North-west","Independent",TRUE
+"878","Cryptocentrus caeruleomaculatus","North-west","Independent",TRUE
+"879","Gerres filamentosus","North-west","Independent",TRUE
+"880","Caranx ignobilis","North-west","Independent",TRUE
+"881","Caesio caerulaurea","North-west","Independent",TRUE
+"882","Butis butis","North-west","Independent",TRUE
+"883","Encrasicholina heteroloba","North-west","Independent",TRUE
+"884","Cephalopholis cyanostigma","North-west","Independent",TRUE
+"885","Pseudorhombus arsius","North-west","Independent",TRUE
+"886","Centrogenys vaigiensis","North-west","Independent",TRUE
+"887","Herklotsichthys lippa","North-west","Independent",TRUE
+"888","cf. Sillago sp. AWFS-F16-0252","North-west","Independent",FALSE
+"889","Choerodon schoenleinii","North-west","Independent",TRUE
+"890","Plectropomus maculatus","North-west","Independent",TRUE
+"891","Eleutheronema tetradactylum","North-west","Independent",TRUE
+"892","cf. Equulites sp. AWFS-F16-1479","North-west","Independent",FALSE
+"893","Plectorhinchus gibbosus","North-west","Independent",TRUE
+"894","Pomacentrus milleri","North-west","Independent",TRUE
+"895","Pegasus volitans","North-west","Independent",TRUE
+"896","Monodactylus argenteus","North-west","Independent",TRUE
+"897","Hyporhamphus regularis","North-west","Independent",TRUE
+"898","Halichoeres nebulosus","North-west","Independent",TRUE
+"899","Ulua mentalis","North-west","Independent",TRUE
+"900","Lethrinus laticaudis","North-west","Independent",TRUE
+"901","Scomberoides lysan","North-west","Independent",TRUE
+"902","Dussumieria elopsoides","North-west","Independent",TRUE
+"903","Lutjanus bitaeniatus","North-west","Independent",TRUE
+"904","Lethrinus olivaceus","North-west","Independent",TRUE
+"905","Coris pictoides","North-west","Independent",TRUE
+"906","Variola louti","North-west","Independent",TRUE
+"907","Chromis cinerascens","North-west","Independent",TRUE
+"908","Lutjanus argentimaculatus","North-west","Independent",TRUE
+"909","Thalassoma amblycephalum","North-west","Independent",TRUE
+"910","Cirrhilabrus exquisitus","North-west","Independent",TRUE
+"911","cf. Jaydia sp. AWFS-F16-1457","North-west","Independent",FALSE
+"912","Acentrogobius caninus","North-west","Independent",TRUE
+"913","Scomberoides tol","North-west","Independent",TRUE
+"914","Lutjanus russellii","North-west","Independent",TRUE
+"915","Prionobutis microps","North-west","Independent",TRUE
+"916","Acanthopagrus sp. YI-2011a","North-west","Independent",FALSE
+"917","Gnathanodon speciosus","North-west","Independent",TRUE
+"918","Monacanthus chinensis","North-west","Independent",TRUE
+"919","Sillago sp. AWFS-F16-1600","North-west","Independent",FALSE
+"920","Chaetodon aureofasciatus","North-west","Independent",TRUE
+"921","Atrosalarias holomelas","North-west","Independent",TRUE
+"922","Oedalechilus labiosus","North-west","Independent",FALSE
+"923","Pseudorhombus jenynsii","North-west","Independent",TRUE
+"924","Plectorhinchus albovittatus","North-west","Independent",FALSE
+"925","Planiliza subviridis","North-west","Independent",TRUE
+"926","Leptobrama muelleri","North-west","Independent",TRUE
+"927","Amblyglyphidodon ternatensis","North-west","Independent",FALSE
+"928","Mugilogobius mertoni","North-west","Independent",TRUE
+"929","Plectorhinchus chrysotaenia","North-west","Independent",TRUE
+"930","Choerodon cephalotes","North-west","Independent",TRUE
+"931","Lutjanus carponotatus","North-west","Pooled",TRUE
+"932","Trixiphichthys weberi","North-west","Pooled",TRUE
+"933","Diproctacanthus xanthurus","North-west","Pooled",TRUE
+"934","Ophicthus sp. Fj-1","North-west","Pooled",FALSE
+"935","Herklotsichthys lippa","North-west","Pooled",TRUE
+"936","Upeneus sulphureus","North-west","Pooled",TRUE
+"937","Gerres oyena","North-west","Pooled",TRUE
+"938","Chromis atripectoralis","North-west","Pooled",TRUE
+"939","Acentrogobius caninus","North-west","Pooled",TRUE
+"940","Plectorhinchus gibbosus","North-west","Pooled",TRUE
+"941","Pseudorhombus spinosus","North-west","Pooled",TRUE
+"942","Atule mate","North-west","Pooled",TRUE
+"943","Psammogobius biocellatus","North-west","Pooled",TRUE
+"944","Choerodon cyanodus","North-west","Pooled",TRUE
+"945","Deveximentum megalolepis","North-west","Pooled",TRUE
+"946","Strongylura incisa","North-west","Pooled",TRUE
+"947","Hyporhamphus quoyi","North-west","Pooled",TRUE
+"948","Lethrinus nebulosus","North-west","Pooled",TRUE
+"949","Chaetodontoplus mesoleucus","North-west","Pooled",TRUE
+"950","Chanos chanos","North-west","Pooled",TRUE
+"951","Lutjanus johnii","North-west","Pooled",TRUE
+"952","Periophthalmus argentilineatus","North-west","Pooled",TRUE
+"953","Lates calcarifer","North-west","Pooled",TRUE
+"954","Ellochelon vaigiensis","North-west","Pooled",TRUE
+"955","Chaetodontoplus duboulayi","North-west","Pooled",TRUE
+"956","Cymbacephalus staigeri","North-west","Pooled",TRUE
+"957","Lutjanus russellii","North-west","Pooled",TRUE
+"958","Parapercis nebulosa","North-west","Pooled",TRUE
+"959","Sargocentron rubrum","North-west","Pooled",TRUE
+"960","Anodontostoma chacunda","North-west","Pooled",TRUE
+"961","Chelonodontops patoca","North-west","Pooled",FALSE
+"962","Periophthalmus minutus","North-west","Pooled",TRUE
+"963","Glaucosoma magnificum","North-west","Pooled",TRUE
+"964","Parachaetodon ocellatus","North-west","Pooled",TRUE
+"965","Gerres erythrourus","North-west","Pooled",TRUE
+"966","Lethrinus genivittatus","North-west","Pooled",TRUE
+"967","Lutjanus bitaeniatus","North-west","Pooled",TRUE
+"968","Anoxypristis cuspidata","North-west","Pooled",TRUE
+"969","cf. Sillago sp. AWFS-F16-0252","North-west","Pooled",FALSE
+"970","Pomadasys kaakan","North-west","Pooled",TRUE
+"971","Leiopotherapon aheneus","North-west","Pooled",TRUE
+"972","Zabidius novemaculeatus","North-west","Pooled",TRUE
+"973","Epinephelus quoyans","North-west","Pooled",FALSE
+"974","Planiliza subviridis","North-west","Pooled",TRUE
+"975","cf. Yongeichthys sp. AWFS-F16-1517","North-west","Pooled",FALSE
+"976","Scatophagus argus","North-west","Pooled",TRUE
+"977","Parupeneus multifasciatus","North-west","Pooled",TRUE
+"978","Congrogadus subducens","North-west","Pooled",TRUE
+"979","Platycephalus australis","North-west","Pooled",FALSE
+"980","Marilyna darwinii","North-west","Pooled",TRUE
+"981","Selar boops","North-west","Pooled",TRUE
+"982","Acanthurus grammoptilus","North-west","Pooled",TRUE
+"983","Caranx bucculentus","North-west","Pooled",TRUE
+"984","Pristipomoides filamentosus","North-west","Pooled",TRUE
+"985","Lagocephalus sceleratus","North-west","Pooled",TRUE
+"986","Pomadasys argyreus","North-west","Pooled",FALSE
+"987","Terapon puta","North-west","Pooled",TRUE
+"988","Chrysiptera rollandi","North-west","Pooled",TRUE
+"989","Scomberoides tol","North-west","Pooled",TRUE
+"990","Hemigymnus melapterus","North-west","Pooled",TRUE
+"991","Petroscirtes breviceps","North-west","Pooled",TRUE
+"992","Crenimugil seheli","North-west","Pooled",TRUE
+"993","cf. Equulites sp. AWFS-F16-1478","North-west","Pooled",FALSE
+"994","Psammoperca waigiensis","North-west","Pooled",TRUE
+"995","Zanclus cornutus","North-west","Pooled",TRUE
+"996","Epinephelus bleekeri","North-west","Pooled",TRUE
+"997","Plicofollis aff. argyropleuron 2 RB-2009","North-west","Pooled",FALSE
+"998","Inegocia harrisii","North-west","Pooled",TRUE
+"999","Upeneus tragula","North-west","Pooled",TRUE
+"1000","Choerodon vitta","North-west","Pooled",TRUE
+"1001","Aurigequula fasciata","North-west","Pooled",TRUE
+"1002","Sardinella gibbosa","North-west","Pooled",TRUE
+"1003","Neotrygon kuhlii","North-west","Pooled",FALSE
+"1004","Caesio cuning","North-west","Pooled",TRUE
+"1005","Scomberomorus queenslandicus","North-west","Pooled",TRUE
+"1006","Epinephelus fasciatus","North-west","Pooled",TRUE
+"1007","Trichiurus brevis","North-west","Pooled",FALSE
+"1008","Novaculichthys taeniourus","North-west","Pooled",TRUE
+"1009","Choerodon monostigma","North-west","Pooled",TRUE
+"1010","Arripis georgianus","North-west","Pooled",FALSE
+"1011","Lethrinus lentjan","North-west","Pooled",TRUE
+"1012","Megalaspis cordyla","North-west","Pooled",TRUE
+"1013","Carangoides humerosus","North-west","Pooled",TRUE
+"1014","Cryptocentrus caeruleomaculatus","North-west","Pooled",TRUE
+"1015","Gerres filamentosus","North-west","Pooled",TRUE
+"1016","Monacanthus chinensis","North-west","Pooled",TRUE
+"1017","Sillago bassensis","North-west","Pooled",TRUE
+"1018","Caesio caerulaurea","North-west","Pooled",TRUE
+"1019","Butis butis","North-west","Pooled",TRUE
+"1020","Encrasicholina heteroloba","North-west","Pooled",TRUE
+"1021","Cephalopholis cyanostigma","North-west","Pooled",TRUE
+"1022","Pseudorhombus arsius","North-west","Pooled",TRUE
+"1023","Lutjanus vitta","North-west","Pooled",TRUE
+"1024","Halichoeres melanurus","North-west","Pooled",TRUE
+"1025","Istigobius nigroocellatus","North-west","Pooled",TRUE
+"1026","Centrogenys vaigiensis","North-west","Pooled",TRUE
+"1027","Choerodon schoenleinii","North-west","Pooled",TRUE
+"1028","Plectropomus maculatus","North-west","Pooled",TRUE
+"1029","Plectorhinchus polytaenia","North-west","Pooled",TRUE
+"1030","Plectorhinchus chaetodonoides","North-west","Pooled",TRUE
+"1031","cf. Equulites sp. AWFS-F16-1479","North-west","Pooled",FALSE
+"1032","Halichoeres nigrescens","North-west","Pooled",TRUE
+"1033","Halichoeres nebulosus","North-west","Pooled",TRUE
+"1034","Lutjanus argentimaculatus","North-west","Pooled",TRUE
+"1035","Monodactylus argenteus","North-west","Pooled",TRUE
+"1036","Pegasus volitans","North-west","Pooled",TRUE
+"1037","Hyporhamphus regularis","North-west","Pooled",TRUE
+"1038","Inegocia japonica","North-west","Pooled",TRUE
+"1039","Lethrinus laticaudis","North-west","Pooled",TRUE
+"1040","Ptereleotris microlepis","North-west","Pooled",TRUE
+"1041","Pristipomoides multidens","North-west","Pooled",TRUE
+"1042","Scomberoides lysan","North-west","Pooled",TRUE
+"1043","Chelon planiceps","North-west","Pooled",FALSE
+"1044","Caranx ignobilis","North-west","Pooled",TRUE
+"1045","Pomacentrus wardi","North-west","Pooled",TRUE
+"1046","Caranx tille","North-west","Pooled",TRUE
+"1047","Carangoides ferdau","North-west","Pooled",TRUE
+"1048","Elates ransonnettii","North-west","Pooled",TRUE
+"1049","Protonibea diacanthus","North-west","Pooled",TRUE
+"1050","Dussumieria elopsoides","North-west","Pooled",TRUE
+"1051","Lethrinus olivaceus","North-west","Pooled",TRUE
+"1052","Coris pictoides","North-west","Pooled",TRUE
+"1053","Variola louti","North-west","Pooled",TRUE
+"1054","Chromis cinerascens","North-west","Pooled",TRUE
+"1055","Photopectoralis bindus","North-west","Pooled",TRUE
+"1056","Thalassoma amblycephalum","North-west","Pooled",TRUE
+"1057","Pomacanthus sexstriatus","North-west","Pooled",TRUE
+"1058","Acentrogobius janthinopterus","North-west","Pooled",TRUE
+"1059","Hemiramphus far","North-west","Pooled",TRUE
+"1060","Gazza sp. Fiji","North-west","Pooled",FALSE
+"1061","Cheilinus fasciatus","North-west","Pooled",TRUE
+"1062","Mugilogobius mertoni","North-west","Pooled",TRUE
+"1063","Squalomugil nasutus","North-west","Pooled",TRUE
+"1064","Cirrhilabrus exquisitus","North-west","Pooled",TRUE
+"1065","Platax teira","North-west","Pooled",TRUE
+"1066","Tragulichthys jaculiferus","North-west","Pooled",TRUE
+"1067","cf. Jaydia sp. AWFS-F16-1457","North-west","Pooled",FALSE
+"1068","Dischistodus prosopotaenia","North-west","Pooled",TRUE
+"1069","Aetobatus narinari","North-west","Pooled",FALSE
+"1070","Pelates octolineatus","North-west","Pooled",TRUE
+"1071","Choerodon cephalotes","North-west","Pooled",TRUE
+"1072","Parastromateus niger","North-west","Pooled",TRUE
+"1073","Prionobutis microps","North-west","Pooled",TRUE
+"1074","Caranx heberi","North-west","Pooled",TRUE
+"1075","Leiognathus equula","North-west","Pooled",TRUE
+"1076","Gnathanodon speciosus","North-west","Pooled",TRUE
+"1077","Parachaeturichthys polynema","North-west","Pooled",TRUE
+"1078","Sillago sp. AWFS-F16-1600","North-west","Pooled",FALSE
+"1079","Acanthopagrus sp. YI-2011a","North-west","Pooled",FALSE
+"1080","Neoglyphidodon melas","North-west","Pooled",TRUE
+"1081","Pseudocheilinus evanidus","North-west","Pooled",TRUE
+"1082","Rachycentron canadum","North-west","Pooled",TRUE
+"1083","Chaetodon aureofasciatus","North-west","Pooled",TRUE
+"1084","Cephalopholis boenak","North-west","Pooled",TRUE
+"1085","Atrosalarias holomelas","North-west","Pooled",TRUE
+"1086","Lethrinus atkinsoni","North-west","Pooled",TRUE
+"1087","cf. Polydactylus sp. AWFS-F16-1491","North-west","Pooled",FALSE
+"1088","Plectorhinchus albovittatus","North-west","Pooled",FALSE
+"1089","Diancistrus jeffjohnsoni","North-west","Pooled",TRUE
+"1090","Oedalechilus labiosus","North-west","Pooled",FALSE
+"1091","Himantura uarnak","North-west","Pooled",TRUE
+"1092","Sorsogona tuberculata","North-west","Pooled",TRUE
+"1093","Abudefduf sordidus","North-west","Pooled",TRUE
+"1094","Mene maculata","North-west","Pooled",TRUE
+"1095","Gymnocranius grandoculis","North-west","Pooled",TRUE
+"1096","Leptobrama muelleri","North-west","Pooled",TRUE
+"1097","Amblyglyphidodon ternatensis","North-west","Pooled",FALSE
+"1098","Taeniura lymma","North-west","Pooled",TRUE
+"1099","Plectorhinchus chrysotaenia","North-west","Pooled",TRUE
+"1100","Herklotsichthys lippa","North-west","Pseudo",TRUE
+"1101","Psammogobius biocellatus","North-west","Pseudo",TRUE
+"1102","Chromis atripectoralis","North-west","Pseudo",TRUE
+"1103","Mene maculata","North-west","Pseudo",TRUE
+"1104","Deveximentum megalolepis","North-west","Pseudo",TRUE
+"1105","Lutjanus carponotatus","North-west","Pseudo",TRUE
+"1106","Hyporhamphus quoyi","North-west","Pseudo",TRUE
+"1107","Atule mate","North-west","Pseudo",TRUE
+"1108","Choerodon cyanodus","North-west","Pseudo",TRUE
+"1109","Platax batavianus","North-west","Pseudo",TRUE
+"1110","Chaetodontoplus duboulayi","North-west","Pseudo",TRUE
+"1111","Ellochelon vaigiensis","North-west","Pseudo",TRUE
+"1112","Sargocentron rubrum","North-west","Pseudo",TRUE
+"1113","Lethrinus genivittatus","North-west","Pseudo",TRUE
+"1114","Glaucosoma magnificum","North-west","Pseudo",TRUE
+"1115","Leiopotherapon aheneus","North-west","Pseudo",TRUE
+"1116","cf. Sillago sp. AWFS-F16-0252","North-west","Pseudo",FALSE
+"1117","Zabidius novemaculeatus","North-west","Pseudo",TRUE
+"1118","Paramonacanthus choirocephalus","North-west","Pseudo",TRUE
+"1119","Pristipomoides filamentosus","North-west","Pseudo",TRUE
+"1120","Encrasicholina heteroloba","North-west","Pseudo",TRUE
+"1121","Epinephelus corallicola","North-west","Pseudo",TRUE
+"1122","Lethrinus nebulosus","North-west","Pseudo",TRUE
+"1123","cf. Equulites sp. AWFS-F16-1478","North-west","Pseudo",FALSE
+"1124","Psammoperca waigiensis","North-west","Pseudo",TRUE
+"1125","Marilyna darwinii","North-west","Pseudo",TRUE
+"1126","Epinephelus bleekeri","North-west","Pseudo",TRUE
+"1127","Rachycentron canadum","North-west","Pseudo",TRUE
+"1128","Choerodon vitta","North-west","Pseudo",TRUE
+"1129","Aurigequula fasciata","North-west","Pseudo",TRUE
+"1130","Caesio cuning","North-west","Pseudo",TRUE
+"1131","Epinephelus fasciatus","North-west","Pseudo",TRUE
+"1132","Trichiurus brevis","North-west","Pseudo",FALSE
+"1133","Torquigener whitleyi","North-west","Pseudo",TRUE
+"1134","Crenimugil seheli","North-west","Pseudo",TRUE
+"1135","Gerres oyena","North-west","Pseudo",TRUE
+"1136","Megalaspis cordyla","North-west","Pseudo",TRUE
+"1137","Halichoeres nigrescens","North-west","Pseudo",TRUE
+"1138","Carangoides humerosus","North-west","Pseudo",TRUE
+"1139","Cryptocentrus caeruleomaculatus","North-west","Pseudo",TRUE
+"1140","Congrogadus subducens","North-west","Pseudo",TRUE
+"1141","Gerres filamentosus","North-west","Pseudo",TRUE
+"1142","Selar crumenophthalmus","North-west","Pseudo",TRUE
+"1143","Caranx ignobilis","North-west","Pseudo",TRUE
+"1144","Caesio caerulaurea","North-west","Pseudo",TRUE
+"1145","Butis butis","North-west","Pseudo",TRUE
+"1146","Cephalopholis cyanostigma","North-west","Pseudo",TRUE
+"1147","Pseudorhombus arsius","North-west","Pseudo",TRUE
+"1148","Halichoeres melanurus","North-west","Pseudo",TRUE
+"1149","Acanthurus grammoptilus","North-west","Pseudo",TRUE
+"1150","Istigobius nigroocellatus","North-west","Pseudo",TRUE
+"1151","Plectropomus maculatus","North-west","Pseudo",TRUE
+"1152","Choerodon schoenleinii","North-west","Pseudo",TRUE
+"1153","Monacanthus chinensis","North-west","Pseudo",TRUE
+"1154","Upeneus sulphureus","North-west","Pseudo",TRUE
+"1155","Plectorhinchus chaetodonoides","North-west","Pseudo",TRUE
+"1156","cf. Equulites sp. AWFS-F16-1479","North-west","Pseudo",FALSE
+"1157","Plectorhinchus gibbosus","North-west","Pseudo",TRUE
+"1158","Lutjanus argentimaculatus","North-west","Pseudo",TRUE
+"1159","Hyporhamphus regularis","North-west","Pseudo",TRUE
+"1160","Halichoeres nebulosus","North-west","Pseudo",TRUE
+"1161","Lethrinus laticaudis","North-west","Pseudo",TRUE
+"1162","Ulua mentalis","North-west","Pseudo",TRUE
+"1163","Scomberoides lysan","North-west","Pseudo",TRUE
+"1164","Pristipomoides multidens","North-west","Pseudo",TRUE
+"1165","Carangoides ferdau","North-west","Pseudo",TRUE
+"1166","Lutjanus bitaeniatus","North-west","Pseudo",TRUE
+"1167","Elates ransonnettii","North-west","Pseudo",TRUE
+"1168","Dussumieria elopsoides","North-west","Pseudo",TRUE
+"1169","Coris pictoides","North-west","Pseudo",TRUE
+"1170","Variola louti","North-west","Pseudo",TRUE
+"1171","Choerodon monostigma","North-west","Pseudo",TRUE
+"1172","Thalassoma amblycephalum","North-west","Pseudo",TRUE
+"1173","Photopectoralis bindus","North-west","Pseudo",TRUE
+"1174","Acentrogobius janthinopterus","North-west","Pseudo",TRUE
+"1175","Squalomugil nasutus","North-west","Pseudo",TRUE
+"1176","Cirrhilabrus exquisitus","North-west","Pseudo",TRUE
+"1177","Lutjanus johnii","North-west","Pseudo",TRUE
+"1178","Acentrogobius caninus","North-west","Pseudo",TRUE
+"1179","Dischistodus prosopotaenia","North-west","Pseudo",TRUE
+"1180","Lutjanus russellii","North-west","Pseudo",TRUE
+"1181","Caranx heberi","North-west","Pseudo",TRUE
+"1182","Prionobutis microps","North-west","Pseudo",TRUE
+"1183","Aetobatus narinari","North-west","Pseudo",FALSE
+"1184","Acanthopagrus sp. YI-2011a","North-west","Pseudo",FALSE
+"1185","Gnathanodon speciosus","North-west","Pseudo",TRUE
+"1186","Sillago sp. AWFS-F16-1600","North-west","Pseudo",FALSE
+"1187","Chaetodon aureofasciatus","North-west","Pseudo",TRUE
+"1188","cf. Polydactylus sp. AWFS-F16-1491","North-west","Pseudo",FALSE
+"1189","Pegasus sp. SAA-2015","North-west","Pseudo",FALSE
+"1190","Pomadasys kaakan","North-west","Pseudo",TRUE
+"1191","Atrosalarias holomelas","North-west","Pseudo",TRUE
+"1192","Plectorhinchus albovittatus","North-west","Pseudo",FALSE
+"1193","Platycephalus australis","North-west","Pseudo",FALSE
+"1194","Pseudorhombus jenynsii","North-west","Pseudo",TRUE
+"1195","Priacanthus tayenus","North-west","Pseudo",TRUE
+"1196","Planiliza subviridis","North-west","Pseudo",TRUE
+"1197","Centrogenys vaigiensis","North-west","Pseudo",TRUE
+"1198","Taeniura lymma","North-west","Pseudo",TRUE
+"1199","Plectorhinchus chrysotaenia","North-west","Pseudo",TRUE
+"1200","Choerodon cephalotes","North-west","Pseudo",TRUE
+"1201","Platax teira","North-west","Pseudo",TRUE

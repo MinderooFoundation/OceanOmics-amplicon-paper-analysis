@@ -1,0 +1,24 @@
+---
+title: "Get latitude/longitude for CoCos"
+output: html_notebook
+---
+
+I need the latitude/longitude so I can get the GBIF data.
+
+```{r setup}
+library(tidyverse)
+library(phyloseq)
+```
+
+```{r}
+a <- readRDS('./data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_5bp.rds')
+sample_data(a) |> as_tibble() |>  dplyr::select(X_latitude_d,X_longitude_d) |> filter(!is.na(X_latitude_d)) |> 
+  unique() |> 
+  arrange(X_longitude_d) |> slice(c(1, n()))
+```
+
+
+```{r}
+sample_data(a) |> as_tibble() |> View()
+```
+
