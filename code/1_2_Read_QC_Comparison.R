@@ -8,8 +8,8 @@ library(tidyverse)
 library(cowplot)
 
 # Loading all data
-CoCosV10I_16S     <- read_table('data/read_qc/Sample_statistics_CoCosV10I_16S_filtered.txt')
-RSV5_16S          <- read_table('data/read_qc/Sample_statistics_RS21AUG_16S_filtered.txt')
+CoCosV10I_16S     <- read_table('data/read_qc/Sample_statistics_CoCosV10I_16S.txt')
+RSV5_16S          <- read_table('data/read_qc/Sample_statistics_RS21AUG_16S.txt')
 KWEST_16S         <- read_table('data/read_qc/Sample_statistics_KWEST_16S.txt')
 
 

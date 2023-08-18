@@ -16,7 +16,7 @@ CKI_Ylim <- c(-35, -5)
 CKI <- st_as_sf(map("worldHires", fill = T , plot = F, xlim = CKI_Xlim, ylim = CKI_Ylim))
 Project1 <- read.csv("data/metadata/V10_CKI_eDNA_metadata_P1.csv") #just a .csv file with all our sites
 
-png("CKI_sites_JP.png", width = 15, height = 14, units = "cm", res = 300)
+png("figures/CKI_sites_JP.png", width = 15, height = 14, units = "cm", res = 300)
 map_plot <- CKI %>% 
   ggplot() +
   geom_sf(fill = "grey60", lwd = 0.25)+

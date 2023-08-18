@@ -9,6 +9,8 @@ install.packages("sp")
 install.packages("rgdal")
 install.packages("terra")
 install.packages("viridis")
+install.packages("ggsignif")
+install.packages("ggvenn")
 install.packages("remotes")   ## run this line if you do not already have remotes installed
 remotes::install_github("adw96/breakaway")
 remotes::install_github("adw96/DivNet")
