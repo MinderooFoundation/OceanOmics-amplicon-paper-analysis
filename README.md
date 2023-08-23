@@ -22,10 +22,10 @@ This repository contains the [`phyloseq`](https://joey711.github.io/phyloseq/ind
 The three data sets can be found here:  
 
 - [West et al. 2021](https://doi.org/10.1111/ddi.13228): [North West Western Australia](https://datadryad.org/stash/dataset/doi:10.5061/dryad.8kprr4xmm)   
-- [Minderoo OceanOmics](https://www.minderoo.org/oceanomics): [Cocos Keeling Island transect:](https://www.ebi.ac.uk/ena/browser/view/PRJEB63982)  
-- [Minderoo OceanOmics](https://www.minderoo.org/oceanomics): [Rowley Shoals Islands:](https://www.ebi.ac.uk/ena/browser/view/PRJNA930913)  
+- [Minderoo OceanOmics](https://www.minderoo.org/oceanomics): [Cocos Keeling Island transect](https://www.ebi.ac.uk/ena/browser/view/PRJEB63982)  
+- [Minderoo OceanOmics](https://www.minderoo.org/oceanomics): [Rowley Shoals Islands](https://www.ebi.ac.uk/ena/browser/view/PRJNA930913)  
 
-## Generating the `phyloseq` objects
+## Documentation: Generating the `phyloseq` objects
 
 Everything in this section is optional and not required for re-analyzing the results of the paper. It is documented for full transparency and reproducibility of all results, should anyone desire to want to so so. Information on [setting up the compute environment](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/tree/master/docs/setup.md), [downloading the data](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/tree/master/docs/get_data.md) and [creating the `phyloseq` object](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/tree/master/docs/create_phyloseq.md) can be found in the `docs` folder or via the clickable links.
 

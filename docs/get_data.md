@@ -33,7 +33,7 @@ nextflow run nf-core/fetchngs -profile docker --input ids.csv --outdir ./rowley_
 ```
 
 ### Nort West Western Australia  
-This is a bit different, as both the metadata and the sample fastq files are located on DRyad rather than ENA or NCBI. So follow the below custom script to fetch the data.  
+This is a bit different, as both the metadata and the sample fastq files are located on Dryad rather than ENA or NCBI. So follow the below custom script to fetch the data.  
 
 ```zsh
 cd ~/analysis
