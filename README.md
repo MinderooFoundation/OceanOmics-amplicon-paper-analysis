@@ -21,7 +21,7 @@ The three data sets can be found here:
 
 Everything in this section is optional and not required for re-analyzing the results of the paper. It is documented for full transparency and reproducibility of all results, should anyone desire to want to so so.
 
-### Setup
+### Setup compute environment
 Unlike the easy to use setup with binder to analyse the `phyloseq` objects, the generation of the `phyloseq` objects themselves requires a bit more setup and likely access to an Apple or Linux machine, or a windows machine with [windows subsystem for linux](https://learn.microsoft.com/en-us/windows/wsl/install) installed. Also, free data storage of ~500Gb - 1TB is recommended to handle the `fastq` files. Below we will describe the setup for a Linux machine with a `Ubuntu 20.04` operating system. Apart from minoconda and nextflow, however, no other dependences are required, and our nextflow pipeline, in a fully reproducible manner, leverages [`docker`](https://www.docker.com/resources/what-container/#:~:text=A%20Docker%20container%20image%20is,tools%2C%20system%20libraries%20and%20settings.) container.
 
 #### Install `miniconda`  
@@ -88,11 +88,44 @@ And this is all the setup done.
 ### Downloading the `fastq` files
 To download the `fastq` files from the [European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/), we used the [nf-core](https://nf-co.re/) pipeline [nf-core/fetchngs](https://nf-co.re/fetchngs/1.10.0).
 
-### Rowley Shoals data
+### Cocos Island Transect data
 ```zsh
 # Go to a directory where you have enough storage available
 cd ~/analysis # this is an example, replace it with the path to the directory you want to place the files and analyse them
-conda activate nextflow # if 
+conda activate nextflow # if you haven't already  
+
+# generate the required id.csv file with the ENA ID as per nf-core/fetchngs
+echo "ERP149130" > ids.csv
+nextflow run nf-core/fetchngs -profile docker --input ids.csv --outdir ./cocos
 ```
 
+### Rowley Shoals Islands
+```zsh
+# Go back to the analysis directory, where yo uhave downloaded the cocos data already
+cd ~/analysis # this is an example, replace it with the path to the directory you want to place the files and analyse them
+conda activate nextflow # if you haven't already  
+
+# remove the existing 'ids.csv'
+rm ids.csv
+
+# generate the required id.csv file with the ENA ID as per nf-core/fetchngs
+echo "SRP420753" > ids.csv
+
+# Run the downlaod command again
+nextflow run nf-core/fetchngs -profile docker --input ids.csv --outdir ./rowley_shoals
+```
+
+### Nort West Western Australia  
+This is a bit different, as both the metadata and the sample fastq files are located on DRyad rather than ENA or NCBI. So follow the below custom script to fetch the data.
+```zsh
+cd ~/analysis
+mkdir nwwa
+cd nwwa
+mkdir metadata fastq
+cd fastq
+wget -O 16S_Fish_data.zip https://datadryad.org/stash/downloads/file_stream/1140656 
+unzip 16S_Fish_data.zip
+rm 16S_Fish_data.zip
+mv  16S_Fish_data/* .
+rm -rf 16S_Fish_data
 ### Setup & run amplicon pipeline
