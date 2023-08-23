@@ -25,7 +25,7 @@ The three data sets can be found here:
 - [Minderoo OceanOmics](https://www.minderoo.org/oceanomics): [Cocos Keeling Island transect](https://www.ebi.ac.uk/ena/browser/view/PRJEB63982)  
 - [Minderoo OceanOmics](https://www.minderoo.org/oceanomics): [Rowley Shoals Islands](https://www.ebi.ac.uk/ena/browser/view/PRJNA930913)  
 
-Additionally, this repository includes a list of Australian marine fish species, named [Aust_fish_species_list.csv](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/blob/master/data/Aust_fish_species_list.csv). This was manually curated by domain experts, with data drawn from xyz.
+Additionally, this repository includes a list of Australian marine fish species, named [Aust_fish_species_list.csv](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/blob/master/data/Aust_fish_species_list.csv). This was manually curated by domain experts, with data drawn from [Atlas of Living Australia](https://www.ala.org.au/) and the [Global Biodiversity Information Facility](https://www.gbif.org/).
 
 The files in [metadata](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/tree/master/data/metadata) were generated as part of the data collection and sequencing, and their downloaded is part of the [downloading the data](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/tree/master/docs/get_data.md) description.  
 Lastly, The [read_qc](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/tree/master/data/read_qc) folder contains QC output from the [`seqkit`](https://bioinf.shenwei.me/seqkit/) part of the nextflow pipline and contains read QC statistics.
