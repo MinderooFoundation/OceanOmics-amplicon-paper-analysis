@@ -1,10 +1,18 @@
-# Analysis for the paper: "Exploring the data that explores the oceans: working towards robust eDNA workflows for ocean wildlife monitoring"
-  
+# [F.A.I.R.](https://www.go-fair.org/fair-principles/) and reproducible analysis for the paper: **"Exploring the data that explores the oceans: working towards robust eDNA workflows for ocean wildlife monitoring (submitted)"**
+by Jessica R. Pearce 1, Philipp E. Bayer 1,2, Adam Bennett 1, Eric J. Raes 1,2, Marcelle E. Ayad 1, Shannon Corrigan 1,2, Matthew W. Fraser 1,2, Denise Anderson 3, Priscila Goncalves1,2, Benjamin Callahan 4, Michael Bunce 5, Stephen Burnell 1,2, Sebastian Rauschert 1,2,*  
+
+1 Minderoo Foundation, Perth 6000, WA  
+2 The UWA Oceans Institute, The University of Western Australia, Crawley 6009, WA   
+3 INSiGENe Pty Ltd.  
+4 North Carolina State University, Raleigh, 27606, USA  
+5 Department of Conservation, Wellington, New Zealand  
+
+*Corresponding author  
 
 Launch analysis: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MinderooFoundation/OceanOmics-amplicon-paper-analysis/HEAD?urlpath=rstudio)
 
 ## Analysis
-This repository contains all data and code to generate the figures and statistics in the paper. Simply click on the above binder button to launch a Rstudio session in the browser, with access to all code and data in this GitHub repository. There, the code can interactively be changed and different plots can be created.
+This repository contains all data and code to generate the figures and statistics in the paper. Simply click on the above `binder` button to launch a Rstudio session in the browser, with access to all code and data in this GitHub repository. There, the code can interactively be changed and different plots and statistics can be (re-)created.
 
 ### What is binder?
 For an overview of what binder is, please check out [this link](https://mybinder.org/).  
@@ -14,8 +22,8 @@ This repository contains the [`phyloseq`](https://joey711.github.io/phyloseq/ind
 The three data sets can be found here:  
 
 - [West et al. 2021](https://doi.org/10.1111/ddi.13228): [North West Western Australia](https://datadryad.org/stash/dataset/doi:10.5061/dryad.8kprr4xmm)   
-- [Minderoo OceanOmics: Cocos Keeling Island transect:](https://www.ebi.ac.uk/ena/browser/view/PRJEB63982)  
-- [Minderoo OceanOmics: Rowley Shoals Islands:](https://www.ebi.ac.uk/ena/browser/view/PRJNA930913)  
+- [Minderoo OceanOmics](https://www.minderoo.org/oceanomics): [Cocos Keeling Island transect:](https://www.ebi.ac.uk/ena/browser/view/PRJEB63982)  
+- [Minderoo OceanOmics](https://www.minderoo.org/oceanomics): [Rowley Shoals Islands:](https://www.ebi.ac.uk/ena/browser/view/PRJNA930913)  
 
 ## Generating the `phyloseq` objects
 
@@ -81,6 +89,19 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo docker run hello-world
 ```
 
+#### Set up blast nt database
+
+For taxonomic annotation via the NCBI nt database, we need to set up the database on our machine first
+```zsh
+conda create -n blast
+conda activate blast
+conda install -c bioconda blast
+cd ~/analysis
+mkdir ncbi-nt
+cd ncbi-nt
+update_blastdb.pl
+```
+
 And this is all the setup done.  
 
 ### Setup repositories
@@ -116,7 +137,8 @@ nextflow run nf-core/fetchngs -profile docker --input ids.csv --outdir ./rowley_
 ```
 
 ### Nort West Western Australia  
-This is a bit different, as both the metadata and the sample fastq files are located on DRyad rather than ENA or NCBI. So follow the below custom script to fetch the data.
+This is a bit different, as both the metadata and the sample fastq files are located on DRyad rather than ENA or NCBI. So follow the below custom script to fetch the data.  
+
 ```zsh
 cd ~/analysis
 mkdir nwwa
@@ -129,3 +151,57 @@ rm 16S_Fish_data.zip
 mv  16S_Fish_data/* .
 rm -rf 16S_Fish_data
 ### Setup & run amplicon pipeline
+```
+
+### Run `MinderooFoundation/OceanOmics-amplicon-nf` 
+
+#### Directory structure
+Now that we have all the data downloaded, which is already demultiplexed on the sample level, we should have a directory structure as such:
+
+```zsh
+.
+├── cocos
+├── nw_wa
+├── rowley_shoals
+└── work
+```
+
+`work` was created by the `nf-core/fetchngs` run and can be ignored (contains information on executing the pipeline).
+
+#### Download the `MinderooFoundation/OceanOmics-amplicon-nf`
+
+```zsh
+git clone git@github.com:MinderooFoundation/OceanOmics-amplicon-nf.git
+```
+
+#### Execute the pipeline
+
+Cocos Keeling Transect   
+
+```zsh
+conda activate nextflow
+cd ~/data
+
+nextflow run OceanOmics-amplicon-nf main.nf \
+                --input ./cocos/samplesheet/samplesheet.csv \
+                --outdir .cocos/amplicon_analysed \
+                --dbfiles /data/tools/databases/ncbi-nt/ \ # If you want to blast against NCBI nt database, you need to first download it to your machine
+                --bind_dir /data \
+                -profile docker \
+                --skip_demux true
+```
+
+Rowley Shoals Islands  
+
+```zsh
+conda activate nextflow
+cd ~/data
+
+nextflow run OceanOmics-amplicon-nf main.nf \
+                --input ./rowley_shoals/samplesheet/samplesheet.csv \
+                --outdir ./rowley_shoals/amplicon_analysed \
+                --dbfiles /data/tools/databases/ncbi-nt/ \ # If you want to blast against NCBI nt database, you need to first download it to your machine
+                --bind_dir /data \
+                -profile docker \
+                --skip_demux true
+```
