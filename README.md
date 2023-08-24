@@ -12,8 +12,7 @@ by Jessica R. Pearce 1, Philipp E. Bayer 1,2, Adam Bennett 1, Eric J. Raes 1,2, 
 Launch analysis: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MinderooFoundation/OceanOmics-amplicon-paper-analysis/HEAD?urlpath=rstudio)  
   
   
-[![run with docker](https://img.shields.io/badge/run%20with-docker-0db7ed?labelColor=000000&logo=docker)](https://www.docker.com/)  
-[![run with singularity](https://img.shields.io/badge/run%20with-singularity-1d355c.svg?labelColor=000000)](https://sylabs.io/docs/)
+[![run with docker](https://img.shields.io/badge/run%20with-docker-0db7ed?labelColor=000000&logo=docker)](https://www.docker.com/) [![run with singularity](https://img.shields.io/badge/run%20with-singularity-1d355c.svg?labelColor=000000)](https://sylabs.io/docs/)
 
 ## Analysis
 This repository contains all data and code to generate the figures and statistics in the paper. Simply click on the above `binder` button to launch a Rstudio session in the browser, with access to all code and data in this GitHub repository. There, the code can interactively be changed and different plots and statistics can be (re-)created.
