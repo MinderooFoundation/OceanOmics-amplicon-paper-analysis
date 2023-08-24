@@ -24,7 +24,7 @@ nextflow run OceanOmics-amplicon-nf main.nf \
                 --bind_dir /data \
                 -profile docker \
                 --skip_demux true \
-                -pooled true \
+                -pooled true  # this is the option that needs to be changed to false and pseudo and re-run
 ```
 
 #### Rowley Shoals Islands  
@@ -40,7 +40,7 @@ nextflow run OceanOmics-amplicon-nf main.nf \
                 --bind_dir /data \
                 -profile docker \
                 --skip_demux true \
-                -pooled true \
+                -pooled true  # this is the option that needs to be changed to false and pseudo and re-run
 ```
 
 #### North West Western Australia  
@@ -51,10 +51,10 @@ cd ~/data
 
 nextflow run OceanOmics-amplicon-nf main.nf \
                 --input ./nw_wa/samplesheet/samplesheet.csv \
-                --outdir ./rowleynw_wa_shoals/amplicon_analysed \
+                --outdir ./nw_wa/amplicon_analysed \
                 --dbfiles /data/tools/databases/ncbi-nt/ \ # If you want to blast against NCBI nt database, you need to first download it to your machine
                 --bind_dir /data \
                 -profile docker \
                 --skip_demux true \
-                -pooled true \
+                -pooled true  # this is the option that needs to be changed to false and pseudo and re-run
 ```
