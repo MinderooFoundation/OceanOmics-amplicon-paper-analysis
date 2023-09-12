@@ -260,42 +260,30 @@ all_pooled_counts_asvs    <- normalize_asvs(all_pooled_counts_asvs)
 all_pseudo_counts_asvs    <- normalize_asvs(all_pseudo_counts_asvs)
 
 # Now create the heatmaps
-pdf(file="pres_absence_species_top_independant_cocos.pdf", width=WIDTH, height=HEIGHT)
 create_heatmap(top_pooled_presnc_species, top_indepe_presnc_species, top_pseudo_presnc_species, "count", TRUE)
-dev.off()
-pdf(file="pres_absence_species_bottom_independant_cocos.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(bot_pooled_presnc_species, bot_indepe_presnc_species, bot_pseudo_presnc_species, "count", TRUE)
-dev.off()
-pdf(file="pres_absence_species_all_independant_cocos.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(all_pooled_presnc_species, all_indepe_presnc_species, all_pseudo_presnc_species, "count", TRUE)
-dev.off()
-pdf(file="pres_absence_asv_top_independant_cocos.pdf", width=WIDTH, height=HEIGHT)
+
 cocos_top <- create_heatmap(top_pooled_presnc_asvs, top_indepe_presnc_asvs, top_pseudo_presnc_asvs, "count", FALSE)
-dev.off()
-pdf(file="pres_absence_asv_bottom_independant_cocos.pdf", width=WIDTH, height=HEIGHT)
+
 cocos_bot <- create_heatmap(bot_pooled_presnc_asvs, bot_indepe_presnc_asvs, bot_pseudo_presnc_asvs, "count", FALSE)
-dev.off()
-pdf(file="pres_absence_asv_all_independant_cocos.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(all_pooled_presnc_asvs, all_indepe_presnc_asvs, all_pseudo_presnc_asvs, "count", FALSE)
-dev.off()
-pdf(file="log_counts_species_top_independant_cocos.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(top_pooled_counts_species, top_indepe_counts_species, top_pseudo_counts_species, "log_count", TRUE)
-dev.off()
-pdf(file="log_counts_species_bottom_independant_cocos.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(bot_pooled_counts_species, bot_indepe_counts_species, bot_pseudo_counts_species, "log_count", TRUE)
-dev.off()
-pdf(file="log_counts_species_all_independant_cocos.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(all_pooled_counts_species, all_indepe_counts_species, all_pseudo_counts_species, "log_count", TRUE)
-dev.off()
-pdf(file="log_counts_asv_top_independant_cocos.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(top_pooled_counts_asvs, top_indepe_counts_asvs, top_pseudo_counts_asvs, "log_count", FALSE)
-dev.off()
-pdf(file="log_counts_asv_bottom_independant_cocos.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(bot_pooled_counts_asvs, bot_indepe_counts_asvs, bot_pseudo_counts_asvs, "log_count", FALSE)
-dev.off()
-pdf(file="log_counts_asv_all_independant_cocos.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(all_pooled_counts_asvs, all_indepe_counts_asvs, all_pseudo_counts_asvs, "log_count", FALSE)
-dev.off()
+
 
 #==============================================================================
 # North west WA data
@@ -370,42 +358,30 @@ all_pooled_counts_asvs    <- normalize_asvs(all_pooled_counts_asvs)
 all_pseudo_counts_asvs    <- normalize_asvs(all_pseudo_counts_asvs)
 
 # Now create the heatmaps
-pdf(file="pres_absence_species_top_independant_nw.pdf", width=WIDTH, height=HEIGHT)
 create_heatmap(top_pooled_presnc_species, top_indepe_presnc_species, top_pseudo_presnc_species, "count", TRUE)
-dev.off()
-pdf(file="pres_absence_species_bottom_independant_nw.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(bot_pooled_presnc_species, bot_indepe_presnc_species, bot_pseudo_presnc_species, "count", TRUE)
-dev.off()
-pdf(file="pres_absence_species_all_independant_nw.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(all_pooled_presnc_species, all_indepe_presnc_species, all_pseudo_presnc_species, "count", TRUE)
-dev.off()
-pdf(file="pres_absence_asv_top_independant_nw.pdf", width=WIDTH, height=HEIGHT)
+
 nw_top <- create_heatmap(top_pooled_presnc_asvs, top_indepe_presnc_asvs, top_pseudo_presnc_asvs, "count", FALSE)
-dev.off()
-pdf(file="pres_absence_asv_bottom_independant_nw.pdf", width=WIDTH, height=HEIGHT)
+
 nw_bot <- create_heatmap(bot_pooled_presnc_asvs, bot_indepe_presnc_asvs, bot_pseudo_presnc_asvs, "count", FALSE)
-dev.off()
-pdf(file="pres_absence_asv_all_independant_nw.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(all_pooled_presnc_asvs, all_indepe_presnc_asvs, all_pseudo_presnc_asvs, "count", FALSE)
-dev.off()
-pdf(file="log_counts_species_top_independant_nw.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(top_pooled_counts_species, top_indepe_counts_species, top_pseudo_counts_species, "log_count", TRUE)
-dev.off()
-pdf(file="log_counts_species_bottom_independant_nw.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(bot_pooled_counts_species, bot_indepe_counts_species, bot_pseudo_counts_species, "log_count", TRUE)
-dev.off()
-pdf(file="log_counts_species_all_independant_nw.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(all_pooled_counts_species, all_indepe_counts_species, all_pseudo_counts_species, "log_count", TRUE)
-dev.off()
-pdf(file="log_counts_asv_top_independant_nw.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(top_pooled_counts_asvs, top_indepe_counts_asvs, top_pseudo_counts_asvs, "log_count", FALSE)
-dev.off()
-pdf(file="log_counts_asv_bottom_independant_nw.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(bot_pooled_counts_asvs, bot_indepe_counts_asvs, bot_pseudo_counts_asvs, "log_count", FALSE)
-dev.off()
-pdf(file="log_counts_asv_all_independant_nw.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(all_pooled_counts_asvs, all_indepe_counts_asvs, all_pseudo_counts_asvs, "log_count", FALSE)
-dev.off()
+
 
 #==============================================================================
 # Rowley Shoals data
@@ -480,42 +456,30 @@ all_pooled_counts_asvs    <- normalize_asvs(all_pooled_counts_asvs)
 all_pseudo_counts_asvs    <- normalize_asvs(all_pseudo_counts_asvs)
 
 # Now create the heatmaps
-pdf(file="pres_absence_species_top_independant_rs.pdf", width=WIDTH, height=HEIGHT)
 create_heatmap(top_pooled_presnc_species, top_indepe_presnc_species, top_pseudo_presnc_species, "count", TRUE)
-dev.off()
-pdf(file="pres_absence_species_bottom_independant_rs.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(bot_pooled_presnc_species, bot_indepe_presnc_species, bot_pseudo_presnc_species, "count", TRUE)
-dev.off()
-pdf(file="pres_absence_species_all_independant_rs.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(all_pooled_presnc_species, all_indepe_presnc_species, all_pseudo_presnc_species, "count", TRUE)
-dev.off()
-pdf(file="pres_absence_asv_top_independant_rs.pdf", width=WIDTH, height=HEIGHT)
+
 rs_top <- create_heatmap(top_pooled_presnc_asvs, top_indepe_presnc_asvs, top_pseudo_presnc_asvs, "count", FALSE)
-dev.off()
-pdf(file="pres_absence_asv_bottom_independant_rs.pdf", width=WIDTH, height=HEIGHT)
+
 rs_bot <- create_heatmap(bot_pooled_presnc_asvs, bot_indepe_presnc_asvs, bot_pseudo_presnc_asvs, "count", FALSE)
-dev.off()
-pdf(file="pres_absence_asv_all_independant_rs.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(all_pooled_presnc_asvs, all_indepe_presnc_asvs, all_pseudo_presnc_asvs, "count", FALSE)
-dev.off()
-pdf(file="log_counts_species_top_independant_rs.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(top_pooled_counts_species, top_indepe_counts_species, top_pseudo_counts_species, "log_count", TRUE)
-dev.off()
-pdf(file="log_counts_species_bottom_independant_rs.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(bot_pooled_counts_species, bot_indepe_counts_species, bot_pseudo_counts_species, "log_count", TRUE)
-dev.off()
-pdf(file="log_counts_species_all_independant_rs.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(all_pooled_counts_species, all_indepe_counts_species, all_pseudo_counts_species, "log_count", TRUE)
-dev.off()
-pdf(file="log_counts_asv_top_independant_rs.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(top_pooled_counts_asvs, top_indepe_counts_asvs, top_pseudo_counts_asvs, "log_count", FALSE)
-dev.off()
-pdf(file="log_counts_asv_bottom_independant_rs.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(bot_pooled_counts_asvs, bot_indepe_counts_asvs, bot_pseudo_counts_asvs, "log_count", FALSE)
-dev.off()
-pdf(file="log_counts_asv_all_independant_rs.pdf", width=WIDTH, height=HEIGHT)
+
 create_heatmap(all_pooled_counts_asvs, all_indepe_counts_asvs, all_pseudo_counts_asvs, "log_count", FALSE)
-dev.off()
+
 
 plot_grid(cocos_top + ggtitle("Cocos Islands") + ylab("Top 20 ASVs") + theme(axis.text.x = element_blank()) + theme(axis.text.y = element_blank()),
           cocos_bot + ylab("Bottom 20 ASVs") + theme(axis.text.x = element_blank()) + theme(axis.text.y = element_blank()),

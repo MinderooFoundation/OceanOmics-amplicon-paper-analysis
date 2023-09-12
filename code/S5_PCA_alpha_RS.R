@@ -5,7 +5,7 @@
 LoadandCite(pkgs=c("repmis", "knitr", "tinytex", "phyloseq", "ggplot2", 
                    "zCompositions", "propr", "compositions", "ggfortify", 
                    "ALDEx2", "EnhancedVolcano", "plyr", "microViz", "decontam", 
-                   "patchwork", "readxl", "DivNet", "dplyr", "tidyverse", "ggvenn", "cowplot"))
+                   "patchwork", "readxl", "DivNet", "dplyr", "tidyverse", "ggvenn", "cowplot", "ppcor"))
 
 ## Load data
 metadata <- read.csv(file = "data/metadata/RSV5_metadata.csv")
@@ -96,7 +96,7 @@ length(rownames(samples$rs_pooled@otu_table))
 samples_zimp <- lapply(samples, FUN = function(x) cmultRepl(t(otu_table(x)), method = "CZM", output = "p-counts"))
 
 ## Transform data with a centred log ratio (CLR)
-samples_clr <- lapply(samples_zimp, FUN = function(x) propr(counts = x))
+samples_clr <- lapply(samples_zimp, FUN = function(x) propr(counts = x, ivar = "clr", metric = "pcor"))
 
 ## Perform PCA on the CLR transformed data and plot on covariance biplots
 samples_pca <- lapply(samples_clr, FUN = function(x) prcomp(x@logratio))

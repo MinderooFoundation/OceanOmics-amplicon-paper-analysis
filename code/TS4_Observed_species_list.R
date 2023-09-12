@@ -125,7 +125,7 @@ observed_species_list <- as_tibble(rbind(cocos_false_species,
 intersect(observed_species_list$species, checklist$Species)
 observed_species_list$checklist <- observed_species_list$species %in% checklist$Species
 
-write.csv(observed_species_list, file = "Observed_species_list.csv")
+#write.csv(observed_species_list, file = "Observed_species_list.csv")
 
 length(observed_species_list$species)
 length(unique(observed_species_list$species))

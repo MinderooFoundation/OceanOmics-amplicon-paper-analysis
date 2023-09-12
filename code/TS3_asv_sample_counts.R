@@ -80,7 +80,7 @@ ASV_inc_Cocos <- df %>%
   select(Total_count_false, Sample_count_false, Total_count_true, Sample_count_true, ASV_seqs)
 head(ASV_inc_Cocos)   
 length(ASV_inc_Cocos$ASV_seqs) # 57
-write_csv2(ASV_inc_Cocos, file = "figures/ASV_inc_Cocos.csv")
+#write_csv2(ASV_inc_Cocos, file = "figures/ASV_inc_Cocos.csv")
 
 
 
@@ -149,7 +149,7 @@ ASV_inc_RS <- df %>%
   select(Total_count_false, Sample_count_false, Total_count_true, Sample_count_true, ASV_seqs)
 head(ASV_inc_RS)   
 length(ASV_inc_RS$ASV_seqs) #159
-write_csv2(ASV_inc_RS, file = "figures/ASV_inc_RS.csv")
+#write_csv2(ASV_inc_RS, file = "figures/ASV_inc_RS.csv")
 
 ## Northwest dataset
 # Count number of samples each ASV occurs in
@@ -220,5 +220,5 @@ ASV_inc_NW <- df %>%
   select(Total_count_false, Sample_count_false, Total_count_true, Sample_count_true, ASV_seqs)
 head(ASV_inc_NW)   
 length(ASV_inc_NW$ASV_seqs)
-write_csv2(ASV_inc_NW, file = "figures/ASV_inc_NW.csv")
+#write_csv2(ASV_inc_NW, file = "figures/ASV_inc_NW.csv")
 
