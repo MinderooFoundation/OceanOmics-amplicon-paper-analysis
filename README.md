@@ -9,6 +9,8 @@ by Jessica R. Pearce 1, Philipp E. Bayer 1,2, Adam Bennett 1, Eric J. Raes 1,2, 
 
 *Corresponding author  
 
+
+**Start here to immediately re-analyse the data**
 Launch analysis: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MinderooFoundation/OceanOmics-amplicon-paper-analysis/HEAD?urlpath=rstudio)  
   
   
@@ -35,5 +37,5 @@ Lastly, The [read_qc](https://github.com/MinderooFoundation/OceanOmics-amplicon-
 
 ## Documentation: Generating the `phyloseq` objects
 
-Everything in this section is optional and not required for re-analyzing the results of the paper. It is documented for full transparency and reproducibility of all results, should anyone desire to want to do so. Information on [setting up the compute environment](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/tree/master/docs/setup.md), [downloading the data](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/tree/master/docs/get_data.md) and [creating the `phyloseq` object](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/tree/master/docs/create_phyloseq.md) can be found in the `docs` folder or via the clickable links.
+Everything in this section is optional and not required for re-analyzing the results of the paper. It is documented for full transparency and reproducibility of all results, should anyone desire to want to do so. Information on [setting up the compute environment](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/tree/master/docs/1_setup.md), [downloading the data](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/tree/master/docs/2_get_data.md) and [creating the `phyloseq` object](https://github.com/MinderooFoundation/OceanOmics-amplicon-paper-analysis/tree/master/docs/3_create_phyloseq.md) can be found in the `docs` folder or via the clickable links.
 

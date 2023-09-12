@@ -13,7 +13,7 @@ conda activate nextflow # if you haven't already
 
 # generate the required id.csv file with the ENA ID as per nf-core/fetchngs
 echo "ERP149130" > ids.csv
-nextflow run nf-core/fetchngs -profile docker --input ids.csv --outdir ./cocos
+nextflow run nf-core/fetchngs -r 1.10.0 -profile docker --input ids.csv --outdir ./cocos
 ```
 
 ### Rowley Shoals Islands
@@ -29,7 +29,7 @@ rm ids.csv
 echo "SRP420753" > ids.csv
 
 # Run the downlaod command again
-nextflow run nf-core/fetchngs -profile docker --input ids.csv --outdir ./rowley_shoals
+nextflow run nf-core/fetchngs -r 1.10.0 -profile docker --input ids.csv --outdir ./rowley_shoals
 ```
 
 ### Nort West Western Australia  
