@@ -10,7 +10,7 @@ by Jessica R. Pearce 1, Philipp E. Bayer 1,2, Adam Bennett 1, Eric J. Raes 1,2, 
 *Corresponding author  
 
 
-**Start here to immediately re-analyse the data**
+**Start here to immediately re-analyse the data**  
 Launch analysis: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MinderooFoundation/OceanOmics-amplicon-paper-analysis/HEAD?urlpath=rstudio)  
   
   
