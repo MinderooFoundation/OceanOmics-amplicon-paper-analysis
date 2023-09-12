@@ -27,3 +27,15 @@ BiocManager::install("ALDEx2")
 BiocManager::install("EnhancedVolcano")
 install.packages("vegan")
 install.packages("repmis")
+install.packages("knitr")
+install.packages("tinytex")
+install.packages("zCompositions")
+install.packages("compositions")
+install.packages("ggfortify")
+BiocManager::install("EnhancedVolcano")
+install.packages("plyr")
+install.packages("patchwork")
+install.packages("readxl")
+
+
+

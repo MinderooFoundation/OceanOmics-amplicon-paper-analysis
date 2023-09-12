@@ -1,6 +1,7 @@
+#-----------------------------------------------------------------------------------------------------------------
+# Alpha and beta diversity for North West WA data, Supplementary figure S4
 
 # Load libraries
-library("repmis")
 LoadandCite(pkgs=c("repmis", "knitr", "tinytex", "phyloseq", "ggplot2", 
                    "zCompositions", "propr", "compositions", "ggfortify", 
                    "ALDEx2", "EnhancedVolcano", "plyr", "microViz", "decontam", 
@@ -11,9 +12,9 @@ LoadandCite(pkgs=c("repmis", "knitr", "tinytex", "phyloseq", "ggplot2",
 
 ## Load data and create metadata info for this dataset
 samples <- list()
-samples$west_ind <- readRDS(file = "data/phyloseq_objects/Pool_FALSE_KWEST_16S_16S_phyloseq_nt.rds")
-samples$west_pooled <- readRDS(file = "data/phyloseq_objects/Pool_TRUE_KWEST_16S_16S_phyloseq_nt.rds")
-samples$west_pseudo <- readRDS(file = "data/phyloseq_objects/Pool_pseudo_KWEST_16S_16S_phyloseq_nt.rds")
+samples$west_ind    <- readRDS(file = "data/phyloseq_objects/NWWA_16S_phyloseq_nt_FALSE_decontam.rds")
+samples$west_pooled <- readRDS(file = "data/phyloseq_objects/NWWA_16S_phyloseq_nt_TRUE_decontam.rds")
+samples$west_pseudo <- readRDS(file = "data/phyloseq_objects/NWWA_16S_phyloseq_nt_pseudo_decontam.rds")
 
 ## Create bioplot function
 pca_biplot <- function(pca_data, phyloseq, colour, colour_label, shape, shape_label, title) {
@@ -43,7 +44,11 @@ pca_biplot_unlabelled <- function(pca_data, phyloseq, size, colour, colour_label
                      colour = colour, size = size, shape = shape,
                      loadings = TRUE, loadings.colour = "gray80", loadings.label = TRUE,
                      loadings.label.label = unname(loadings_label),
-                     loadings.label.size = 3, loadings.label.colour = "gray30", loadings.label.repel = TRUE) + theme_bw() + guides(colour = guide_legend(title = colour_label), shape = guide_legend(title = shape_label)) + theme(legend.title = element_text(size = 12), legend.text = element_text(size = 11)) + ggtitle(label = title)
+                     loadings.label.size = 3, loadings.label.colour = "gray30", loadings.label.repel = TRUE) + 
+    theme_bw() + 
+    guides(colour = guide_legend(title = colour_label), shape = guide_legend(title = shape_label)) + 
+    theme(legend.title = element_text(size = 12), legend.text = element_text(size = 11)) + 
+    ggtitle(label = title)
   
   return(biplot)
 }
@@ -80,7 +85,14 @@ samples_pca <- lapply(samples_clr, FUN = function(x) prcomp(x@logratio))
 
 ## Biplots
 ### Independent
-NW_pca_independent <- plot(pca_biplot_unlabelled(pca_data = samples_pca$west_ind, phyloseq = samples$west_ind, size = 3, colour = "Subregion", colour_label = "Sub region", shape = "Habitat", shape_label = "Habitat", title = "Independent"))
+NW_pca_independent <- plot(pca_biplot_unlabelled(pca_data = samples_pca$west_ind, 
+                                                 phyloseq = samples$west_ind, 
+                                                 size = 3, 
+                                                 colour = "Subregion", 
+                                                 colour_label = "Sub region", 
+                                                 shape = "Habitat", 
+                                                 shape_label = "Habitat", 
+                                                 title = "Independent"))
 
 ### Pooled
 NW_pca_pooled <- plot(pca_biplot_unlabelled(pca_data = samples_pca$west_pooled, phyloseq = samples$west_pooled, size = 3, colour = "Subregion", colour_label = "Sub region", shape = "Habitat", shape_label = "Habitat", title = "Pooled"))

@@ -1,3 +1,6 @@
+#-----------------------------------------------------------------------------------------------------------------
+# Calculate rarefraction curves 
+
 # Load libraries
 library(ggplot2)
 library(vegan)
@@ -97,9 +100,9 @@ CoCos16S_false  <- readRDS('data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_FALS
 CoCos16S_true  <- readRDS('data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_TRUE_decontaminated.rds')
 CoCos16S_pseudo <- readRDS('data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_pseudo_decontaminated.rds')
 
-NW_false  <- readRDS('data/phyloseq_objects/Pool_FALSE_KWEST_16S_phyloseq_nt_decontaminated.rds')
-NW_true  <- readRDS('data/phyloseq_objects/Pool_TRUE_KWEST_16S_phyloseq_nt_decontaminated.rds')
-NW_pseudo <- readRDS('data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_pseudo_decontaminated.rds')
+NW_false  <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_FALSE_decontam.rds')
+NW_true  <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_TRUE_decontam.rds')
+NW_pseudo <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_pseudo_decontam.rds')
 
 RS16S_false  <- readRDS('data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_FALSE_decontam.rds')
 RS16S_true  <- readRDS('data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_TRUE_decontam.rds')
@@ -109,13 +112,13 @@ RS16S_pseudo <- readRDS('data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_pseudo_de
 Cocos_false_curve <- ggrare(CoCos16S_false, step = 10, label = NULL,
                             plot = TRUE, parallel = FALSE, se = TRUE)
 
-saveRDS(Cocos_false_curve, file = "data/rarefaction_objects/Cocos_false_curve_plot.rds")
+#saveRDS(Cocos_false_curve, file = "data/rarefaction_objects/Cocos_false_curve_plot.rds")
 # Cocos_false_curve <- readRDS(file = "data/rarefaction_objects/Cocos_false_curve_plot.rds")
 
 Cocos_true_curve <- ggrare(CoCos16S_true, step = 10, label = NULL,
                            plot = TRUE, parallel = FALSE, se = TRUE)
 
-saveRDS(Cocos_true_curve, file = "data/rarefaction_objects/Cocos_true_curve_plot.rds")
+#saveRDS(Cocos_true_curve, file = "data/rarefaction_objects/Cocos_true_curve_plot.rds")
 # Cocos_true_curve <- readRDS(file = "data/rarefaction_objects/Cocos_true_curve_plot.rds")
 
 
@@ -124,13 +127,13 @@ saveRDS(Cocos_true_curve, file = "data/rarefaction_objects/Cocos_true_curve_plot
 RS_false_curve <- ggrare(RS16S_false, step = 10, label = NULL,
                            plot = TRUE, parallel = FALSE, se = TRUE)
 
-saveRDS(RS_false_curve, file = "data/rarefaction_objects/RS_false_curve_plot.rds")
+#saveRDS(RS_false_curve, file = "data/rarefaction_objects/RS_false_curve_plot.rds")
 # RS_false_curve <- readRDS(file = "data/rarefaction_objects/RS_false_curve_plot.rds")
 
 RS_true_curve <- ggrare(RS16S_true, step = 10, label = NULL,
                         plot = TRUE, parallel = FALSE, se = TRUE)
 
-saveRDS(RS_true_curve, file = "RS_true_curve_plot.rds")
+#saveRDS(RS_true_curve, file = "RS_true_curve_plot.rds")
 # RS_true_curve <- readRDS(file = "data/rarefaction_objects/RS_true_curve_plot.rds")
 
 
@@ -139,13 +142,13 @@ saveRDS(RS_true_curve, file = "RS_true_curve_plot.rds")
 NW_false_curve <- ggrare(NW_false, step = 10, label = NULL,
                          plot = TRUE, parallel = FALSE, se = TRUE)
 
-saveRDS(NW_false_curve, file = "data/phyloseq_objects/NW_false_curve_plot.rds")
+#saveRDS(NW_false_curve, file = "data/phyloseq_objects/NW_false_curve_plot.rds")
 # NW_false_curve <- readRDS(file = "data/rarefaction_objects/NW_false_curve_plot.rds")
 
 NW_true_curve <- ggrare(NW_true, step = 10, label = NULL,
                         plot = TRUE, parallel = FALSE, se = TRUE)
 
-saveRDS(NW_true_curve, file = "data/phyloseq_objects/NW_true_curve_plot.rds")
+#saveRDS(NW_true_curve, file = "data/phyloseq_objects/NW_true_curve_plot.rds")
 # NW_true_curve <- readRDS(file = "data/rarefaction_objects/NW_true_curve_plot.rds")
 
 

@@ -131,9 +131,9 @@ Cocos_family <-
 # North west WA data
 #==============================================================================
 
-NW_pooled     <- readRDS('data/phyloseq_objects/Pool_TRUE_KWEST_16S_phyloseq_nt_decontaminated.rds')
-NW_independent <- readRDS('data/phyloseq_objects/Pool_FALSE_KWEST_16S_phyloseq_nt_decontaminated.rds')
-NW_pseudo     <- readRDS('data/phyloseq_objects/Pool_pseudo_KWEST_16S_phyloseq_nt_decontaminated.rds')
+NW_pooled     <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_TRUE_decontam.rds')
+NW_independent <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_FALSE_decontam.rds')
+NW_pseudo     <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_pseudo_decontam.rds')
 
 format_quasi_abundance <- function(phyloseq){
   # Extract data tables 

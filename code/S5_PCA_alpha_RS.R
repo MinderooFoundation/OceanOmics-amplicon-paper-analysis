@@ -1,13 +1,11 @@
-
+#-----------------------------------------------------------------------------------------------------------------
+# Alpha and beta diversity for Rowley Shoals data, Supplementary figure S5
 # Load libraries
-library(tidyverse)
-library(ggvenn)
-library(cowplot)
-library("repmis")
+
 LoadandCite(pkgs=c("repmis", "knitr", "tinytex", "phyloseq", "ggplot2", 
                    "zCompositions", "propr", "compositions", "ggfortify", 
                    "ALDEx2", "EnhancedVolcano", "plyr", "microViz", "decontam", 
-                   "patchwork", "readxl", "DivNet", "dplyr"), file = "report/packages.bib")
+                   "patchwork", "readxl", "DivNet", "dplyr", "tidyverse", "ggvenn", "cowplot"))
 
 ## Load data
 metadata <- read.csv(file = "data/metadata/RSV5_metadata.csv")
@@ -89,9 +87,9 @@ length(rownames(samples$rs_ind@otu_table))
 length(rownames(samples$rs_pseudo@otu_table))
 length(rownames(samples$rs_pooled@otu_table))
 
-saveRDS(samples$rs_ind, file = "data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_FALSE_decontam.rds")
-saveRDS(samples$rs_pooled, file = "data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_TRUE_decontam.rds")
-saveRDS(samples$rs_pseudo, file = "data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_pseudo_decontam.rds")
+# saveRDS(samples$rs_ind, file = "data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_FALSE_decontam.rds")
+# saveRDS(samples$rs_pooled, file = "data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_TRUE_decontam.rds")
+# saveRDS(samples$rs_pseudo, file = "data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_pseudo_decontam.rds")
 
 
 ## Transform zeros

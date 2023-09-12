@@ -1,4 +1,5 @@
-# ASV count heatmaps for paper
+#==============================================================================
+# ASV count heatmaps for paper: Supplement 7 & 8
 
 #==============================================================================
 # Setup
@@ -170,18 +171,18 @@ subset_asvs <- function(df, section, normalize = FALSE, n = 20) {
 # Import data
 #==============================================================================
 
-Cocos_indepe <- readRDS('CoCosV10I_16S_phyloseq_nt_FALSE_decontaminated.rds')
-Cocos_pooled <- readRDS('CoCosV10I_16S_phyloseq_nt_TRUE_decontaminated.rds')
-Cocos_pseudo <- readRDS('CoCosV10I_16S_phyloseq_nt_pseudo_decontaminated.rds')
+Cocos_indepe <- readRDS('data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_FALSE_decontaminated.rds')
+Cocos_pooled <- readRDS('data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_TRUE_decontaminated.rds')
+Cocos_pseudo <- readRDS('data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_pseudo_decontaminated.rds')
 
-NW_pooled    <- readRDS('Pool_TRUE_KWEST_16S_phyloseq_nt_decontaminated.rds')
-NW_indepe    <- readRDS('Pool_FALSE_KWEST_16S_phyloseq_nt_decontaminated.rds')
-NW_pseudo    <- readRDS('Pool_pseudo_KWEST_16S_phyloseq_nt_decontaminated.rds')
+NW_pooled    <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_TRUE_decontam.rds')
+NW_indepe    <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_FALSE_decontam.rds')
+NW_pseudo    <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_pseudo_decontam.rds')
 NW_pseudo    <- subset_samples(NW_pseudo, sample_names(NW_pseudo) != "71a")
 
-RS_pooled    <- readRDS('RS21AUG_16S_phyloseq_nt_TRUE_decontam.rds')
-RS_indepe    <- readRDS('RS21AUG_16S_phyloseq_nt_FALSE_decontam.rds')
-RS_pseudo    <- readRDS('RS21AUG_16S_phyloseq_nt_pseudo_decontam.rds')
+RS_pooled    <- readRDS('data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_TRUE_decontam.rds')
+RS_indepe    <- readRDS('data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_FALSE_decontam.rds')
+RS_pseudo    <- readRDS('data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_pseudo_decontam.rds')
 RS_pooled    <- subset_samples(RS_pooled, sample_names(RS_pooled) != "RS1_ME_S4_1_2_")
 RS_indepe    <- subset_samples(RS_indepe, sample_names(RS_indepe) != "RS1_ME_S4_1_2_")
 RS_pseudo    <- subset_samples(RS_pseudo, sample_names(RS_pseudo) != "RS1_ME_S4_1_2_")

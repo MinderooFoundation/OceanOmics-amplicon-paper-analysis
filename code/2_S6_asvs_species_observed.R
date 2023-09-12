@@ -1,33 +1,34 @@
-## comparison of pooling methods on species
-
-### Figures for paper
+#-----------------------------------------------------------------------------------------------------------------
+# Comparison of pooling methods on species
+#-----------------------------------------------------------------------------------------------------------------
 library(phyloseq)
 library(tidyverse)
 library(ggvenn)
 library(cowplot)
 library(ggsignif)
-
-### Decontaminated results
+#-----------------------------------------------------------------------------------------------------------------
+# Decontaminated results
 CoCos_false  <- readRDS('data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_FALSE_decontaminated.rds')
-CoCos_true  <- readRDS('data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_TRUE_decontaminated.rds')
+CoCos_true   <- readRDS('data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_TRUE_decontaminated.rds')
 CoCos_pseudo <- readRDS('data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_pseudo_decontaminated.rds')
 
+#-----------------------------------------------------------------------------------------------------------------
 # Remove the sample that are not in all results
 samples_to_keep <- Reduce(intersect, list(rownames(sample_data(CoCos_false)), rownames(sample_data(CoCos_pseudo)), rownames(sample_data(CoCos_true))))
 
-CoCos_false <- prune_samples(samples_to_keep, CoCos_false)
-CoCos_true <- prune_samples(samples_to_keep, CoCos_true)
+CoCos_false  <- prune_samples(samples_to_keep, CoCos_false)
+CoCos_true   <- prune_samples(samples_to_keep, CoCos_true)
 CoCos_pseudo <- prune_samples(samples_to_keep, CoCos_pseudo)
 
-CoCos_false_seqtab <- t(otu_table(CoCos_false))
-CoCos_true_seqtab  <- t(otu_table(CoCos_true))
+CoCos_false_seqtab  <- t(otu_table(CoCos_false))
+CoCos_true_seqtab   <- t(otu_table(CoCos_true))
 CoCos_pseudo_seqtab <- t(otu_table(CoCos_pseudo))
 
-#--------------------------------------------------------------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------------------
 # ASVs
-#--------------------------------------------------------------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------------------
 
-nsam <- dim(CoCos_true_seqtab)[1]
+nsam   <- dim(CoCos_true_seqtab)[1]
 df.obs <- data.frame(observed=c(rowSums(CoCos_false_seqtab>0), rowSums(CoCos_pseudo_seqtab>0), rowSums(CoCos_true_seqtab>0)),
                      Mode=rep(c("independent", "pseudo", "pooled"), each=nsam),
                      rank=rank(rowSums(CoCos_true_seqtab>0))) #%>%
@@ -39,11 +40,11 @@ mode_comp_CocosI_detam <- ggplot(data = df.obs, aes(x = rank, y = observed, colo
   ylab("Observed ASVs") +
   ggtitle("Cocos Islands") +
   theme_bw(base_size = 12) +
-  geom_smooth(method = "lm") #+
+  geom_smooth(method = "lm")
 
 mode_signif_cocos <- ggplot(df.obs, aes(x = Mode, y = observed, color = Mode)) +
-  geom_boxplot() + # using `ggsignif` to display comparison of interest
-  geom_signif(
+  geom_boxplot() + 
+  geom_signif( # using `ggsignif` to display comparison of interest
     comparisons = list(c("independent", "pooled")),
     map_signif_level = FALSE, vjust = 3) +
   geom_signif(
@@ -56,9 +57,9 @@ mode_signif_cocos <- ggplot(df.obs, aes(x = Mode, y = observed, color = Mode)) +
   theme_bw(base_size = 12)
 
 
-#--------------------------------------------------------------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------------------
 # TAXA
-#--------------------------------------------------------------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------------------
 
 # Extract the taxa table and reformat it so that the rows are samples and columns are taxa
 reformat_tax_table <- function(phyloseq_object, taxa_column = c('domain', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'LCA')){
@@ -76,9 +77,9 @@ reformat_tax_table <- function(phyloseq_object, taxa_column = c('domain', 'phylu
   
 }
 
-#=============================================================
+#-----------------------------------------------------------------------------------------------------------------
 # Look at differences in species
-#=============================================================
+#-----------------------------------------------------------------------------------------------------------------
 
 tax_tab_false <- as.data.frame(CoCos_false@tax_table)
 length(unique((tax_tab_false$species)))
@@ -92,15 +93,15 @@ tax_tab_true <- as.data.frame(CoCos_true@tax_table)
 length(unique((tax_tab_true$species)))
 length(unique((tax_tab_true$LCA)))
 
-#=============================================================
+#-----------------------------------------------------------------------------------------------------------------
 # PLOT species
-#=============================================================
+#-----------------------------------------------------------------------------------------------------------------
 
 CoCos_false_tax  <- reformat_tax_table(CoCos_false, "species")
 CoCos_true_tax   <- reformat_tax_table(CoCos_true, "species")
 CoCos_pseudo_tax <- reformat_tax_table(CoCos_pseudo, "species")
 
-nsam <- dim(CoCos_true_tax)[1]
+nsam           <- dim(CoCos_true_tax)[1]
 df.obs_species <- data.frame(observed=c(rowSums(CoCos_false_tax>0), rowSums(CoCos_pseudo_tax>0), rowSums(CoCos_true_tax>0)),
                              Mode=rep(c("independent", "pseudo", "pooled"), each=nsam),
                              rank=rank(rowSums(CoCos_true_tax>0)), times=4) 
@@ -135,9 +136,9 @@ RS_false  <- readRDS('data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_FALSE_decont
 RS_true  <- readRDS('data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_TRUE_decontam.rds')
 RS_pseudo <- readRDS('data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_pseudo_decontam.rds')
 
-#--------------------------------------------------------------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------------------
 # ASVs
-#--------------------------------------------------------------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------------------
 RS_false_seqtab <- t(otu_table(RS_false))
 RS_true_seqtab  <- t(otu_table(RS_true))
 RS_pseudo_seqtab <- t(otu_table(RS_pseudo))
@@ -189,9 +190,9 @@ tax_tab_true <- as.data.frame(RS_true@tax_table)
 length(unique((tax_tab_true$species))) #
 length(unique((tax_tab_true$LCA))) #
 
-#=============================================================
+#-----------------------------------------------------------------------------------------------------------------
 # PLOT species
-#=============================================================
+#-----------------------------------------------------------------------------------------------------------------
 # Species
 RS_false_tax  <- reformat_tax_table(RS_false, "species")
 RS_true_tax   <- reformat_tax_table(RS_true, "species")
@@ -202,9 +203,9 @@ RS_false_tax <- RS_false_tax[!(row.names(RS_false_tax) %in% "RS1_ME_S4_1_2__sum"
 RS_true_tax <- RS_true_tax[!(row.names(RS_true_tax) %in% "RS1_ME_S4_1_2__sum"),]
 RS_pseudo_tax <- RS_pseudo_tax[!(row.names(RS_pseudo_tax) %in% "RS1_ME_S4_1_2__sum"),]
 
-#=============================================================
+#-----------------------------------------------------------------------------------------------------------------
 # PLOT
-#=============================================================
+#-----------------------------------------------------------------------------------------------------------------
 nsam <- dim(RS_true_tax)[1]
 df.obs_species <- data.frame(observed=c(rowSums(RS_false_tax>0), rowSums(RS_pseudo_tax>0), rowSums(RS_true_tax>0)),
                              Mode=rep(c("independent", "pseudo", "pooled"), each=nsam),
@@ -235,10 +236,10 @@ mode_signif_RS_species <- ggplot(df.obs_species, aes(x = Mode, y = observed, col
   theme_bw(base_size = 12)
 
 
-## add NWWA data
-NW_false  <- readRDS('data/phyloseq_objects/Pool_FALSE_KWEST_16S_phyloseq_nt_decontaminated.rds')
-NW_true  <- readRDS('data/phyloseq_objects/Pool_TRUE_KWEST_16S_phyloseq_nt_decontaminated.rds')
-NW_pseudo <- readRDS('data/phyloseq_objects/Pool_pseudo_KWEST_16S_phyloseq_nt_decontaminated.rds')
+# Add NWWA data
+NW_false  <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_FALSE_decontam.rds')
+NW_true  <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_TRUE_decontam.rds')
+NW_pseudo <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_pseudo_decontam.rds')
 
 tax_tab_false <- as.data.frame(NW_false@tax_table)
 length(unique((tax_tab_false$species))) 
@@ -259,9 +260,9 @@ NW_false <- prune_samples(samples_to_keep, NW_false)
 NW_true <- prune_samples(samples_to_keep, NW_true)
 NW_pseudo <- prune_samples(samples_to_keep, NW_pseudo)
 
-#=============================================================
+#-----------------------------------------------------------------------------------------------------------------
 # ASVs
-#=============================================================
+#-----------------------------------------------------------------------------------------------------------------
 NW_false_seqtab <- t(otu_table(NW_false))
 NW_true_seqtab  <- t(otu_table(NW_true))
 NW_pseudo_seqtab <- t(otu_table(NW_pseudo))
@@ -300,9 +301,9 @@ NW_false_tax  <- reformat_tax_table(NW_false, "species")
 NW_true_tax   <- reformat_tax_table(NW_true, "species")
 NW_pseudo_tax <- reformat_tax_table(NW_pseudo, "species")
 
-#=============================================================
+#-----------------------------------------------------------------------------------------------------------------
 # PLOT
-#=============================================================
+#-----------------------------------------------------------------------------------------------------------------
 nsam <- dim(NW_true_tax)[1]
 df.obs_species <- data.frame(observed=c(rowSums(NW_false_tax>0), rowSums(NW_pseudo_tax>0), rowSums(NW_true_tax>0)),
                              Mode=rep(c("independent", "pseudo", "pooled"), each=nsam),
@@ -333,6 +334,7 @@ mode_signif_NW_species <- ggplot(df.obs_species, aes(x = Mode, y = observed, col
   ggtitle(NULL) +
   theme_bw(base_size = 12)
 
+#-----------------------------------------------------------------------------------------------------------------
 # Create figure 2
 # Create plot grid
 plot <- plot_grid(mode_comp_CocosI_detam + theme(legend.position="none") + theme(axis.title=element_text(size=12)),
@@ -355,7 +357,7 @@ plot_grid(plot, legend, ncol = 1, rel_heights = c(1, .1))
 
 
 
-
+#-----------------------------------------------------------------------------------------------------------------
 # Create figure S6
 # Create plot grid
 plot <- plot_grid(mode_signif_cocos + theme(legend.position="none") + theme(axis.title=element_text(size=12)) + theme(axis.text.x = element_blank()),

@@ -1,4 +1,5 @@
-# Species occurance check list
+#==============================================================================
+# Species occurrence check list
 
 # Read in libraries
 library(tidyverse)
@@ -20,9 +21,9 @@ tax_false_RS <- as.data.frame(RS_false@tax_table)
 tax_pseudo_RS <- as.data.frame(RS_pseudo@tax_table)
 tax_true_RS <- as.data.frame(RS_true@tax_table)
 
-NW_false  <- readRDS('data/phyloseq_objects/Pool_FALSE_KWEST_16S_phyloseq_nt_decontaminated.rds')
-NW_true  <- readRDS('data/phyloseq_objects/Pool_TRUE_KWEST_16S_phyloseq_nt_decontaminated.rds')
-NW_pseudo <- readRDS('data/phyloseq_objects/Pool_pseudo_KWEST_16S_phyloseq_nt_decontaminated.rds')
+NW_false  <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_FALSE_decontam.rds')
+NW_true  <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_TRUE_decontam.rds')
+NW_pseudo <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_pseudo_decontam.rds')
 
 tax_false_NW <- as.data.frame(NW_false@tax_table)
 tax_pseudo_NW <- as.data.frame(NW_pseudo@tax_table)

@@ -1,3 +1,4 @@
+#==============================================================================
 # Sample counts per ASV
 
 ## Read in files
@@ -9,9 +10,9 @@ RS_pooled     <- readRDS('data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_TRUE.rds
 RS_independent <- readRDS('data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_FALSE.rds')
 RS_pseudo     <- readRDS('data/phyloseq_objects/RS21AUG_16S_phyloseq_nt_pseudo.rds')
 
-NW_pooled     <- readRDS('data/phyloseq_objects/Pool_TRUE_KWEST_16S_16S_phyloseq_nt.rds')
-NW_independent <- readRDS('data/phyloseq_objects/Pool_FALSE_KWEST_16S_16S_phyloseq_nt.rds')
-NW_pseudo     <- readRDS('data/phyloseq_objects/Pool_pseudo_KWEST_16S_16S_phyloseq_nt.rds')
+NW_pooled     <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_TRUE.rds')
+NW_independent <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_FALSE.rds')
+NW_pseudo     <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_pseudo.rds')
 
 ## Cocos Island dataset
 # Count number of samples each ASV occurs in

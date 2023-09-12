@@ -1,17 +1,16 @@
+#-----------------------------------------------------------------------------------------------------------------
+# Generate beta diversity PCA plots 
 
 # Load libraries
-library("repmis")
-library(cowplot)
 LoadandCite(pkgs=c("repmis", "knitr", "tinytex", "phyloseq", "ggplot2", 
                    "zCompositions", "propr", "compositions", "ggfortify", 
                    "ALDEx2", "EnhancedVolcano", "plyr", "microViz", "decontam", 
-                   "patchwork", "readxl", "DivNet", "dplyr"), file = "report/packages.bib")
+                   "patchwork", "readxl", "DivNet", "dplyr", "cowplot"))
 
 ## Load data
-metadata <- data.frame(read_excel(path = "data/metadata/V10_CKI_eDNA_metadata_P1.xlsx"))
-
-samples <- list()
-samples$cki_ind <- readRDS(file = "data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_FALSE.rds")
+metadata           <- data.frame(read_excel(path = "data/metadata/V10_CKI_eDNA_metadata_P1.xlsx"))
+samples            <- list()
+samples$cki_ind    <- readRDS(file = "data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_FALSE.rds")
 samples$cki_pooled <- readRDS(file = "data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_TRUE.rds")
 samples$cki_pseudo <- readRDS(file = "data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_pseudo.rds")
 
@@ -92,9 +91,9 @@ length(rownames(samples$cki_ind@otu_table))
 length(rownames(samples$cki_pseudo@otu_table)) 
 length(rownames(samples$cki_pooled@otu_table)) 
 
-saveRDS(samples$cki_ind, file = "data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_FALSE_decontaminated.rds")
-saveRDS(samples$cki_pooled, file = "data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_TRUE_decontaminated.rds")
-saveRDS(samples$cki_pseudo, file = "data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_pseudo_decontaminated.rds")
+# saveRDS(samples$cki_ind, file = "data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_FALSE_decontaminated.rds")
+# saveRDS(samples$cki_pooled, file = "data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_TRUE_decontaminated.rds")
+# saveRDS(samples$cki_pseudo, file = "data/phyloseq_objects/CoCosV10I_16S_phyloseq_nt_pseudo_decontaminated.rds")
 
 ## Transform zeros
 samples_zimp <- lapply(samples, FUN = function(x) cmultRepl(t(otu_table(x)), method = "CZM", output = "p-counts"))
