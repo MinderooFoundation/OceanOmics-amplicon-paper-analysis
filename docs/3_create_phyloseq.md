@@ -5,15 +5,17 @@
 
 Note: the paper contains three phyloseq objects for every data set. Those differ in the `pool` option of the `dada` function in `DADA2`. Run the nextflow pipeline three times, and change the `-pooled` parameter from `-pooled true` to `-pooled false` and then `-pooled pseudo`
 
+Also: the analysis needs to be started in the directory with the fastq files, so follow the `cd` command in the code snippets. This code assumes the same directory setup as based on the `2_get_data` setup steps.
+
 ### Cocos Keeling Transect   
 
 ```zsh
 conda activate nextflow
-cd ~/data
+cd ~/analysis/cocos/fastq
 
 nextflow run MinderooFoundation/OceanOmics-amplicon-nf main.nf \
-                --input ./cocos/samplesheet/samplesheet.csv \
-                --outdir ./cocos/amplicon_analysed \
+                --input ../samplesheet/samplesheet.csv \
+                --outdir ../amplicon_analysed \
                 --dbfiles /data/tools/databases/ncbi-nt/ \ # If you want to blast against NCBI nt database, you need to first download it to your machine
                 --bind_dir /data \
                 -profile docker \
@@ -25,11 +27,11 @@ nextflow run MinderooFoundation/OceanOmics-amplicon-nf main.nf \
 
 ```zsh
 conda activate nextflow
-cd ~/data
+cd ~/analysis/rowley_shoals/fastq
 
 nextflow run MinderooFoundation/OceanOmics-amplicon-nf main.nf \
-                --input ./rowley_shoals/samplesheet/samplesheet.csv \
-                --outdir ./rowley_shoals/amplicon_analysed \
+                --input ../samplesheet/samplesheet.csv \
+                --outdir ../amplicon_analysed \
                 --dbfiles /data/tools/databases/ncbi-nt/ \ # If you want to blast against NCBI nt database, you need to first download it to your machine
                 --bind_dir /data \
                 -profile docker \
@@ -41,11 +43,11 @@ nextflow run MinderooFoundation/OceanOmics-amplicon-nf main.nf \
 
 ```zsh
 conda activate nextflow
-cd ~/data
+cd ~/analysis/nwwa
 
 nextflow run MinderooFoundation/OceanOmics-amplicon-nf main.nf \
-                --input ./nw_wa/samplesheet/samplesheet.csv \
-                --outdir ./nw_wa/amplicon_analysed \
+                --input ../samplesheet/NWWA_metadata.csv \
+                --outdir ../amplicon_analysed \
                 --dbfiles /data/tools/databases/ncbi-nt/ \ # If you want to blast against NCBI nt database, you need to first download it to your machine
                 --bind_dir /data \
                 -profile docker \

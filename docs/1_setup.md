@@ -33,7 +33,7 @@ conda install -c bioconda nextflow # here we install nextflow into that environm
 This is highly recommended, even though the `nextflow` pipeline can be executed without it. `Docker` guarantees reproducibility through version control. 
 Please follow the instruction [here to install `docker`](https://docs.docker.com/engine/install/ubuntu/) for Ubuntu, or any operating system you work off. This step will require sudo/root/admin access, so if you do not have that, consult with your IT team.  
 
-Alternatively, you can also use [singularity, with detailed installation isntructions here](https://docs.sylabs.io/guides/3.5/user-guide/quick_start.html)
+Alternatively, you can also use [singularity, with detailed installation instructions here.](https://docs.sylabs.io/guides/3.5/user-guide/quick_start.html)
 
 In case you do have sudo/root/admin access:  
 ```zsh

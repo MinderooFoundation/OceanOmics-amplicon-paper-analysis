@@ -1,0 +1,304 @@
+sample,fastq_1,fastq_2,assay,site,Control,Bioregion,Subregion,Habitat
+10a,10a~Fish16S.fastq.gz,,16S,10,FALSE,Kimberley,South Kimberley,Inshore
+10b,10b~Fish16S.fastq.gz,,16S,10,FALSE,Kimberley,South Kimberley,Inshore
+10c,10c~Fish16S.fastq.gz,,16S,10,FALSE,Kimberley,South Kimberley,Inshore
+10d,10d~Fish16S.fastq.gz,,16S,10,FALSE,Kimberley,South Kimberley,Inshore
+11a,11a~Fish16S.fastq.gz,,16S,11,FALSE,Kimberley,South Kimberley,Inshore
+11b,11b~Fish16S.fastq.gz,,16S,11,FALSE,Kimberley,South Kimberley,Inshore
+11c,11c~Fish16S.fastq.gz,,16S,11,FALSE,Kimberley,South Kimberley,Inshore
+11d,11d~Fish16S.fastq.gz,,16S,11,FALSE,Kimberley,South Kimberley,Inshore
+12a,12a~Fish16S.fastq.gz,,16S,12,FALSE,Kimberley,South Kimberley,Inshore
+12b,12b~Fish16S.fastq.gz,,16S,12,FALSE,Kimberley,South Kimberley,Inshore
+12c,12c~Fish16S.fastq.gz,,16S,12,FALSE,Kimberley,South Kimberley,Inshore
+12d,12d~Fish16S.fastq.gz,,16S,12,FALSE,Kimberley,South Kimberley,Inshore
+13a,13a~Fish16S.fastq.gz,,16S,13,FALSE,Kimberley,South Kimberley,Coastal
+13b,13b~Fish16S.fastq.gz,,16S,13,FALSE,Kimberley,South Kimberley,Coastal
+13c,13c~Fish16S.fastq.gz,,16S,13,FALSE,Kimberley,South Kimberley,Coastal
+13d,13d~Fish16S.fastq.gz,,16S,13,FALSE,Kimberley,South Kimberley,Coastal
+14a,14a~Fish16S.fastq.gz,,16S,14,FALSE,Kimberley,South Kimberley,Coastal
+14b,14b~Fish16S.fastq.gz,,16S,14,FALSE,Kimberley,South Kimberley,Coastal
+14c,14c~Fish16S.fastq.gz,,16S,14,FALSE,Kimberley,South Kimberley,Coastal
+14d,14d~Fish16S.fastq.gz,,16S,14,FALSE,Kimberley,South Kimberley,Coastal
+15a,15a~Fish16S.fastq.gz,,16S,15,FALSE,Kimberley,South Kimberley,Coastal
+15b,15b~Fish16S.fastq.gz,,16S,15,FALSE,Kimberley,South Kimberley,Coastal
+15c,15c~Fish16S.fastq.gz,,16S,15,FALSE,Kimberley,South Kimberley,Coastal
+15d,15d~Fish16S.fastq.gz,,16S,15,FALSE,Kimberley,South Kimberley,Coastal
+16a,16a~Fish16S.fastq.gz,,16S,16,FALSE,Kimberley,South Kimberley,Coastal
+16b,16b~Fish16S.fastq.gz,,16S,16,FALSE,Kimberley,South Kimberley,Coastal
+16c,16c~Fish16S.fastq.gz,,16S,16,FALSE,Kimberley,South Kimberley,Coastal
+16d,16d~Fish16S.fastq.gz,,16S,16,FALSE,Kimberley,South Kimberley,Coastal
+17a,17a~Fish16S.fastq.gz,,16S,17,FALSE,Kimberley,South Kimberley,Coastal
+17b,17b~Fish16S.fastq.gz,,16S,17,FALSE,Kimberley,South Kimberley,Coastal
+17c,17c~Fish16S.fastq.gz,,16S,17,FALSE,Kimberley,South Kimberley,Coastal
+17d,17d~Fish16S.fastq.gz,,16S,17,FALSE,Kimberley,South Kimberley,Coastal
+18a,18a~Fish16S.fastq.gz,,16S,18,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+18b,18b~Fish16S.fastq.gz,,16S,18,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+18c,18c~Fish16S.fastq.gz,,16S,18,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+18d,18d~Fish16S.fastq.gz,,16S,18,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+19a,19a~Fish16S.fastq.gz,,16S,19,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+19b,19b~Fish16S.fastq.gz,,16S,19,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+19c,19c~Fish16S.fastq.gz,,16S,19,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+19d,19d~Fish16S.fastq.gz,,16S,19,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+1a,1a~Fish16S.fastq.gz,,16S,1,FALSE,Canning,Dampier Peninsula,Inshore
+1b,1b~Fish16S.fastq.gz,,16S,1,FALSE,Canning,Dampier Peninsula,Inshore
+1c,1c~Fish16S.fastq.gz,,16S,1,FALSE,Canning,Dampier Peninsula,Inshore
+1d,1d~Fish16S.fastq.gz,,16S,1,FALSE,Canning,Dampier Peninsula,Inshore
+20a,20a~Fish16S.fastq.gz,,16S,20,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+20b,20b~Fish16S.fastq.gz,,16S,20,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+20c,20c~Fish16S.fastq.gz,,16S,20,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+20d,20d~Fish16S.fastq.gz,,16S,20,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+21a,21a~Fish16S.fastq.gz,,16S,21,FALSE,Kimberley,South Kimberley,Coastal
+21b,21b~Fish16S.fastq.gz,,16S,21,FALSE,Kimberley,South Kimberley,Coastal
+21c,21c~Fish16S.fastq.gz,,16S,21,FALSE,Kimberley,South Kimberley,Coastal
+21d,21d~Fish16S.fastq.gz,,16S,21,FALSE,Kimberley,South Kimberley,Coastal
+22a,22a~Fish16S.fastq.gz,,16S,22,FALSE,Kimberley,South Kimberley,Coastal
+22b,22b~Fish16S.fastq.gz,,16S,22,FALSE,Kimberley,South Kimberley,Coastal
+22c,22c~Fish16S.fastq.gz,,16S,22,FALSE,Kimberley,South Kimberley,Coastal
+22d,22d~Fish16S.fastq.gz,,16S,22,FALSE,Kimberley,South Kimberley,Coastal
+23a,23a~Fish16S.fastq.gz,,16S,23,FALSE,Kimberley,South Kimberley,Coastal
+23b,23b~Fish16S.fastq.gz,,16S,23,FALSE,Kimberley,South Kimberley,Coastal
+23c,23c~Fish16S.fastq.gz,,16S,23,FALSE,Kimberley,South Kimberley,Coastal
+23d,23d~Fish16S.fastq.gz,,16S,23,FALSE,Kimberley,South Kimberley,Coastal
+24a,24a~Fish16S.fastq.gz,,16S,24,FALSE,Kimberley,South Kimberley,Coastal
+24b,24b~Fish16S.fastq.gz,,16S,24,FALSE,Kimberley,South Kimberley,Coastal
+24c,24c~Fish16S.fastq.gz,,16S,24,FALSE,Kimberley,South Kimberley,Coastal
+24d,24d~Fish16S.fastq.gz,,16S,24,FALSE,Kimberley,South Kimberley,Coastal
+25a,25a~Fish16S.fastq.gz,,16S,25,FALSE,Kimberley,South Kimberley,Coastal
+25b,25b~Fish16S.fastq.gz,,16S,25,FALSE,Kimberley,South Kimberley,Coastal
+25c,25c~Fish16S.fastq.gz,,16S,25,FALSE,Kimberley,South Kimberley,Coastal
+25d,25d~Fish16S.fastq.gz,,16S,25,FALSE,Kimberley,South Kimberley,Coastal
+26a,26a~Fish16S.fastq.gz,,16S,26,FALSE,Kimberley,South Kimberley,Inshore
+26b,26b~Fish16S.fastq.gz,,16S,26,FALSE,Kimberley,South Kimberley,Inshore
+26c,26c~Fish16S.fastq.gz,,16S,26,FALSE,Kimberley,South Kimberley,Inshore
+26d,26d~Fish16S.fastq.gz,,16S,26,FALSE,Kimberley,South Kimberley,Inshore
+27a,27a~Fish16S.fastq.gz,,16S,27,FALSE,Kimberley,South Kimberley,Inshore
+27b,27b~Fish16S.fastq.gz,,16S,27,FALSE,Kimberley,South Kimberley,Inshore
+27c,27c~Fish16S.fastq.gz,,16S,27,FALSE,Kimberley,South Kimberley,Inshore
+27d,27d~Fish16S.fastq.gz,,16S,27,FALSE,Kimberley,South Kimberley,Inshore
+28a,28a~Fish16S.fastq.gz,,16S,28,FALSE,Kimberley,South Kimberley,Inshore
+28b,28b~Fish16S.fastq.gz,,16S,28,FALSE,Kimberley,South Kimberley,Inshore
+28c,28c~Fish16S.fastq.gz,,16S,28,FALSE,Kimberley,South Kimberley,Inshore
+28d,28d~Fish16S.fastq.gz,,16S,28,FALSE,Kimberley,South Kimberley,Inshore
+29a,29a~Fish16S.fastq.gz,,16S,29,FALSE,Kimberley,South Kimberley,Inshore
+29b,29b~Fish16S.fastq.gz,,16S,29,FALSE,Kimberley,South Kimberley,Inshore
+29c,29c~Fish16S.fastq.gz,,16S,29,FALSE,Kimberley,South Kimberley,Inshore
+29d,29d~Fish16S.fastq.gz,,16S,29,FALSE,Kimberley,South Kimberley,Inshore
+2a,2a~Fish16S.fastq.gz,,16S,2,FALSE,Canning,Dampier Peninsula,Inshore
+2b,2b~Fish16S.fastq.gz,,16S,2,FALSE,Canning,Dampier Peninsula,Inshore
+2c,2c~Fish16S.fastq.gz,,16S,2,FALSE,Canning,Dampier Peninsula,Inshore
+2d,2d~Fish16S.fastq.gz,,16S,2,FALSE,Canning,Dampier Peninsula,Inshore
+30a,30a~Fish16S.fastq.gz,,16S,30,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+30b,30b~Fish16S.fastq.gz,,16S,30,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+30c,30c~Fish16S.fastq.gz,,16S,30,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+30d,30d~Fish16S.fastq.gz,,16S,30,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+31a,31a~Fish16S.fastq.gz,,16S,31,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+31b,31b~Fish16S.fastq.gz,,16S,31,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+31c,31c~Fish16S.fastq.gz,,16S,31,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+31d,31d~Fish16S.fastq.gz,,16S,31,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+32a,32a~Fish16S.fastq.gz,,16S,32,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+32b,32b~Fish16S.fastq.gz,,16S,32,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+32c,32c~Fish16S.fastq.gz,,16S,32,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+32d,32d~Fish16S.fastq.gz,,16S,32,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+33a,33a~Fish16S.fastq.gz,,16S,33,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+33b,33b~Fish16S.fastq.gz,,16S,33,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+33c,33c~Fish16S.fastq.gz,,16S,33,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+33d,33d~Fish16S.fastq.gz,,16S,33,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+34a,34a~Fish16S.fastq.gz,,16S,34,FALSE,Kimberley,South Kimberley,Inshore
+34b,34b~Fish16S.fastq.gz,,16S,34,FALSE,Kimberley,South Kimberley,Inshore
+34c,34c~Fish16S.fastq.gz,,16S,34,FALSE,Kimberley,South Kimberley,Inshore
+34d,34d~Fish16S.fastq.gz,,16S,34,FALSE,Kimberley,South Kimberley,Inshore
+35a,35a~Fish16S.fastq.gz,,16S,35,FALSE,Kimberley,South Kimberley,Inshore
+35b,35b~Fish16S.fastq.gz,,16S,35,FALSE,Kimberley,South Kimberley,Inshore
+35c,35c~Fish16S.fastq.gz,,16S,35,FALSE,Kimberley,South Kimberley,Inshore
+35d,35d~Fish16S.fastq.gz,,16S,35,FALSE,Kimberley,South Kimberley,Inshore
+36a,36a~Fish16S.fastq.gz,,16S,36,FALSE,Kimberley,South Kimberley,Inshore
+36b,36b~Fish16S.fastq.gz,,16S,36,FALSE,Kimberley,South Kimberley,Inshore
+36c,36c~Fish16S.fastq.gz,,16S,36,FALSE,Kimberley,South Kimberley,Inshore
+36d,36d~Fish16S.fastq.gz,,16S,36,FALSE,Kimberley,South Kimberley,Inshore
+37a,37a~Fish16S.fastq.gz,,16S,37,FALSE,Kimberley,South Kimberley,Inshore
+37b,37b~Fish16S.fastq.gz,,16S,37,FALSE,Kimberley,South Kimberley,Inshore
+37c,37c~Fish16S.fastq.gz,,16S,37,FALSE,Kimberley,South Kimberley,Inshore
+37d,37d~Fish16S.fastq.gz,,16S,37,FALSE,Kimberley,South Kimberley,Inshore
+38a,38a~Fish16S.fastq.gz,,16S,38,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+38b,38b~Fish16S.fastq.gz,,16S,38,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+38c,38c~Fish16S.fastq.gz,,16S,38,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+38d,38d~Fish16S.fastq.gz,,16S,38,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+39a,39a~Fish16S.fastq.gz,,16S,39,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+39b,39b~Fish16S.fastq.gz,,16S,39,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+39c,39c~Fish16S.fastq.gz,,16S,39,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+39d,39d~Fish16S.fastq.gz,,16S,39,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+3a,3a~Fish16S.fastq.gz,,16S,3,FALSE,Canning,Dampier Peninsula,Inshore
+3b,3b~Fish16S.fastq.gz,,16S,3,FALSE,Canning,Dampier Peninsula,Inshore
+3c,3c~Fish16S.fastq.gz,,16S,3,FALSE,Canning,Dampier Peninsula,Inshore
+3d,3d~Fish16S.fastq.gz,,16S,3,FALSE,Canning,Dampier Peninsula,Inshore
+40a,40a~Fish16S.fastq.gz,,16S,40,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+40b,40b~Fish16S.fastq.gz,,16S,40,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+40c,40c~Fish16S.fastq.gz,,16S,40,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+40d,40d~Fish16S.fastq.gz,,16S,40,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+41a,41a~Fish16S.fastq.gz,,16S,41,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+41b,41b~Fish16S.fastq.gz,,16S,41,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+41c,41c~Fish16S.fastq.gz,,16S,41,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+41d,41d~Fish16S.fastq.gz,,16S,41,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+42a,42a~Fish16S.fastq.gz,,16S,42,FALSE,Kimberley,South Kimberley,Inshore
+42b,42b~Fish16S.fastq.gz,,16S,42,FALSE,Kimberley,South Kimberley,Inshore
+42c,42c~Fish16S.fastq.gz,,16S,42,FALSE,Kimberley,South Kimberley,Inshore
+42d,42d~Fish16S.fastq.gz,,16S,42,FALSE,Kimberley,South Kimberley,Inshore
+43a,43a~Fish16S.fastq.gz,,16S,43,FALSE,Kimberley,South Kimberley,Inshore
+43b,43b~Fish16S.fastq.gz,,16S,43,FALSE,Kimberley,South Kimberley,Inshore
+43c,43c~Fish16S.fastq.gz,,16S,43,FALSE,Kimberley,South Kimberley,Inshore
+43d,43d~Fish16S.fastq.gz,,16S,43,FALSE,Kimberley,South Kimberley,Inshore
+44a,44a~Fish16S.fastq.gz,,16S,44,FALSE,Kimberley,South Kimberley,Inshore
+44b,44b~Fish16S.fastq.gz,,16S,44,FALSE,Kimberley,South Kimberley,Inshore
+44c,44c~Fish16S.fastq.gz,,16S,44,FALSE,Kimberley,South Kimberley,Inshore
+44d,44d~Fish16S.fastq.gz,,16S,44,FALSE,Kimberley,South Kimberley,Inshore
+45a,45a~Fish16S.fastq.gz,,16S,45,FALSE,Kimberley,North Kimberley,Inshore
+45b,45b~Fish16S.fastq.gz,,16S,45,FALSE,Kimberley,North Kimberley,Inshore
+45c,45c~Fish16S.fastq.gz,,16S,45,FALSE,Kimberley,North Kimberley,Inshore
+45d,45d~Fish16S.fastq.gz,,16S,45,FALSE,Kimberley,North Kimberley,Inshore
+46a,46a~Fish16S.fastq.gz,,16S,46,FALSE,Kimberley,North Kimberley,Inshore
+46b,46b~Fish16S.fastq.gz,,16S,46,FALSE,Kimberley,North Kimberley,Inshore
+46c,46c~Fish16S.fastq.gz,,16S,46,FALSE,Kimberley,North Kimberley,Inshore
+46d,46d~Fish16S.fastq.gz,,16S,46,FALSE,Kimberley,North Kimberley,Inshore
+47a,47a~Fish16S.fastq.gz,,16S,47,FALSE,Kimberley,North Kimberley,Inshore
+47b,47b~Fish16S.fastq.gz,,16S,47,FALSE,Kimberley,North Kimberley,Inshore
+47c,47c~Fish16S.fastq.gz,,16S,47,FALSE,Kimberley,North Kimberley,Inshore
+47d,47d~Fish16S.fastq.gz,,16S,47,FALSE,Kimberley,North Kimberley,Inshore
+48a,48a~Fish16S.fastq.gz,,16S,48,FALSE,Kimberley,North Kimberley,Inshore
+48b,48b~Fish16S.fastq.gz,,16S,48,FALSE,Kimberley,North Kimberley,Inshore
+48c,48c~Fish16S.fastq.gz,,16S,48,FALSE,Kimberley,North Kimberley,Inshore
+48d,48d~Fish16S.fastq.gz,,16S,48,FALSE,Kimberley,North Kimberley,Inshore
+49a,49a~Fish16S.fastq.gz,,16S,49,FALSE,Kimberley,North Kimberley,Coastal
+49b,49b~Fish16S.fastq.gz,,16S,49,FALSE,Kimberley,North Kimberley,Coastal
+49c,49c~Fish16S.fastq.gz,,16S,49,FALSE,Kimberley,North Kimberley,Coastal
+49d,49d~Fish16S.fastq.gz,,16S,49,FALSE,Kimberley,North Kimberley,Coastal
+4a,4a~Fish16S.fastq.gz,,16S,4,FALSE,Canning,Dampier Peninsula,Inshore
+4b,4b~Fish16S.fastq.gz,,16S,4,FALSE,Canning,Dampier Peninsula,Inshore
+4c,4c~Fish16S.fastq.gz,,16S,4,FALSE,Canning,Dampier Peninsula,Inshore
+4d,4d~Fish16S.fastq.gz,,16S,4,FALSE,Canning,Dampier Peninsula,Inshore
+50a,50a~Fish16S.fastq.gz,,16S,50,FALSE,Kimberley,North Kimberley,Coastal
+50b,50b~Fish16S.fastq.gz,,16S,50,FALSE,Kimberley,North Kimberley,Coastal
+50c,50c~Fish16S.fastq.gz,,16S,50,FALSE,Kimberley,North Kimberley,Coastal
+50d,50d~Fish16S.fastq.gz,,16S,50,FALSE,Kimberley,North Kimberley,Coastal
+51a,51a~Fish16S.fastq.gz,,16S,51,FALSE,Kimberley,North Kimberley,Coastal
+51b,51b~Fish16S.fastq.gz,,16S,51,FALSE,Kimberley,North Kimberley,Coastal
+51c,51c~Fish16S.fastq.gz,,16S,51,FALSE,Kimberley,North Kimberley,Coastal
+51d,51d~Fish16S.fastq.gz,,16S,51,FALSE,Kimberley,North Kimberley,Coastal
+52a,52a~Fish16S.fastq.gz,,16S,52,FALSE,Kimberley,North Kimberley,Inshore
+52b,52b~Fish16S.fastq.gz,,16S,52,FALSE,Kimberley,North Kimberley,Inshore
+52c,52c~Fish16S.fastq.gz,,16S,52,FALSE,Kimberley,North Kimberley,Inshore
+52d,52d~Fish16S.fastq.gz,,16S,52,FALSE,Kimberley,North Kimberley,Inshore
+53a,53a~Fish16S.fastq.gz,,16S,53,FALSE,Kimberley,North Kimberley,Coastal
+53b,53b~Fish16S.fastq.gz,,16S,53,FALSE,Kimberley,North Kimberley,Coastal
+53c,53c~Fish16S.fastq.gz,,16S,53,FALSE,Kimberley,North Kimberley,Coastal
+53d,53d~Fish16S.fastq.gz,,16S,53,FALSE,Kimberley,North Kimberley,Coastal
+54a,54a~Fish16S.fastq.gz,,16S,54,FALSE,Kimberley,North Kimberley,Coastal
+54b,54b~Fish16S.fastq.gz,,16S,54,FALSE,Kimberley,North Kimberley,Coastal
+54c,54c~Fish16S.fastq.gz,,16S,54,FALSE,Kimberley,North Kimberley,Coastal
+54d,54d~Fish16S.fastq.gz,,16S,54,FALSE,Kimberley,North Kimberley,Coastal
+55a,55a~Fish16S.fastq.gz,,16S,55,FALSE,Kimberley,North Kimberley,Inshore
+55b,55b~Fish16S.fastq.gz,,16S,55,FALSE,Kimberley,North Kimberley,Inshore
+55c,55c~Fish16S.fastq.gz,,16S,55,FALSE,Kimberley,North Kimberley,Inshore
+55d,55d~Fish16S.fastq.gz,,16S,55,FALSE,Kimberley,North Kimberley,Inshore
+56a,56a~Fish16S.fastq.gz,,16S,56,FALSE,Kimberley,North Kimberley,Inshore
+56b,56b~Fish16S.fastq.gz,,16S,56,FALSE,Kimberley,North Kimberley,Inshore
+56c,56c~Fish16S.fastq.gz,,16S,56,FALSE,Kimberley,North Kimberley,Inshore
+56d,56d~Fish16S.fastq.gz,,16S,56,FALSE,Kimberley,North Kimberley,Inshore
+57a,57a~Fish16S.fastq.gz,,16S,57,FALSE,Kimberley,North Kimberley,Inshore
+57b,57b~Fish16S.fastq.gz,,16S,57,FALSE,Kimberley,North Kimberley,Inshore
+57c,57c~Fish16S.fastq.gz,,16S,57,FALSE,Kimberley,North Kimberley,Inshore
+57d,57d~Fish16S.fastq.gz,,16S,57,FALSE,Kimberley,North Kimberley,Inshore
+58a,58a~Fish16S.fastq.gz,,16S,58,FALSE,Kimberley,North Kimberley,Inshore
+58b,58b~Fish16S.fastq.gz,,16S,58,FALSE,Kimberley,North Kimberley,Inshore
+58c,58c~Fish16S.fastq.gz,,16S,58,FALSE,Kimberley,North Kimberley,Inshore
+58d,58d~Fish16S.fastq.gz,,16S,58,FALSE,Kimberley,North Kimberley,Inshore
+59a,59a~Fish16S.fastq.gz,,16S,59,FALSE,Kimberley,North Kimberley,Inshore
+59b,59b~Fish16S.fastq.gz,,16S,59,FALSE,Kimberley,North Kimberley,Inshore
+59c,59c~Fish16S.fastq.gz,,16S,59,FALSE,Kimberley,North Kimberley,Inshore
+59d,59d~Fish16S.fastq.gz,,16S,59,FALSE,Kimberley,North Kimberley,Inshore
+5a,5a~Fish16S.fastq.gz,,16S,5,FALSE,Canning,Dampier Peninsula,Inshore
+5b,5b~Fish16S.fastq.gz,,16S,5,FALSE,Canning,Dampier Peninsula,Inshore
+5c,5c~Fish16S.fastq.gz,,16S,5,FALSE,Canning,Dampier Peninsula,Inshore
+5d,5d~Fish16S.fastq.gz,,16S,5,FALSE,Canning,Dampier Peninsula,Inshore
+60a,60a~Fish16S.fastq.gz,,16S,60,FALSE,Kimberley,North Kimberley,Inshore
+60b,60b~Fish16S.fastq.gz,,16S,60,FALSE,Kimberley,North Kimberley,Inshore
+60c,60c~Fish16S.fastq.gz,,16S,60,FALSE,Kimberley,North Kimberley,Inshore
+60d,60d~Fish16S.fastq.gz,,16S,60,FALSE,Kimberley,North Kimberley,Inshore
+61a,61a~Fish16S.fastq.gz,,16S,61,FALSE,Kimberley,North Kimberley,Inshore
+61b,61b~Fish16S.fastq.gz,,16S,61,FALSE,Kimberley,North Kimberley,Inshore
+61c,61c~Fish16S.fastq.gz,,16S,61,FALSE,Kimberley,North Kimberley,Inshore
+61d,61d~Fish16S.fastq.gz,,16S,61,FALSE,Kimberley,North Kimberley,Inshore
+62a,62a~Fish16S.fastq.gz,,16S,62,FALSE,Kimberley,North Kimberley,Inshore
+62b,62b~Fish16S.fastq.gz,,16S,62,FALSE,Kimberley,North Kimberley,Inshore
+62c,62c~Fish16S.fastq.gz,,16S,62,FALSE,Kimberley,North Kimberley,Inshore
+62d,62d~Fish16S.fastq.gz,,16S,62,FALSE,Kimberley,North Kimberley,Inshore
+63a,63a~Fish16S.fastq.gz,,16S,63,FALSE,Kimberley,North Kimberley,Inshore
+63b,63b~Fish16S.fastq.gz,,16S,63,FALSE,Kimberley,North Kimberley,Inshore
+63c,63c~Fish16S.fastq.gz,,16S,63,FALSE,Kimberley,North Kimberley,Inshore
+63d,63d~Fish16S.fastq.gz,,16S,63,FALSE,Kimberley,North Kimberley,Inshore
+64a,64a~Fish16S.fastq.gz,,16S,64,FALSE,Kimberley,North Kimberley,Coastal
+64b,64b~Fish16S.fastq.gz,,16S,64,FALSE,Kimberley,North Kimberley,Coastal
+64c,64c~Fish16S.fastq.gz,,16S,64,FALSE,Kimberley,North Kimberley,Coastal
+64d,64d~Fish16S.fastq.gz,,16S,64,FALSE,Kimberley,North Kimberley,Coastal
+65a,65a~Fish16S.fastq.gz,,16S,65,FALSE,Kimberley,North Kimberley,Coastal
+65b,65b~Fish16S.fastq.gz,,16S,65,FALSE,Kimberley,North Kimberley,Coastal
+65c,65c~Fish16S.fastq.gz,,16S,65,FALSE,Kimberley,North Kimberley,Coastal
+65d,65d~Fish16S.fastq.gz,,16S,65,FALSE,Kimberley,North Kimberley,Coastal
+66a,66a~Fish16S.fastq.gz,,16S,66,FALSE,Kimberley,North Kimberley,Midshelf
+66b,66b~Fish16S.fastq.gz,,16S,66,FALSE,Kimberley,North Kimberley,Midshelf
+66c,66c~Fish16S.fastq.gz,,16S,66,FALSE,Kimberley,North Kimberley,Midshelf
+66d,66d~Fish16S.fastq.gz,,16S,66,FALSE,Kimberley,North Kimberley,Midshelf
+67a,67a~Fish16S.fastq.gz,,16S,67,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+67b,67b~Fish16S.fastq.gz,,16S,67,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+67c,67c~Fish16S.fastq.gz,,16S,67,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+67d,67d~Fish16S.fastq.gz,,16S,67,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+68a,68a~Fish16S.fastq.gz,,16S,68,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+68b,68b~Fish16S.fastq.gz,,16S,68,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+68c,68c~Fish16S.fastq.gz,,16S,68,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+68d,68d~Fish16S.fastq.gz,,16S,68,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+69a,69a~Fish16S.fastq.gz,,16S,69,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+69b,69b~Fish16S.fastq.gz,,16S,69,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+69c,69c~Fish16S.fastq.gz,,16S,69,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+69d,69d~Fish16S.fastq.gz,,16S,69,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+6a,6a~Fish16S.fastq.gz,,16S,6,FALSE,Canning,Dampier Peninsula,Inshore
+6b,6b~Fish16S.fastq.gz,,16S,6,FALSE,Canning,Dampier Peninsula,Inshore
+6c,6c~Fish16S.fastq.gz,,16S,6,FALSE,Canning,Dampier Peninsula,Inshore
+6d,6d~Fish16S.fastq.gz,,16S,6,FALSE,Canning,Dampier Peninsula,Inshore
+70a,70a~Fish16S.fastq.gz,,16S,70,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+70b,70b~Fish16S.fastq.gz,,16S,70,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+70c,70c~Fish16S.fastq.gz,,16S,70,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+70d,70d~Fish16S.fastq.gz,,16S,70,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+71a,71a~Fish16S.fastq.gz,,16S,71,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+71b,71b~Fish16S.fastq.gz,,16S,71,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+71c,71c~Fish16S.fastq.gz,,16S,71,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+71d,71d~Fish16S.fastq.gz,,16S,71,FALSE,Kimberley,South Kimberley,Nearshore Estuarine
+7a,7a~Fish16S.fastq.gz,,16S,7,FALSE,Canning,Dampier Peninsula,Inshore
+7b,7b~Fish16S.fastq.gz,,16S,7,FALSE,Canning,Dampier Peninsula,Inshore
+7c,7c~Fish16S.fastq.gz,,16S,7,FALSE,Canning,Dampier Peninsula,Inshore
+7d,7d~Fish16S.fastq.gz,,16S,7,FALSE,Canning,Dampier Peninsula,Inshore
+8a,8a~Fish16S.fastq.gz,,16S,8,FALSE,Kimberley,South Kimberley,Inshore
+8b,8b~Fish16S.fastq.gz,,16S,8,FALSE,Kimberley,South Kimberley,Inshore
+8c,8c~Fish16S.fastq.gz,,16S,8,FALSE,Kimberley,South Kimberley,Inshore
+8d,8d~Fish16S.fastq.gz,,16S,8,FALSE,Kimberley,South Kimberley,Inshore
+9a,9a~Fish16S.fastq.gz,,16S,9,FALSE,Kimberley,South Kimberley,Inshore
+9b,9b~Fish16S.fastq.gz,,16S,9,FALSE,Kimberley,South Kimberley,Inshore
+9c,9c~Fish16S.fastq.gz,,16S,9,FALSE,Kimberley,South Kimberley,Inshore
+9d,9d~Fish16S.fastq.gz,,16S,9,FALSE,Kimberley,South Kimberley,Inshore
+Extbl_090718,Extbl_090718~Fish16S.fastq.gz,,16S,90718,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+Extbl_110718,Extbl_110718~Fish16S.fastq.gz,,16S,110718,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+Extbl_120718,Extbl_120718~Fish16S.fastq.gz,,16S,120718,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+Extbl_131017,Extbl_131017~Fish16S.fastq.gz,,16S,131017,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+Extbl_131118_01,Extbl_131118_01~Fish16S.fastq.gz,,16S,131118,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+Extbl_220818_03,Extbl_220818_03~Fish16S.fastq.gz,,16S,220818,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+Extbl_250917_01,Extbl_250917_01~Fish16S.fastq.gz,,16S,250917,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+Extbl_250917_02,Extbl_250917_02~Fish16S.fastq.gz,,16S,250917,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+Extbl_250917_03,Extbl_250917_03~Fish16S.fastq.gz,,16S,250917,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+Extbl_250917_04,Extbl_250917_04~Fish16S.fastq.gz,,16S,250917,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+Extbl_260917_01,Extbl_260917_01~Fish16S.fastq.gz,,16S,260917,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+Extbl_260917_02,Extbl_260917_02~Fish16S.fastq.gz,,16S,260917,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+Extbl_260917_03,Extbl_260917_03~Fish16S.fastq.gz,,16S,260917,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+Extbl_260917_04,Extbl_260917_04~Fish16S.fastq.gz,,16S,260917,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+FC_130917,FC_130917~Fish16S.fastq.gz,,16S,130917,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+FC_160917,FC_160917~Fish16S.fastq.gz,,16S,160917,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+FC_190917,FC_190917~Fish16S.fastq.gz,,16S,190917,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+FC_Glenelg,FC_Glenelg~Fish16S.fastq.gz,,16S,,TRUE,Kimberley,North Kimberley,Nearshore Estuarine
+FC_Walcott_01,FC_Walcott_01~Fish16S.fastq.gz,,16S,1,TRUE,Canning,Dampier Peninsula,Inshore

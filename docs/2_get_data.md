@@ -39,15 +39,54 @@ This is a bit different, as both the metadata and the sample fastq files are loc
 cd ~/analysis
 mkdir nwwa
 cd nwwa
-mkdir metadata fastq
+mkdir samplesheet fastq
 cd fastq
 wget -O 16S_Fish_data.zip https://datadryad.org/stash/downloads/file_stream/1140656 
 unzip 16S_Fish_data.zip
 rm 16S_Fish_data.zip
 mv  16S_Fish_data/* .
 rm -rf 16S_Fish_data
-### Setup & run amplicon pipeline
+gzip *.fastq # files need to be gzipped for pipeline
 ```
+
+#### Samplesheet
+
+The metadata samplesheet will need to be created based on the sample names and information provided in the paper and supporting material. The below R code can be used to generate it, but the metadata.csv is also part of this repository (`data/metadata/NWWA_metadata.csv`)
+
+```r
+#-----------------------------------------------------------------------------
+# Create NWWA metadata for nextflow pipeline to generate phyloseq object
+
+library(phyloseq)
+libary(tidyverse)
+
+samples <- list()
+samples$nw_false <- readRDS('data/phyloseq_objects/NWWA_16S_phyloseq_nt_FALSE.rds')
+
+
+## Format and filter data for ASVs that occur in more than 3 samples/replicates
+samples <- lapply(samples, FUN = function(x) {sample_data(x)$Sample <- rownames(sample_data(x)); return(x)})
+samples <- lapply(samples, FUN = function(x) tax_mutate(x, LCA_ASV = paste0(unname(tax_table(x)@.Data[, "LCA"]), " (", rownames(tax_table(x)), ")")))
+samples <- lapply(samples, FUN = function(y) {sample_data(y)$Control <- grepl(pattern = "Extbl|FC", x = sample_data(y)$Sample); return(y)})
+samples <- lapply(samples, FUN = function(x) filter_taxa(x, flist = function(y) sum(y >= 1) >= 3, prune = TRUE))
+samples <- lapply(samples, FUN = function(x) {sample_data(x)$Bioregion <- ifelse(sample_data(x)$site %in% 1:7, "Canning", "Kimberley"); return(x)})
+samples <- lapply(samples, FUN = function(x) {sample_data(x)$Subregion <- ifelse(sample_data(x)$site %in% 1:7, "Dampier Peninsula", 
+                                                                                 ifelse(sample_data(x)$site %in% c(8:44, 67:71), "South Kimberley", "North Kimberley")); return(x)})
+samples <- lapply(samples, FUN = function(x) {sample_data(x)$Habitat <- ifelse(sample_data(x)$site %in% c(1:12, 26:29, 34:37, 42:48, 52, 55:63), "Inshore",
+                                                                               ifelse(sample_data(x)$site %in% c(13:17, 21:25, 49:51, 53:54, 64:65), "Coastal", "Nearshore Estuarine")); return(x)})
+samples <- lapply(samples, FUN = function(x) {sample_data(x)$Habitat[sample_data(x)$site == 66] <- "Midshelf"; return(x)})
+
+
+as_tibble(sample_data(samples$nw_false)) %>%
+  mutate(sample() = rownames(sample_data(samples$nw_false))) %>%
+  mutate(fastq_1 = paste0(sample, "~Fish16S.fastq.gz")) %>% 
+  mutate(fastq_2 = "") %>%
+  select(sample, fastq_1, fastq_2, assay, site, Control, Bioregion, Subregion, Habitat) %>%
+  mutate(assay = as.character("16S")) %>%
+  write_csv("data/metadata/NWWA_metadata.csv", na = "")
+
+```
+
 
 ## Directory structure
 Now that we have all the data downloaded, which is already demultiplexed on the sample level, we should have a directory structure as such:
