@@ -14,6 +14,9 @@ conda activate nextflow # if you haven't already
 # generate the required id.csv file with the ENA ID as per nf-core/fetchngs
 echo "ERP149130" > ids.csv
 nextflow run nf-core/fetchngs -r 1.10.0 -profile docker --input ids.csv --outdir ./cocos
+
+# The data downloaded has both 12S and 16S samples. We just want the 16S samples
+cat ./cocos/samplesheet/samplesheet.csv | grep 16S > ./cocos/samplesheet/samplesheet_16S.csv
 ```
 
 ### Rowley Shoals Islands
@@ -30,6 +33,9 @@ echo "SRP420753" > ids.csv
 
 # Run the downlaod command again
 nextflow run nf-core/fetchngs -r 1.10.0 -profile docker --input ids.csv --outdir ./rowley_shoals
+
+# The data downloaded has both 12S and 16S samples. We just want the 16S samples
+cat ./rowley_shoals/samplesheet/samplesheet.csv | grep 16S > ./rowley_shoals/samplesheet/samplesheet_16S.csv
 ```
 
 ### Nort West Western Australia  
