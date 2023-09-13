@@ -14,7 +14,7 @@ conda activate nextflow
 cd ~/analysis/cocos/fastq
 
 nextflow run MinderooFoundation/OceanOmics-amplicon-nf \
-                --input ../samplesheet/samplesheet.csv \
+                --input ../samplesheet/samplesheet_16S.csv \
                 --outdir ../amplicon_analysed \
                 --dbfiles "/data/tools/databases/ncbi-nt/*" \ # If you want to blast against NCBI nt database, you need to first download it to your machine
                 --filter_table https://raw.githubusercontent.com/a4000/test_data/main/other_files/filter.csv
@@ -31,7 +31,7 @@ conda activate nextflow
 cd ~/analysis/rowley_shoals/fastq
 
 nextflow run MinderooFoundation/OceanOmics-amplicon-nf \
-                --input ../samplesheet/samplesheet.csv \
+                --input ../samplesheet/samplesheet_16S.csv \
                 --outdir ../amplicon_analysed \
                 --dbfiles "/data/tools/databases/ncbi-nt/*" \ # If you want to blast against NCBI nt database, you need to first download it to your machine
                 --filter_table https://raw.githubusercontent.com/a4000/test_data/main/other_files/filter.csv
