@@ -16,7 +16,8 @@ cd ~/analysis/cocos/fastq
 nextflow run MinderooFoundation/OceanOmics-amplicon-nf main.nf \
                 --input ../samplesheet/samplesheet.csv \
                 --outdir ../amplicon_analysed \
-                --dbfiles /data/tools/databases/ncbi-nt/ \ # If you want to blast against NCBI nt database, you need to first download it to your machine
+                --dbfiles "/data/tools/databases/ncbi-nt/*" \ # If you want to blast against NCBI nt database, you need to first download it to your machine
+                --filter_table https://raw.githubusercontent.com/a4000/test_data/main/other_files/filter.csv
                 --bind_dir /data \
                 -profile docker \
                 --skip_demux true \
@@ -32,7 +33,8 @@ cd ~/analysis/rowley_shoals/fastq
 nextflow run MinderooFoundation/OceanOmics-amplicon-nf main.nf \
                 --input ../samplesheet/samplesheet.csv \
                 --outdir ../amplicon_analysed \
-                --dbfiles /data/tools/databases/ncbi-nt/ \ # If you want to blast against NCBI nt database, you need to first download it to your machine
+                --dbfiles "/data/tools/databases/ncbi-nt/*" \ # If you want to blast against NCBI nt database, you need to first download it to your machine
+                --filter_table https://raw.githubusercontent.com/a4000/test_data/main/other_files/filter.csv
                 --bind_dir /data \
                 -profile docker \
                 --skip_demux true \
@@ -48,7 +50,8 @@ cd ~/analysis/nwwa
 nextflow run MinderooFoundation/OceanOmics-amplicon-nf main.nf \
                 --input ../samplesheet/NWWA_metadata.csv \
                 --outdir ../amplicon_analysed \
-                --dbfiles /data/tools/databases/ncbi-nt/ \ # If you want to blast against NCBI nt database, you need to first download it to your machine
+                --dbfiles "/data/tools/databases/ncbi-nt/*" \ # If you want to blast against NCBI nt database, you need to first download it to your machine
+                --filter_table https://raw.githubusercontent.com/a4000/test_data/main/other_files/filter.csv
                 --bind_dir /data \
                 -profile docker \
                 --skip_demux true \
