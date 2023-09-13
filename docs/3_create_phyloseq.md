@@ -13,7 +13,7 @@ Also: the analysis needs to be started in the directory with the fastq files, so
 conda activate nextflow
 cd ~/analysis/cocos/fastq
 
-nextflow run MinderooFoundation/OceanOmics-amplicon-nf main.nf \
+nextflow run MinderooFoundation/OceanOmics-amplicon-nf \
                 --input ../samplesheet/samplesheet.csv \
                 --outdir ../amplicon_analysed \
                 --dbfiles "/data/tools/databases/ncbi-nt/*" \ # If you want to blast against NCBI nt database, you need to first download it to your machine
@@ -30,7 +30,7 @@ nextflow run MinderooFoundation/OceanOmics-amplicon-nf main.nf \
 conda activate nextflow
 cd ~/analysis/rowley_shoals/fastq
 
-nextflow run MinderooFoundation/OceanOmics-amplicon-nf main.nf \
+nextflow run MinderooFoundation/OceanOmics-amplicon-nf \
                 --input ../samplesheet/samplesheet.csv \
                 --outdir ../amplicon_analysed \
                 --dbfiles "/data/tools/databases/ncbi-nt/*" \ # If you want to blast against NCBI nt database, you need to first download it to your machine
@@ -47,7 +47,7 @@ nextflow run MinderooFoundation/OceanOmics-amplicon-nf main.nf \
 conda activate nextflow
 cd ~/analysis/nwwa
 
-nextflow run MinderooFoundation/OceanOmics-amplicon-nf main.nf \
+nextflow run MinderooFoundation/OceanOmics-amplicon-nf \
                 --input ../samplesheet/NWWA_metadata.csv \
                 --outdir ../amplicon_analysed \
                 --dbfiles "/data/tools/databases/ncbi-nt/*" \ # If you want to blast against NCBI nt database, you need to first download it to your machine
