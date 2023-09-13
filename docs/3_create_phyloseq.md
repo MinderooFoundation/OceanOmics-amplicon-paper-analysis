@@ -1,61 +1,56 @@
-# Create Phyloseq wirh `OceanOmics-amplicon-nf`
+# Create Phyloseq with `OceanOmics-amplicon-nf`
 
 
 ## Execute the pipeline
 
-Note: the paper contains three phyloseq objects for every data set. Those differ in the `pool` option of the `dada` function in `DADA2`. Run the nextflow pipeline three times, and change the `-pooled` parameter from `-pooled true` to `-pooled false` and then `-pooled pseudo`
-
-Also: the analysis needs to be started in the directory with the fastq files, so follow the `cd` command in the code snippets. This code assumes the same directory setup as based on the `2_get_data` setup steps.
+Note: the paper contains three phyloseq objects for every data set. Those differ in the `pool` option of the `dada` function in `DADA2`. Run the nextflow pipeline three times, and change the `--pooled` parameter from `--pooled true` to `--pooled false` and then `--pooled pseudo`
 
 ### Cocos Keeling Transect   
 
 ```zsh
 conda activate nextflow
-cd ~/analysis/cocos/fastq
 
 nextflow run MinderooFoundation/OceanOmics-amplicon-nf \
-                --input ../samplesheet/samplesheet_16S.csv \
-                --outdir ../amplicon_analysed \
+                --input ./cocos/samplesheet/samplesheet_16S.csv \
+                --outdir ./cocos_amplicon_analysed \
                 --dbfiles "/data/tools/databases/ncbi-nt/*" \ # If you want to blast against NCBI nt database, you need to first download it to your machine
                 --filter_table https://raw.githubusercontent.com/a4000/test_data/main/other_files/filter.csv
                 --bind_dir /data \
                 -profile docker \
-                --skip_demux true \
-                -pooled true  # this is the option that needs to be changed to false and pseudo and re-run
+                --skip_demux \
+                --pooled true  # this is the option that needs to be changed to false and pseudo and re-run
 ```
 
 ### Rowley Shoals Islands  
 
 ```zsh
 conda activate nextflow
-cd ~/analysis/rowley_shoals/fastq
 
 nextflow run MinderooFoundation/OceanOmics-amplicon-nf \
-                --input ../samplesheet/samplesheet_16S.csv \
-                --outdir ../amplicon_analysed \
+                --input ./rowley_shoals/samplesheet/samplesheet_16S.csv \
+                --outdir ./rowley_shoals_amplicon_analysed \
                 --dbfiles "/data/tools/databases/ncbi-nt/*" \ # If you want to blast against NCBI nt database, you need to first download it to your machine
                 --filter_table https://raw.githubusercontent.com/a4000/test_data/main/other_files/filter.csv
                 --bind_dir /data \
                 -profile docker \
-                --skip_demux true \
-                -pooled true  # this is the option that needs to be changed to false and pseudo and re-run
+                --skip_demux \
+                --pooled true  # this is the option that needs to be changed to false and pseudo and re-run
 ```
 
 ### North West Western Australia  
 
 ```zsh
 conda activate nextflow
-cd ~/analysis/nwwa
 
 nextflow run MinderooFoundation/OceanOmics-amplicon-nf \
-                --input ../samplesheet/NWWA_metadata.csv \
-                --outdir ../amplicon_analysed \
+                --input ./nwwa/samplesheet/NWWA_metadata.csv \
+                --outdir ./nwwa_amplicon_analysed \
                 --dbfiles "/data/tools/databases/ncbi-nt/*" \ # If you want to blast against NCBI nt database, you need to first download it to your machine
                 --filter_table https://raw.githubusercontent.com/a4000/test_data/main/other_files/filter.csv
                 --bind_dir /data \
                 -profile docker \
-                --skip_demux true \
-                -pooled true  # this is the option that needs to be changed to false and pseudo and re-run
+                --skip_demux \
+                --pooled true  # this is the option that needs to be changed to false and pseudo and re-run
 ```
 
 ## Optionally: Download the `MinderooFoundation/OceanOmics-amplicon-nf`
