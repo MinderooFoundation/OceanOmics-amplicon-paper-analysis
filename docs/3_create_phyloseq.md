@@ -18,6 +18,7 @@ nextflow run MinderooFoundation/OceanOmics-amplicon-nf \
                 --bind_dir /data \
                 -profile docker \
                 --skip_demux \
+                --skip_zotus \
                 --pooled true  # this is the option that needs to be changed to false and pseudo and re-run
 ```
 
@@ -34,6 +35,7 @@ nextflow run MinderooFoundation/OceanOmics-amplicon-nf \
                 --bind_dir /data \
                 -profile docker \
                 --skip_demux \
+                --skip_zotus \
                 --pooled true  # this is the option that needs to be changed to false and pseudo and re-run
 ```
 
@@ -50,6 +52,7 @@ nextflow run MinderooFoundation/OceanOmics-amplicon-nf \
                 --bind_dir /data \
                 -profile docker \
                 --skip_demux \
+                --skip_zotus \
                 --pooled true  # this is the option that needs to be changed to false and pseudo and re-run
 ```
 
