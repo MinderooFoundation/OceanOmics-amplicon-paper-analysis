@@ -16,7 +16,8 @@ echo "ERP149130" > ids.csv
 nextflow run nf-core/fetchngs -r 1.10.0 -profile docker --input ids.csv --outdir ./cocos
 
 # The data downloaded has both 12S and 16S samples. We just want the 16S samples
-cat ./cocos/samplesheet/samplesheet.csv | grep 16S > ./cocos/samplesheet/samplesheet_16S.csv
+head ./cocos/samplesheet/samplesheet.csv -n 1 > ./cocos/samplesheet/samplesheet_16S.csv
+cat ./cocos/samplesheet/samplesheet.csv | grep 16S >> ./cocos/samplesheet/samplesheet_16S.csv
 ```
 
 ### Rowley Shoals Islands
@@ -35,7 +36,8 @@ echo "SRP420753" > ids.csv
 nextflow run nf-core/fetchngs -r 1.10.0 -profile docker --input ids.csv --outdir ./rowley_shoals
 
 # The data downloaded has both 12S and 16S samples. We just want the 16S samples
-cat ./rowley_shoals/samplesheet/samplesheet.csv | grep 16S > ./rowley_shoals/samplesheet/samplesheet_16S.csv
+head ./rowley_shoals/samplesheet/samplesheet.csv -n 1 > ./rowley_shoals/samplesheet/samplesheet_16S.csv
+cat ./rowley_shoals/samplesheet/samplesheet.csv | grep 16S >> ./rowley_shoals/samplesheet/samplesheet_16S.csv
 ```
 
 ### Nort West Western Australia  
